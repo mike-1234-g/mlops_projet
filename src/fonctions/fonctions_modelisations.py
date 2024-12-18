@@ -2,7 +2,6 @@ import os
 from dotenv import load_dotenv
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
-from sklearn import tree
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 import pandas as pd
@@ -72,15 +71,39 @@ def Grid_Search_RFR(X_train, y_train):
     """
     param_grid = {
     'n_estimators': [50, 100, 200],
-    'max_depth': [None, 10, 20],
+    'max_depth': [10, 20],
     'min_samples_split': [2, 5, 10],
     'min_samples_leaf': [1, 2, 4],
-    'max_features': ['auto', 'sqrt'],
+    'max_features': ['log2', 'sqrt'],
     'bootstrap': [True, False]
     }
 
     random_forest = RandomForestRegressor(random_state=42)
     grid_search = GridSearchCV(random_forest,param_grid,cv=5,scoring='r2',n_jobs=7)
+    grid_search.fit(X_train, y_train)
+    best_model = grid_search.best_estimator_
+
+    results = pd.DataFrame(grid_search.cv_results_)
+
+    # Trier les résultats par la meilleure performance (MSE le plus élevé)
+    best_results = results.sort_values(by='mean_test_score', ascending=False)
+
+    # Afficher les 10 meilleures combinaisons d'hyperparamètres
+    top_10_params = best_results[['params', 'mean_test_score']].head(10)
+    print(top_10_params)
+
+    return best_model
+
+def Grid_Search_LR(X_train, y_train):
+    """
+    Compute le RandomForestRegressor en appliquant un GridSearchCV
+    """
+    param_grid = {
+    'fit_intercept': [True, False]
+    }
+
+    linear_regressor = LinearRegression()
+    grid_search = GridSearchCV(linear_regressor,param_grid,cv=5,scoring='r2',n_jobs=7)
     grid_search.fit(X_train, y_train)
     best_model = grid_search.best_estimator_
 
@@ -130,15 +153,11 @@ def main():
     """
     """
     df = pd.read_csv(f'{wd}/data/data_year/DKHousing_1999.csv')
-    print(len(df))
     df_v1 = data_v1(df)
     X_train, X_test, y_train, y_test = Create_Train_Test(df_v1)
-    params = {'max_depth': 10}
-    RFR_fit = random_forest_regressor(X_train, y_train, params=params)
-    print(RFR_fit.get_params())
-    LR_fit = linear_regressor(X_train, y_train)
-    print(LR_fit.get_params())
-    print("RFR Score:", Score(RFR_fit, X_test, y_test))
-    print("LR Score:", Score(LR_fit, X_test, y_test))
+    best_RFR = Grid_Search_RFR(X_train, y_train)
+    dico_metrics = Score(best_RFR, X_test, y_test)
+    print(dico_metrics)
+
 
 main()

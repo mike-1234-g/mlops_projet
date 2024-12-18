@@ -1,9 +1,6 @@
 import os
 from dotenv import load_dotenv
 import pandas as pd
-import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 load_dotenv()
 wd = os.getenv("working_directory")
 
@@ -23,6 +20,23 @@ def dico_generate_dataframe_year(df):
     df_per_year = {year: df_year.drop(columns=['year']) for year, df_year in df.groupby('year')}
     return df_per_year
 
+def load_concat_year():
+    """
+    Charge les fichiers concat en csv
+    """
+
+    for year in list(range(1992, 2022 + 1)):
+        df_year_name = f'{wd}/data/data_year/DKHousing_{year}.csv'
+        if year == 1992:
+            df_master = pd.read_csv(df_year_name)
+            
+        else : 
+            df_master = pd.read_parquet(f'{wd}/data/concat_year/DKHousing_1992_{year-1}.parquet')
+            df = pd.read_csv(df_year_name)
+            df_master = pd.concat((df_master, df),axis=0)
+        
+        df_master.to_parquet(f'{wd}/data/concat_year/DKHousing_1992_{year}.parquet', index=False)
+
 def load_to_csv(dico):
     """
     Charge chaque dataframe en csv
@@ -30,7 +44,7 @@ def load_to_csv(dico):
     for year, df_year in dico.items():
         df_year.to_csv(f'{wd}/data/data_year/DKHousing_{year}.csv', index=False)
 
-def main():
+def GEN_DF_BY_YEAR():
     """
     """
     df = load_parquet()
@@ -38,4 +52,6 @@ def main():
     del df
     load_to_csv(dico_year)
 
+def main():
+    load_concat_year()
 main()
