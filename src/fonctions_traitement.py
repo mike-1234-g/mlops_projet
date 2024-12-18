@@ -4,7 +4,11 @@ import matplotlib.pyplot as plt
 from scipy.stats import zscore
 import numpy as np
 
-bdd = pd.read_csv("../Datas/bases/DKHousingPricesSample100k.csv")
+# variables d'environnement
+import os
+from dotenv import load_dotenv
+load_dotenv()
+wd = os.getenv("working_directory")
 
 def col_modifs(df):
     df["Annee"] = df["date"].astype(str).str[:4]
@@ -14,8 +18,6 @@ def col_modifs(df):
 
     df_new = df.drop(columns=["house_id","date","quarter","%_change_between_offer_and_purchase","address"])
     return df_new
-
-bdd_nv = col_modifs(bdd)
 
 # données manquantes
 
@@ -45,7 +47,7 @@ def vis_manquantes(df):
 
 def supp_mq(df):
     df.dropna(inplace=True)
-    df.to_csv("../Datas/versions_data/data_sans_na.csv", index=False)
+    df.to_csv(f"{wd}/data/versions_data/data_sans_na.csv", index=False)
 
 # données abérrantes
 
@@ -110,8 +112,6 @@ def detect_outliers_zscore(df, threshold=3):
         # df.drop(outliers.loc[outliers==True].index, inplace=True)
 
     return outlier_info
-
-detect_outliers_zscore(bdd_nv)
 
 # regroupements
 
