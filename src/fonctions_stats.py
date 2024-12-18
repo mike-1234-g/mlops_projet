@@ -5,9 +5,23 @@ import seaborn as sns
 from scipy.stats import chi2_contingency
 from pandas.plotting import table
 
-bdd = pd.read_csv("../Datas/bases/DKHousingPricesSample100k.csv")
+# variables d'environnement
+import os
+from dotenv import load_dotenv
+load_dotenv()
+wd = os.getenv("working_directory")
+
+bdd = pd.read_parquet(f"{wd}/data/versions_data/data_v2.parquet")
 
 # histogramme des variables qualitatives
+
+print(bdd.columns)
+
+def distinct_par_var(df):
+    for colonne in df.columns:
+        if colonne in ["house_type","sales_type","area","region"]: # pas mis city pcq plus de 800 modalités
+            valeurs_uniques = df[colonne].unique()
+            print(f"Modalités '{colonne}': {valeurs_uniques}")
 
 def stats_graphs(df): # pour toute les variables quali de la base
     for colonne in df:
@@ -23,11 +37,7 @@ def stats_graphs(df): # pour toute les variables quali de la base
             plt.title(colonne)
             plt.savefig(f"../stats/histogram_stats/{colonne}.pdf")
 
-stats_graphs(bdd)
-
 # Faire des graphiques (nuages de points) entre les variables explicatives quantitatives et la variable expliquée pour les regroupements
-
-bdd = pd.read_csv("../Datas/bases/DKHousingPricesSample100k.csv")
 
 def scatter_plot(df):
     for colonne in df:
