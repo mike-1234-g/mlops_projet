@@ -1,10 +1,12 @@
 import os
 from dotenv import load_dotenv
 from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 from sklearn import tree
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.linear_model import LinearRegression
 import pandas as pd
+import numpy as np
 from fonctions_traitement import data_v1
 load_dotenv()
 wd = os.getenv("working_directory")
@@ -74,14 +76,49 @@ def random_forest_regressor(X_train, y_train, params=None):
     
     return model
 
+def linear_regressor(X_train, y_train, params=None):
+    """
+    Compute Linear Regressor et retourne le modèle entrainé 
+    """
+    if params is None:
+        params = {}
+    model = LinearRegression(**params).fit(X_train, y_train)
+
+    return model
+
+def MAPE(y_true, y_pred):
+    return np.mean(np.abs((y_true - y_pred)/y_true))*100
+
+def Score(model, X_test, y_test):
+    """
+    Calcul les métriques de qualité des modeles de régression
+    R², RMSE, MAE, MAPE
+    """
+    y_pred = model.predict(X_test)
+
+    r2 = r2_score(y_test, y_pred)
+    rmse = np.sqrt(mean_squared_error(y_test, y_pred))
+    mae = mean_absolute_error(y_test, y_pred) 
+    mape = MAPE(y_test, y_pred)
+
+    dico_metrics={"R2":r2, "RMSE":float(rmse), "MAE": mae, "MAPE": float(mape)}
+    
+    return dico_metrics 
+
+
 def main():
     """
     """
     df = pd.read_csv(f'{wd}/data/data_year/DKHousing_1999.csv')
+    print(len(df))
     df_v1 = data_v1(df)
     X_train, X_test, y_train, y_test = Create_Train_Test(df_v1)
     params = {'max_depth': 10}
     RFR_fit = random_forest_regressor(X_train, y_train, params=params)
-    print(RFR_fit.predict(X_test))
-    
+    print(RFR_fit.get_params())
+    LR_fit = linear_regressor(X_train, y_train)
+    print(LR_fit.get_params())
+    print("RFR Score:", Score(RFR_fit, X_test, y_test))
+    print("LR Score:", Score(LR_fit, X_test, y_test))
+
 main()
