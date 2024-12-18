@@ -4,6 +4,12 @@ import matplotlib.pyplot as plt
 from scipy.stats import zscore
 import numpy as np
 
+# variables d'environnement
+import os
+from dotenv import load_dotenv
+load_dotenv()
+wd = os.getenv("working_directory")
+
 bdd = pd.read_csv("../Datas/bases/DKHousingPricesSample100k.csv")
 
 def col_modifs(df):
