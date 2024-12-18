@@ -15,8 +15,6 @@ bdd = pd.read_parquet(f"{wd}/data/versions_data/data_v2.parquet")
 
 # histogramme des variables qualitatives
 
-print(bdd.columns)
-
 def distinct_par_var(df):
     for colonne in df.columns:
         if colonne in ["house_type","sales_type","area","region"]: # pas mis city pcq plus de 800 modalités
@@ -37,15 +35,4 @@ def stats_graphs(df): # pour toute les variables quali de la base
             plt.title(colonne)
             plt.savefig(f"../stats/histogram_stats/{colonne}.pdf")
 
-# Faire des graphiques (nuages de points) entre les variables explicatives quantitatives et la variable expliquée pour les regroupements
-
-def scatter_plot(df):
-    for colonne in df:
-        if colonne not in ["mettre les quantis"]:
-            plt.figure(figsize=(8, 6))  
-            plt.scatter(bdd['sqm'], bdd[colonne], color='blue', marker='o')
-            plt.xlabel('sqm') 
-            plt.ylabel(colonne)
-            plt.title(f'Scatter Plot between sqm and {colonne}') 
-            plt.grid(True) 
-            plt.show()
+stats_graphs(bdd)
