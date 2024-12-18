@@ -3,19 +3,18 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 from scipy.stats import zscore
 import numpy as np
-
 # variables d'environnement
 import os
 from dotenv import load_dotenv
 load_dotenv()
 wd = os.getenv("working_directory")
 
-bdd = pd.read_parquet(f"{wd}/data/bases/DKHousingPrices.parquet")
-
-def data_v1(df):
+def data_v1(bdd):
     """
     Transformation du df au format data_v1
     """
+    df = bdd.copy()
+    df.dropna(inplace=True)
     df["Mois"] = df["date"].astype(str).str[5:7]
     df['Mois'] = pd.to_numeric(df['Mois'], errors='coerce')
     df["Annee"] = df["date"].astype(str).str[:4]
@@ -32,34 +31,35 @@ def load_to_parquet(df):
     """
     """
     df.to_parquet(f"{wd}/data/versions_data/data_v1.parquet", index=False)
-data1 = data_v1(bdd)
+
+def load():
+    """
+    """
+    bdd = pd.read_parquet(f"{wd}/data/bases/DKHousingPrices.parquet")
+    data_V1 = data_v1(bdd)
+    load_to_parquet(data_V1)
+
 
 # données manquantes
 
-def pct_mq(df):
-    taille_bdd = len(df)
-    nb_lignes_avec_na = df.isna().any(axis=1).sum()
-    pct_na = round(nb_lignes_avec_na/taille_bdd*100,2)
-    print(f"Pct avec données manquantes : {pct_na}%")
+# def pct_mq(df):
+#     taille_bdd = len(df)
+#     nb_lignes_avec_na = df.isna().any(axis=1).sum()
+#     pct_na = round(nb_lignes_avec_na/taille_bdd*100,2)
+#     print(f"Pct avec données manquantes : {pct_na}%")
 
-    # données manquantes représentent 0.08% de la database
+#     # données manquantes représentent 0.08% de la database
 
-def pct_mq_col(df):
-    taille_bdd = len(df)
-    nb_na = df.isna().sum()
-    print(nb_na/taille_bdd*100)
+# def pct_mq_col(df):
+#     taille_bdd = len(df)
+#     nb_na = df.isna().sum()
+#     print(nb_na/taille_bdd*100)
 
-    # données mq présentes dans les colonnes city, df_ann_inf_rate et yield_on_mortgage 
+#     # données mq présentes dans les colonnes city, df_ann_inf_rate et yield_on_mortgage 
 
-def vis_manquantes(df):
-    bdd_na_vis = df[df.isnull().any(axis=1)]
-    print(bdd_na_vis.head(10))
-
-def data_v2(df):
-    df.dropna(inplace=True)
-    df.to_parquet(f"{wd}/data/versions_data/data_v2.parquet", index=False)
-
-data_v2(data1)
+# def vis_manquantes(df):
+#     bdd_na_vis = df[df.isnull().any(axis=1)]
+#     print(bdd_na_vis.head(10))
 
 # données abérrantes
 
