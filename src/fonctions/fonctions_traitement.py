@@ -13,6 +13,9 @@ wd = os.getenv("working_directory")
 bdd = pd.read_parquet(f"{wd}/data/bases/DKHousingPrices.parquet")
 
 def data_v1(df):
+    """
+    Transformation du df au format data_v1
+    """
     df["Mois"] = df["date"].astype(str).str[5:7]
     df['Mois'] = pd.to_numeric(df['Mois'], errors='coerce')
     df["Annee"] = df["date"].astype(str).str[:4]
@@ -22,9 +25,13 @@ def data_v1(df):
     df["Anciennete"] = df["Annee"]-df["year_build"]
 
     df_new = df.drop(columns=["house_id","date","quarter","%_change_between_offer_and_purchase","city","address","zip_code","sqm_price"])
-    df_new.to_parquet(f"{wd}/data/versions_data/data_v1.parquet", index=False)
+    
     return df_new
 
+def load_to_parquet(df):
+    """
+    """
+    df.to_parquet(f"{wd}/data/versions_data/data_v1.parquet", index=False)
 data1 = data_v1(bdd)
 
 # données manquantes
