@@ -18,7 +18,6 @@ def load_csv():
     df = pd.read_csv(f'{wd}/data/bases/DKHousingPricesSample100k.csv')
     return df
 
-
 def dico_generate_dataframe_year(df):
     """
     Génère un dico year:df_year pour chaque année de 1992 à 2024
@@ -27,6 +26,46 @@ def dico_generate_dataframe_year(df):
     df['year'] = df['date'].dt.year
     df_per_year = {year: df_year.drop(columns=['year']) for year, df_year in df.groupby('year')}
     return df_per_year
+
+
+def load_train_by_year():
+    """
+    Charge les dataframes d'entrainement par année en csv dans /data/train_data_year
+    """
+    def load_train_by_year_to_csv(dico):
+        """
+        Charge chaque dataframe (du dico de la fonction dico_generate_dataframe_year) en csv
+        """
+        for year, df_year in dico.items():
+            df_year.to_csv(f'{wd}/data/train_data_year/DKHousing_{year}.csv', index=False)
+
+    df = load_csv()
+    dico_year = dico_generate_dataframe_year(df)
+    load_train_by_year_to_csv(dico_year)
+
+def load_predict_for_year(years):
+    """
+    Charge les dataframes qui vont servier aux prédictions pour les années passées en argument
+    """
+    def keep_years(dico):
+        """
+        Supprime les clés qui ne sont pas dans la liste years
+        """
+        dico_keep_years = {cle: dico[cle] for cle in years if cle in dico}
+        return dico_keep_years
+    
+    def load_predict_to_csv(dico):
+        """
+        Charge les dataframes du dico en csv dans data/predict_year
+        """
+        for year, df_year in dico.items():
+            df_year.to_csv(f'{wd}/data/predict_year/predict_DKHousing_{year}.csv', index=False)
+
+    df = load_parquet()
+    dico = dico_generate_dataframe_year(df)
+    dico_keep_years = keep_years(dico)
+    load_predict_to_csv(dico_keep_years)
+
 
 def load_concat_year():
     """
@@ -45,21 +84,7 @@ def load_concat_year():
         
         df_master.to_csv(f'{wd}/data/train_concat_year/DKHousing_1992_{year}.csv', index=False)
 
-def load_to_csv(dico):
-    """
-    Charge chaque dataframe en csv
-    """
-    for year, df_year in dico.items():
-        df_year.to_csv(f'{wd}/data/train_data_year/DKHousing_{year}.csv', index=False)
-
-def GEN_DF_BY_YEAR():
-    """
-    """
-    df = load_csv()
-    dico_year = dico_generate_dataframe_year(df)
-    del df
-    load_to_csv(dico_year)
-
 def main():
-    load_concat_year()
+    years = [2021, 2022, 2023]
+    load_predict_for_year(years)
 main()
