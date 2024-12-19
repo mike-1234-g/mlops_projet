@@ -37,11 +37,11 @@ def Grid_Search_RFR(X_train, y_train):
     }
 
     random_forest = RandomForestRegressor(random_state=42)
-    grid_search = GridSearchCV(random_forest,param_grid,cv=3,scoring='r2',n_jobs=4)
-    grid_search.fit(X_train, y_train)
-    best_model = grid_search.best_estimator_
+    grid_search = GridSearchCV(random_forest,param_grid,cv=4,scoring='r2',n_jobs=6)
+    grid_search_fit = grid_search.fit(X_train, y_train)
+    best_model = grid_search_fit.best_estimator_
 
-    return random_forest, best_model
+    return grid_search, best_model
 
 def Grid_Search_LR(X_train, y_train):
     """
@@ -53,10 +53,10 @@ def Grid_Search_LR(X_train, y_train):
 
     linear_regressor = LinearRegression()
     grid_search = GridSearchCV(linear_regressor,param_grid,cv=5,scoring='r2',n_jobs=5)
-    grid_search.fit(X_train, y_train)
-    best_model = grid_search.best_estimator_
+    grid_search_fit = grid_search.fit(X_train, y_train)
+    best_model = grid_search_fit.best_estimator_
 
-    return linear_regressor, best_model
+    return grid_search, best_model
 
 def random_forest_regressor(params=None):
     """
@@ -99,19 +99,13 @@ def Score(model, X_test, y_test):
 def main():
     """
     """
-    df = pd.read_parquet(f'{wd}/data/concat_year/DKHousing_1992_2021.parquet')
+    df = pd.read_csv(f'{wd}/data/train_concat_year/DKHousing_1992_2022.csv')
     df_v1 = data_v1(df)
     X_train, X_test, y_train, y_test = Create_Train_Test(df_v1)
-    params = {'bootstrap': False,
-              'criterion': 'squared_error',
-              'max_depth': 30,
-              'max_features': 'sqrt',
-              'min_samples_split': 4,
-              'n_estimators': 200}
-    RFR = random_forest_regressor(params)
-    RFR_fit = RFR.fit(X_train, y_train)
-    dico_metrics = Score(RFR, X_test, y_test)
-    print(RFR.get_params())
+    GS_RFR, best_RFR = Grid_Search_RFR(X_train, y_train)
+    dico_metrics = Score(best_RFR, X_test, y_test)
+    print(best_RFR.get_params())
     print(dico_metrics)
+
 
 
