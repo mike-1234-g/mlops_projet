@@ -1,0 +1,1272 @@
+date,quarter,house_id,house_type,sales_type,year_build,purchase_price,%_change_between_offer_and_purchase,no_rooms,sqm,sqm_price,address,zip_code,city,area,region,nom_interest_rate%,dk_ann_infl_rate%,yield_on_mortgage_credit_bonds%
+1994-12-31,1994Q4,1449833,Summerhouse,regular_sale,1982,269000,0.0,2,44.0,6113.636,Islandsvej 14,3310,Alsted,North Zealand,Zealand,5.0,1.99,8.39
+1994-12-31,1994Q4,1449850,Villa,family_sale,1848,458827,0.0,5,190.0,2414.879,Mølmark 7,6310,Broager,South jutland,Jutland,5.0,1.99,8.39
+1994-12-31,1994Q4,1449839,Farm,regular_sale,1877,495220,0.0,4,105.0,4716.381,Onsbjerg Vestermark 3,8305,Samsø,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-30,1994Q4,1449878,Villa,other_sale,1971,372355,0.0,5,165.0,2256.697,Manbjergvej 33,8541,Skødstrup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-29,1994Q4,1449896,Apartment,other_sale,1930,420000,0.0,3,92.0,4565.2173,"Asterbro 80, 1. tv",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-12-29,1994Q4,1449914,Villa,regular_sale,1997,257000,0.0,7,310.0,829.0323,Agerkrogvej 1A,6862,Tistrup,South jutland,Jutland,5.0,1.99,8.39
+1994-12-29,1994Q4,1449904,Villa,regular_sale,1918,304000,0.0,6,205.0,1482.9269,Annagade 5,4220,Korsør,Other islands,Zealand,5.0,1.99,8.39
+1994-12-29,1994Q4,1449891,Villa,regular_sale,1971,991562,0.0,4,135.0,7344.904,Hedager 22,2670,Greve,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-29,1994Q4,1449899,Apartment,other_sale,1966,420000,0.0,3,86.0,4883.7207,"Rosengården 10, 1. th",9200,Aalborg SV,North jutland,Jutland,5.0,1.99,8.39
+1994-12-28,1994Q4,1449937,Villa,family_sale,1995,2850000,0.0,6,186.0,15322.581,Skodsborgvej 136A,2840,Holte,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-28,1994Q4,1449921,Townhouse,regular_sale,1917,303599,0.0,3,96.0,3162.4895,Poulas Alle 35,4400,Kalundborg,Other islands,Zealand,5.0,1.99,8.39
+1994-12-28,1994Q4,1449936,Villa,regular_sale,1917,657360,0.0,5,140.0,4695.4287,Villavej 30,8870,Langå,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-27,1994Q4,1449975,Apartment,regular_sale,1897,1170000,0.0,4,126.0,9285.714,"Vestergade 34B, 1. 2",4850,Stubbekøbing,Other islands,Zealand,5.0,1.99,8.39
+1994-12-27,1994Q4,1449955,Farm,family_sale,1935,2957000,0.0,12,328.0,9015.244,Hyvildvej 50A,7330,Brande,South jutland,Jutland,5.0,1.99,8.39
+1994-12-27,1994Q4,1449981,Villa,regular_sale,1977,590000,0.0,7,238.0,2478.9917,Kærvang 9,9850,Hirtshals,North jutland,Jutland,5.0,1.99,8.39
+1994-12-26,1994Q4,1450013,Villa,regular_sale,1970,1239335,0.0,6,174.0,7122.6147,Agertoften 31,4320,Lejre,Other islands,Zealand,5.0,1.99,8.39
+1994-12-26,1994Q4,1449992,Villa,regular_sale,1977,764000,0.0,4,118.0,6474.576,Fyrrevej 31,4632,Bjæverskov,Other islands,Zealand,5.0,1.99,8.39
+1994-12-26,1994Q4,1449986,Farm,family_sale,1872,2778000,0.0,14,450.0,6173.3335,Kristianssædevej 46,4930,Maribo,Other islands,Zealand,5.0,1.99,8.39
+1994-12-25,1994Q4,1450024,Farm,family_sale,1873,1500000,0.0,9,272.0,5514.706,Hjallerupvej 22,9320,Hjallerup,North jutland,Jutland,5.0,1.99,8.39
+1994-12-22,1994Q4,1450057,Villa,regular_sale,1907,510000,0.0,8,161.0,3167.702,Højskolevej 28,7100,Vejle,South jutland,Jutland,5.0,1.99,8.39
+1994-12-21,1994Q4,1450118,Apartment,regular_sale,1900,1250000,0.0,2,77.0,16233.767,"Sønderbrogade 73, 1. th",8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-21,1994Q4,1450070,Apartment,regular_sale,1908,3400000,0.0,3,84.0,40476.19,"Amaliegade 6, 4. th",8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-21,1994Q4,1450084,Villa,regular_sale,1971,759543,0.0,5,136.0,5584.875,Tammosevej 74,3320,Skævinge,North Zealand,Zealand,5.0,1.99,8.39
+1994-12-21,1994Q4,1450077,Apartment,regular_sale,1912,750000,0.0,5,108.0,6944.4443,"Emil Møllers Gade 80, 1",8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-21,1994Q4,1450079,Villa,regular_sale,1930,535000,0.0,6,154.0,3474.026,Havevej 3,8840,Rødkærsbro,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-20,1994Q4,1450151,Farm,regular_sale,1899,693000,0.0,5,269.0,2576.2083,Sønderskovvej 14,6800,Varde,South jutland,Jutland,5.0,1.99,8.39
+1994-12-20,1994Q4,1450199,Villa,family_sale,1959,700000,0.0,5,116.0,6034.483,Terp Skovvej 107,8270,Højbjerg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-20,1994Q4,1450219,Villa,regular_sale,1977,601000,0.0,4,124.0,4846.7744,Anfangervej 5,4684,Holmegaard,Other islands,Zealand,5.0,1.99,8.39
+1994-12-20,1994Q4,1450217,Townhouse,other_sale,1976,427531,0.0,4,126.0,3393.1033,Kildeparken 140,6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-20,1994Q4,1450179,Villa,regular_sale,1929,791000,0.0,5,173.0,4572.2544,Hunderupvænget 4,5230,Odense M,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-12-20,1994Q4,1450177,Villa,family_sale,1925,255000,0.0,4,103.0,2475.7283,Foldingbrovej 19,6230,Rødekro,South jutland,Jutland,5.0,1.99,8.39
+1994-12-19,1994Q4,1450302,Villa,regular_sale,1777,281000,0.0,5,118.0,2381.356,Møllebjergvej 13,5471,Søndersø,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-12-19,1994Q4,1450257,Townhouse,regular_sale,1977,558823,0.0,5,110.0,5080.209,Havremarken 30,6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-19,1994Q4,1450233,Farm,family_sale,1800,2136290,0.0,4,196.0,10899.438,Stokkebrovej 5,5672,Broby,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-12-18,1994Q4,1450359,Villa,regular_sale,1907,2095400,0.0,6,234.0,8954.701,Gammel Strandvej 225,3060,Espergærde,North Zealand,Zealand,5.0,1.99,8.39
+1994-12-18,1994Q4,1450313,Villa,regular_sale,1973,654000,0.0,5,160.0,4087.5,Teglværksvej 30,7323,Give,South jutland,Jutland,5.0,1.99,8.39
+1994-12-18,1994Q4,1450325,Villa,regular_sale,1914,400000,0.0,4,136.0,2941.1765,Nysum Byvej 28,9610,Nørager,North jutland,Jutland,5.0,1.99,8.39
+1994-12-17,1994Q4,1450383,Villa,regular_sale,1964,770000,0.0,5,167.0,4610.7783,Bøgevej 28,8382,Hinnerup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-17,1994Q4,1450382,Villa,regular_sale,1963,300000,0.0,4,102.0,2941.1765,Odinsvej 31,4030,Tune,Other islands,Zealand,5.0,1.99,8.39
+1994-12-15,1994Q4,1450453,Villa,regular_sale,1921,577387,0.0,7,133.0,4341.256,Kolstrupvej 24,7200,Grindsted,South jutland,Jutland,5.0,1.99,8.39
+1994-12-14,1994Q4,1450469,Summerhouse,family_sale,1965,263500,0.0,5,65.0,4053.8462,Gl Hovej 18,6857,Blåvand,South jutland,Jutland,5.0,1.99,8.39
+1994-12-14,1994Q4,1450513,Apartment,regular_sale,1898,1650000,0.0,2,76.0,21710.525,"Kobbergade 2, 2. th",6270,Tønder,South jutland,Jutland,5.0,1.99,8.39
+1994-12-14,1994Q4,1450472,Villa,regular_sale,1967,740000,0.0,4,137.0,5401.46,Snerlevej 15,3650,Alstykke,North Zealand,Zealand,5.0,1.99,8.39
+1994-12-14,1994Q4,1450501,Apartment,regular_sale,1914,1068699,0.0,1,45.0,23748.867,Stærkærvej 10B. th,8850,Bjerringbro,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-14,1994Q4,1450519,Farm,family_sale,1972,660000,0.0,5,170.0,3882.353,Kildebjergsvej 8,6780,Skærbæk,South jutland,Jutland,5.0,1.99,8.39
+1994-12-14,1994Q4,1450529,Villa,other_sale,1977,285290,0.0,4,118.0,2417.712,Solsikkevej 70,8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-13,1994Q4,1450553,Apartment,family_sale,1991,340000,0.0,2,78.0,4358.974,Mellemgade 10,6240,Løgumkloster,South jutland,Jutland,5.0,1.99,8.39
+1994-12-13,1994Q4,1450568,Villa,regular_sale,1933,845000,0.0,4,127.0,6653.5435,Hjemmevej 8,2870,Dyssegård,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-12,1994Q4,1450629,Apartment,regular_sale,1968,285000,0.0,2,75.0,3800.0,"H C Andersens Vej 55, 1. tv",4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-12-12,1994Q4,1450640,Villa,regular_sale,1898,380000,0.0,6,140.0,2714.2856,Byvej 41,4532,Gislinge,Other islands,Zealand,5.0,1.99,8.39
+1994-12-11,1994Q4,1450675,Villa,regular_sale,1967,725000,0.0,6,158.0,4588.6074,Snerlevej 31,3650,Alstykke,North Zealand,Zealand,5.0,1.99,8.39
+1994-12-11,1994Q4,1450645,Villa,other_sale,1967,464748,0.0,4,98.0,4742.3267,Søgårdsvej 70,5270,Odense N,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-12-11,1994Q4,1450721,Apartment,auction,1939,2370000,0.0,2,54.0,43888.89,"Kastrupvej 177, 2. tv",2300,København S,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-11,1994Q4,1450674,Villa,regular_sale,1952,575000,0.0,5,129.0,4457.3643,Jerrigsvej 21,6710,Esbjerg V,South jutland,Jutland,5.0,1.99,8.39
+1994-12-11,1994Q4,1450686,Apartment,auction,1939,2370000,0.0,2,57.0,41578.95,"Kastrupvej 171, st. th",2300,København S,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-11,1994Q4,1450664,Villa,regular_sale,1943,300000,0.0,3,88.0,3409.0908,Svinget 9,6900,Skjern,South jutland,Jutland,5.0,1.99,8.39
+1994-12-11,1994Q4,1450663,Villa,regular_sale,1877,280000,0.0,4,131.0,2137.4045,Høsten Teglværksvej 64,4690,Haslev,Other islands,Zealand,5.0,1.99,8.39
+1994-12-11,1994Q4,1450756,Villa,regular_sale,1975,440000,0.0,4,114.0,3859.6492,Vindelevgård 53,7830,Vinderup,South jutland,Jutland,5.0,1.99,8.39
+1994-12-11,1994Q4,1450741,Villa,regular_sale,1969,972729,0.0,7,167.0,5824.7246,Birkevangen 11,6715,Esbjerg N,South jutland,Jutland,5.0,1.99,8.39
+1994-12-11,1994Q4,1450673,Summerhouse,family_sale,1975,306000,0.0,3,54.0,5666.6665,Svendborgvej 20,9493,Saltum,North jutland,Jutland,5.0,1.99,8.39
+1994-12-10,1994Q4,1450803,Villa,regular_sale,1989,1211240,0.0,6,175.0,6921.3716,Møllebjerg 39,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-09,1994Q4,1450850,Villa,regular_sale,1959,310843,0.0,5,139.0,2236.2805,Byvej 11,3200,Helsinge,North Zealand,Zealand,5.0,1.99,8.39
+1994-12-09,1994Q4,1450831,Villa,regular_sale,1927,325000,0.0,5,137.0,2372.2627,Vestergade 10,8870,Langå,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-09,1994Q4,1450828,Farm,regular_sale,1921,600000,0.0,5,126.0,4761.905,Stokkebjerg 3,7430,Ikast,South jutland,Jutland,5.0,1.99,8.39
+1994-12-09,1994Q4,1450845,Apartment,regular_sale,1964,890000,0.0,2,54.0,16481.482,Rud. Petersens Vej 6C,9310,Vodskov,North jutland,Jutland,5.0,1.99,8.39
+1994-12-09,1994Q4,1450837,Apartment,regular_sale,1898,1850000,0.0,4,90.0,20555.555,"Enghave Plads 12, 3. th",1670,København V,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-08,1994Q4,1450883,Apartment,regular_sale,1996,3200000,0.0,2,91.0,35164.836,"Sct. Jørgens Gade 8A, 2. 201",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450958,Apartment,auction,1936,1470000,0.0,2,52.0,28269.23,"Istedgade 39, 1. tv",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450885,Apartment,regular_sale,1996,3200000,0.0,2,70.0,45714.285,"Sct. Jørgens Gade 8A, 2. 202",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450939,Apartment,regular_sale,1996,3200000,0.0,2,68.0,47058.824,"Sct. Jørgens Gade 5B, st. th",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450870,Apartment,regular_sale,1996,3200000,0.0,2,63.0,50793.652,"Sct. Jørgens Gade 8A, st. 3",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450956,Apartment,auction,1936,1470000,0.0,2,52.0,28269.23,"Istedgade 39, st. tv",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450874,Apartment,regular_sale,1996,3200000,0.0,2,70.0,45714.285,"Sct. Jørgens Gade 8A, 1. 103",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450856,Apartment,auction,1936,1470000,0.0,3,66.0,22272.727,"Istedgade 39, 3. th",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450900,Apartment,regular_sale,1996,3200000,0.0,2,98.0,32653.06,"Sct. Jørgens Gade 8B, st. 3",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450887,Apartment,regular_sale,1996,3200000,0.0,2,63.0,50793.652,"Sct. Jørgens Gade 8A, st. 2",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450962,Apartment,regular_sale,1996,3200000,0.0,2,70.0,45714.285,"Sct. Jørgens Gade 3, st. 1",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-08,1994Q4,1450889,Apartment,regular_sale,1996,3200000,0.0,2,69.0,46376.812,"Sct. Jørgens Gade 8A, 2. 205",6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-06,1994Q4,1451067,Apartment,regular_sale,1902,3326323,0.0,2,47.0,70772.83,"Helgenæsgade 17, 2",8000,Aarhus C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-05,1994Q4,1451082,Apartment,regular_sale,1899,475600,0.0,4,104.0,4573.077,"Christiansgade 35, 1. th",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-12-05,1994Q4,1451133,Apartment,regular_sale,1918,2500000,0.0,4,86.0,29069.768,"Anders Henriksens Gade 6, 2. tv",2300,København S,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-05,1994Q4,1451101,Villa,regular_sale,1959,320050,0.0,9,202.0,1584.4059,Carstensens Alle 10,6705,Esbjerg A,South jutland,Jutland,5.0,1.99,8.39
+1994-12-04,1994Q4,1451188,Villa,regular_sale,1978,1048000,0.0,5,140.0,7485.7144,Græsmarken 19,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-04,1994Q4,1451210,Villa,regular_sale,1906,700000,0.0,8,206.0,3398.0583,Møllevej 45,5471,Søndersø,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-12-04,1994Q4,1451197,Farm,family_sale,1939,855000,0.0,5,157.0,5445.86,Teglgårdsvej 3,6240,Løgumkloster,South jutland,Jutland,5.0,1.99,8.39
+1994-12-04,1994Q4,1451220,Townhouse,regular_sale,1988,793000,0.0,4,105.0,7552.381,Bækvangen 5,8530,Hjortshøj,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-03,1994Q4,1451232,Townhouse,regular_sale,1900,430000,0.0,3,103.0,4174.7573,Ilstedvej 5A,6690,Gørding,South jutland,Jutland,5.0,1.99,8.39
+1994-12-01,1994Q4,1451285,Villa,regular_sale,1967,812139,0.0,4,110.0,7383.082,Rytterbakken 41,2670,Greve,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-12-01,1994Q4,1451275,Villa,regular_sale,1929,514600,0.0,9,163.0,3157.0552,Nørrebro 132,5900,Rudkøbing,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-12-01,1994Q4,1451280,Villa,regular_sale,1972,1200000,0.0,8,324.0,3703.7036,Larixvej 6,8471,Sabro,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-12-01,1994Q4,1451273,Summerhouse,regular_sale,2001,1660000,0.0,5,176.0,9431.818,Bjørnsknudevej 28D,7130,Juelsminde,South jutland,Jutland,5.0,1.99,8.39
+1994-12-01,1994Q4,1451262,Villa,regular_sale,1984,1101055,0.0,5,134.0,8216.828,Tagskægget 59,9380,Vestbjerg,North jutland,Jutland,5.0,1.99,8.39
+1994-12-01,1994Q4,1451300,Apartment,regular_sale,1892,350000,0.0,2,52.0,6730.769,"Birkegade 15B, 2. tv",2200,København N,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-30,1994Q4,1451384,Apartment,regular_sale,1946,1290000,0.0,2,74.0,17432.432,"Grønnegade 43, 3",7100,Vejle,South jutland,Jutland,5.0,1.99,8.39
+1994-11-30,1994Q4,1451362,Apartment,regular_sale,1975,1290000,0.0,4,109.0,11834.862,"Grønnegade 37, 1. tv",7100,Vejle,South jutland,Jutland,5.0,1.99,8.39
+1994-11-30,1994Q4,1451383,Villa,regular_sale,1979,745000,0.0,6,156.0,4775.641,Keldgårdvej 92,9600,Aars,North jutland,Jutland,5.0,1.99,8.39
+1994-11-30,1994Q4,1451318,Villa,regular_sale,1941,565000,0.0,6,152.0,3717.1052,Bygvænget 4,4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-11-30,1994Q4,1451371,Villa,regular_sale,1905,380000,0.0,6,133.0,2857.1428,Holmbjergvej 55,8420,Knebel,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-30,1994Q4,1451380,Villa,regular_sale,1992,1261550,0.0,6,161.0,7835.7144,Råhøjen 14,8260,Viby J,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-30,1994Q4,1451317,Apartment,regular_sale,1938,250750,0.0,2,59.0,4250.0,"Engblommevej 43, 1. th",2400,København NV,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-30,1994Q4,1451314,Villa,regular_sale,1937,650000,0.0,6,178.0,3651.6853,Harløsevej 134,3400,Hillerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-11-29,1994Q4,1451446,Villa,regular_sale,1913,549800,0.0,6,161.0,3414.9067,Sadolinsgade 110,5230,Odense M,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-29,1994Q4,1451436,Villa,regular_sale,1928,807075,0.0,5,154.0,5240.7466,Tralskovvej 4,6200,Aabenraa,South jutland,Jutland,5.0,1.99,8.39
+1994-11-29,1994Q4,1451413,Villa,regular_sale,1976,725000,0.0,7,197.0,3680.2031,Vestertorp 54,7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-11-29,1994Q4,1451400,Villa,regular_sale,1977,1210000,0.0,6,233.0,5193.133,Carl Plougs Vej 3C,8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-28,1994Q4,1451518,Villa,regular_sale,1939,450000,0.0,3,89.0,5056.1797,Arnevej 21,9900,Frederikshavn,North jutland,Jutland,5.0,1.99,8.39
+1994-11-28,1994Q4,1451451,Farm,family_sale,1920,1045875,0.0,6,235.0,4450.5317,Mosevej 5,7620,Lemvig,South jutland,Jutland,5.0,1.99,8.39
+1994-11-26,1994Q4,1451624,Apartment,family_sale,1990,563000,0.0,2,69.0,8159.4204,"Astrupvej 42, 1. 5",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-25,1994Q4,1451649,Apartment,regular_sale,1897,2430000,0.0,2,76.0,31973.684,"Nørrebrogade 223, 5. tv",2200,København N,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-24,1994Q4,1451693,Apartment,regular_sale,1946,389160,0.0,3,68.0,5722.9414,"Tværbommen 35, 2. tv",2820,Gentofte,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-24,1994Q4,1451716,Apartment,regular_sale,1904,1425000,0.0,4,133.0,10714.286,"Boulevarden 3, 2. tv",2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-23,1994Q4,1451756,Villa,regular_sale,1977,630000,0.0,5,172.0,3662.7908,Ellevej 3,7442,Engesvang,South jutland,Jutland,5.0,1.99,8.39
+1994-11-23,1994Q4,1451771,Villa,regular_sale,1930,589000,0.0,5,143.0,4118.8813,Forum Hovedvej 106,6715,Esbjerg N,South jutland,Jutland,5.0,1.99,8.39
+1994-11-23,1994Q4,1451753,Villa,regular_sale,1986,930000,0.0,4,145.0,6413.793,Skovkanten 68,4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-11-23,1994Q4,1451761,Villa,regular_sale,1981,565000,0.0,4,95.0,5947.3687,Ãrtebjerggårdvej 66,5270,Odense N,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-22,1994Q4,1451809,Villa,regular_sale,1999,356305,0.0,6,163.0,2185.9202,Klosterporten 10,4300,Holbæk,Other islands,Zealand,5.0,1.99,8.39
+1994-11-22,1994Q4,1451800,Villa,regular_sale,1912,1554400,0.0,6,165.0,9420.606,Eivindsvej 15,2920,Charlottenlund,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-22,1994Q4,1451824,Apartment,regular_sale,1936,400000,0.0,2,59.0,6779.661,"Aalborgvej 216, 1",9362,Gandrup,North jutland,Jutland,5.0,1.99,8.39
+1994-11-22,1994Q4,1451796,Villa,regular_sale,1927,545500,0.0,9,232.0,2351.2932,Hovedgaden 38,5932,Humble,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-22,1994Q4,1451798,Farm,family_sale,1900,4833000,0.0,8,387.0,12488.372,Søgårdsvej 60,4900,Nakskov,Other islands,Zealand,5.0,1.99,8.39
+1994-11-20,1994Q4,1451944,Summerhouse,family_sale,1970,332000,0.0,3,40.0,8300.0,Tyttebærvej 39,9981,Jerup,North jutland,Jutland,5.0,1.99,8.39
+1994-11-20,1994Q4,1451903,Townhouse,regular_sale,1989,1044880,0.0,3,126.0,8292.698,Kristtornvej 18A,8200,Aarhus N,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-19,1994Q4,1451994,Apartment,family_sale,1898,870000,0.0,2,48.0,18125.0,"Dannebrogsgade 19, 1. th",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-11-19,1994Q4,1451981,Apartment,regular_sale,1915,263585,0.0,3,91.0,2896.5386,"Sixtusvej 17, 1",2300,København S,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-19,1994Q4,1451996,Apartment,family_sale,1898,870000,0.0,2,64.0,13593.75,"Dannebrogsgade 19, 1. tv",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-11-19,1994Q4,1451992,Apartment,family_sale,1898,870000,0.0,2,48.0,18125.0,"Dannebrogsgade 19, 3. th",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-11-17,1994Q4,1452060,Summerhouse,regular_sale,1967,345000,0.0,4,59.0,5847.4575,Vestklitvej 51,6950,Ringkøbing,South jutland,Jutland,5.0,1.99,8.39
+1994-11-17,1994Q4,1452045,Villa,regular_sale,1935,1140000,0.0,6,157.0,7261.1465,Højvænget 7,5230,Odense M,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-17,1994Q4,1452036,Villa,regular_sale,1947,450000,0.0,6,147.0,3061.2246,Gammel Christiansfeldvej 98,6100,Haderslev,South jutland,Jutland,5.0,1.99,8.39
+1994-11-17,1994Q4,1452074,Villa,regular_sale,1975,732578,0.0,4,162.0,4522.0864,Løvvænget 12,3100,Hornbæk,North Zealand,Zealand,5.0,1.99,8.39
+1994-11-17,1994Q4,1452048,Villa,regular_sale,1920,273333,0.0,5,104.0,2628.202,Slagslunde Bygade 31,3660,Stenløse,North Zealand,Zealand,5.0,1.99,8.39
+1994-11-17,1994Q4,1452038,Villa,regular_sale,1978,507493,0.0,5,138.0,3677.4856,Humlevænget 38,7570,Vemb,South jutland,Jutland,5.0,1.99,8.39
+1994-11-16,1994Q4,1452140,Villa,regular_sale,1952,1287000,0.0,7,224.0,5745.5356,Merkurvej 12,8270,Højbjerg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-16,1994Q4,1452116,Villa,regular_sale,1947,360000,0.0,3,115.0,3130.4348,Bøgebjerget 12,5853,Arbæk,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-16,1994Q4,1452110,Villa,regular_sale,1897,430000,0.0,3,156.0,2756.4102,Bredgade 99,9830,Tårs,North jutland,Jutland,5.0,1.99,8.39
+1994-11-16,1994Q4,1452121,Villa,regular_sale,1870,936780,0.0,5,202.0,4637.525,Engholmvej 9,3660,Stenløse,North Zealand,Zealand,5.0,1.99,8.39
+1994-11-16,1994Q4,1452128,Villa,regular_sale,1942,295000,0.0,5,188.0,1569.1489,Jyllensgade 27,9370,Hals,North jutland,Jutland,5.0,1.99,8.39
+1994-11-16,1994Q4,1452091,Villa,regular_sale,1968,853000,0.0,5,227.0,3757.7092,Søvænget 11,5642,Millinge,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-15,1994Q4,1452172,Villa,regular_sale,1969,826500,0.0,5,144.0,5739.5835,Kærmindevej 10,7800,Skive,South jutland,Jutland,5.0,1.99,8.39
+1994-11-15,1994Q4,1452154,Apartment,regular_sale,1959,1220000,0.0,3,90.0,13555.556,"Lellinge Alle 38, 1",2650,Hvidovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-14,1994Q4,1452271,Villa,family_sale,1966,625000,0.0,4,164.0,3810.9756,Parkvej 3,8870,Langå,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-14,1994Q4,1452210,Villa,regular_sale,1877,350000,0.0,4,100.0,3500.0,Nordre Torstedvej 20,8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-14,1994Q4,1452267,Villa,regular_sale,1899,530000,0.0,5,164.0,3231.7073,Assensvej 287,5771,Stenstrup,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-14,1994Q4,1452221,Farm,regular_sale,1922,1156410,0.0,7,158.0,7319.051,Hedegårdvej 1,8831,Løgstrup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-14,1994Q4,1452263,Villa,regular_sale,1974,630000,0.0,5,171.0,3684.2104,Ãdalen 20,5863,Ferritslev Fyn,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-14,1994Q4,1452237,Apartment,regular_sale,1891,1220000,0.0,3,172.0,7093.0234,"Kastelsvej 1, 2. 3",2100,København A,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-12,1994Q4,1452344,Villa,regular_sale,1908,2100000,0.0,10,300.0,7000.0,Moltkesvej 7,2000,Frederiksberg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-10,1994Q4,1452408,Villa,regular_sale,1972,575000,0.0,5,165.0,3484.8484,Nygade 3,4281,Gørlev,Other islands,Zealand,5.0,1.99,8.39
+1994-11-10,1994Q4,1452388,Apartment,regular_sale,1906,900000,0.0,2,65.0,13846.154,"Frederikssundsvej 207, 2. th",2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-10,1994Q4,1452423,Villa,regular_sale,1959,437600,0.0,5,131.0,3340.458,H C Eskildsensvej 2C,6823,Ansager,South jutland,Jutland,5.0,1.99,8.39
+1994-11-10,1994Q4,1452428,Summerhouse,family_sale,1973,700000,0.0,4,80.0,8750.0,Råbjergvej 59,6792,Rømø,South jutland,Jutland,5.0,1.99,8.39
+1994-11-10,1994Q4,1452404,Villa,regular_sale,1969,798000,0.0,3,120.0,6650.0,Hvedemarksvej 3,8462,Harlev J,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-10,1994Q4,1452400,Apartment,regular_sale,1942,425000,0.0,2,69.0,6159.4204,"Lollandsgade 23, st",7430,Ikast,South jutland,Jutland,5.0,1.99,8.39
+1994-11-10,1994Q4,1452383,Villa,regular_sale,1929,590000,0.0,5,148.0,3986.4866,Pinborgvej 24,8960,Randers SA,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-10,1994Q4,1452389,Apartment,regular_sale,1906,900000,0.0,2,47.0,19148.936,"Frederikssundsvej 207, 2. tv",2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-09,1994Q4,1452461,Apartment,regular_sale,2023,7300000,0.0,3,100.0,73000.0,"Solsikkevænget 14, 2. 3",8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-09,1994Q4,1452479,Apartment,regular_sale,2023,7300000,0.0,1,106.0,68867.92,"Solsikkevænget 8, 3. 1",8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-09,1994Q4,1452458,Villa,regular_sale,1956,1329850,0.0,5,158.0,8416.772,Furesøvej 104,2830,Virum,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-09,1994Q4,1452449,Villa,other_sale,1963,360000,0.0,4,126.0,2857.1428,Aavej 13,5856,Ryslinge,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-09,1994Q4,1452507,Apartment,regular_sale,2023,7300000,0.0,3,113.0,64601.77,"Solsikkevænget 2, 2. 1",8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-08,1994Q4,1452530,Villa,family_sale,1979,994200,0.0,4,139.0,7152.518,Bakkekammen 2,2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-08,1994Q4,1452568,Townhouse,regular_sale,1985,775000,0.0,4,117.0,6623.9316,Toften 25,6200,Aabenraa,South jutland,Jutland,5.0,1.99,8.39
+1994-11-08,1994Q4,1452575,Villa,regular_sale,1974,725000,0.0,6,192.0,3776.0417,Holevej 25,9640,Farsø,North jutland,Jutland,5.0,1.99,8.39
+1994-11-08,1994Q4,1452547,Villa,regular_sale,1956,535000,0.0,8,310.0,1725.8064,Ulstrupvej 30,4281,Gørlev,Other islands,Zealand,5.0,1.99,8.39
+1994-11-08,1994Q4,1452519,Farm,regular_sale,1939,652800,0.0,14,348.0,1875.862,Geddebækvej 6,8620,Kjellerup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-08,1994Q4,1452545,Villa,regular_sale,1975,1050000,0.0,5,172.0,6104.6514,Bøgevænget 4,8464,Galten,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-08,1994Q4,1452555,Townhouse,regular_sale,1969,451250,0.0,4,93.0,4852.1504,Rønnevangshusene 158,2630,Taastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-08,1994Q4,1452554,Villa,regular_sale,1864,576815,0.0,8,366.0,1575.9973,Rubyvej 27,7620,Lemvig,South jutland,Jutland,5.0,1.99,8.39
+1994-11-07,1994Q4,1452608,Villa,regular_sale,1900,325000,0.0,3,136.0,2389.7058,Birkemosevej 24,8361,Hasselager,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-07,1994Q4,1452611,Villa,auction,1969,298000,0.0,4,129.0,2310.0776,Skræ Byvej 6,8620,Kjellerup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-06,1994Q4,1452636,Townhouse,regular_sale,1949,820000,0.0,5,98.0,8367.347,Toftekærsvej 117,2860,Søborg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-06,1994Q4,1452633,Villa,regular_sale,1950,1325000,0.0,8,250.0,5300.0,Rosenørnsvej 25,5230,Odense M,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-06,1994Q4,1452643,Villa,regular_sale,1946,760500,0.0,6,148.0,5138.5137,Rønne AllÃ© 47,8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-06,1994Q4,1452626,Villa,regular_sale,1979,412254,0.0,5,132.0,3123.1365,Vestskrænten 1,3400,Hillerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-11-06,1994Q4,1452680,Summerhouse,family_sale,1938,605340,0.0,6,100.0,6053.4,Lyngvej 11,3250,Gilleleje,North Zealand,Zealand,5.0,1.99,8.39
+1994-11-06,1994Q4,1452647,Villa,regular_sale,1900,685000,0.0,6,185.0,3702.7026,Svendborgvej 280,5600,Faaborg,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-11-06,1994Q4,1452697,Villa,regular_sale,1930,825000,0.0,6,140.0,5892.857,Møllevej 10,6800,Varde,South jutland,Jutland,5.0,1.99,8.39
+1994-11-06,1994Q4,1452648,Villa,regular_sale,1983,1431000,0.0,4,126.0,11357.143,Tranekærvej 15,2665,Vallensbæk Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-06,1994Q4,1452656,Apartment,regular_sale,1960,320820,0.0,2,52.0,6169.615,"Astergade 10A, 2. mf",4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-11-05,1994Q4,1452723,Villa,regular_sale,1900,943000,0.0,6,247.0,3817.8137,Nældevej 45,9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-11-05,1994Q4,1452704,Villa,regular_sale,1964,475000,0.0,5,105.0,4523.8096,Bakkevej 3,4241,Vemmelev,Other islands,Zealand,5.0,1.99,8.39
+1994-11-05,1994Q4,1452715,Townhouse,regular_sale,1892,1288903,0.0,6,136.0,9477.228,Weysesgade 6,2100,København A,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-05,1994Q4,1452721,Villa,regular_sale,1877,337250,0.0,5,124.0,2719.758,Thoruphedevej 29,9510,Arden,North jutland,Jutland,5.0,1.99,8.39
+1994-11-05,1994Q4,1452710,Villa,regular_sale,1950,470000,0.0,4,121.0,3884.2976,Olafsvej 18,7000,Fredericia,South jutland,Jutland,5.0,1.99,8.39
+1994-11-03,1994Q4,1452758,Villa,regular_sale,1951,1419000,0.0,6,115.0,12339.131,Strandjægervej 12,2791,Dragør,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-03,1994Q4,1452746,Townhouse,family_sale,1971,680000,0.0,4,107.0,6355.14,MacGregor Alle 9,2750,Ballerup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-03,1994Q4,1452740,Villa,regular_sale,1959,725000,0.0,7,168.0,4315.476,Astermøllevej 1,7700,Thisted,South jutland,Jutland,5.0,1.99,8.39
+1994-11-03,1994Q4,1452775,Apartment,regular_sale,1958,407432,0.0,3,73.0,5581.2603,Arskovvej 1D,7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-11-02,1994Q4,1452802,Apartment,family_sale,1943,2023000,0.0,2,56.0,36125.0,"M Bechs Alle 1, 1. th",2650,Hvidovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-02,1994Q4,1452837,Apartment,regular_sale,1934,1325253,0.0,2,60.0,22087.55,"Frederiksgade 88, st. th",8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-11-02,1994Q4,1452821,Apartment,family_sale,1943,2023000,0.0,2,53.0,38169.812,"Hvidovrevej 160, 1. tv",2650,Hvidovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-11-01,1994Q4,1452927,Villa,regular_sale,1964,690000,0.0,6,122.0,5655.738,Merkurvej 23,7100,Vejle,South jutland,Jutland,5.0,1.99,8.39
+1994-11-01,1994Q4,1452897,Villa,regular_sale,1964,435000,0.0,5,149.0,2919.4631,Nagbølvej 38,6640,Lunderskov,South jutland,Jutland,5.0,1.99,8.39
+1994-11-01,1994Q4,1452913,Villa,regular_sale,1977,745000,0.0,5,146.0,5102.7397,Midtkobbel 2B,6440,Augustenborg,South jutland,Jutland,5.0,1.99,8.39
+1994-11-01,1994Q4,1452921,Villa,regular_sale,1926,925000,0.0,6,174.0,5316.092,Møllevej 7,2690,Karlslunde,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-31,1994Q4,1452970,Villa,regular_sale,1988,620000,0.0,3,109.0,5688.073,Lærkevej 16B,7190,Billund,South jutland,Jutland,5.0,1.99,8.39
+1994-10-31,1994Q4,1452983,Apartment,regular_sale,1979,260000,0.0,2,64.0,4062.5,"Falkevej 76, 2. mf",8800,Viborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-31,1994Q4,1452947,Summerhouse,family_sale,1973,445000,0.0,4,90.0,4944.4443,Arnevænget 41,4050,Skibby,Other islands,Zealand,5.0,1.99,8.39
+1994-10-30,1994Q4,1453063,Summerhouse,regular_sale,1964,330000,0.0,1,36.0,9166.667,Fyrrevej 13,3210,Vejby,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-30,1994Q4,1453068,Villa,regular_sale,1966,798000,0.0,4,100.0,7980.0,Rugvangen 1,6705,Esbjerg A,South jutland,Jutland,5.0,1.99,8.39
+1994-10-30,1994Q4,1453008,Farm,regular_sale,1914,870000,0.0,5,200.0,4350.0,Havlandsvej 3,7700,Thisted,South jutland,Jutland,5.0,1.99,8.39
+1994-10-30,1994Q4,1453073,Villa,regular_sale,1920,645000,0.0,7,220.0,2931.818,Brogårdsvej 84,5260,Odense S,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-10-30,1994Q4,1453005,Villa,regular_sale,1941,725000,0.0,7,171.0,4239.766,Aastrupvej 63B,6100,Haderslev,South jutland,Jutland,5.0,1.99,8.39
+1994-10-30,1994Q4,1453074,Villa,regular_sale,1974,1200000,0.0,5,172.0,6976.744,Grønnemosen 1B,2860,Søborg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-30,1994Q4,1453031,Townhouse,regular_sale,1937,1194000,0.0,4,143.0,8349.65,Blomstervænget 34,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-30,1994Q4,1453067,Villa,regular_sale,1960,271072,0.0,4,147.0,1844.0272,Skovbrynet 5,8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-29,1994Q4,1453084,Summerhouse,regular_sale,2003,303340,0.0,4,93.0,3261.7205,Solbakkevej 19,9492,Blokhus,North jutland,Jutland,5.0,1.99,8.39
+1994-10-28,1994Q4,1453109,Farm,family_sale,1912,977500,0.0,7,200.0,4887.5,Kimmerslevvej 11,4140,Borup,Other islands,Zealand,5.0,1.99,8.39
+1994-10-27,1994Q4,1453132,Villa,regular_sale,1980,435000,0.0,4,134.0,3246.2686,Møllevænget 7,6541,Bevtoft,South jutland,Jutland,5.0,1.99,8.39
+1994-10-27,1994Q4,1453117,Villa,regular_sale,1966,1246506,0.0,5,128.0,9738.328,Tjørnevej 42,2970,Hørsholm,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-27,1994Q4,1453148,Villa,regular_sale,1918,715000,0.0,5,147.0,4863.946,Frydensgade 18,8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-27,1994Q4,1453171,Villa,regular_sale,1932,901370,0.0,5,132.0,6828.5605,Rønneholmsvej 27,2610,Rødovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-26,1994Q4,1453203,Farm,family_sale,1907,1230330,0.0,4,82.0,15004.024,Kvægholm 3,4281,Gørlev,Other islands,Zealand,5.0,1.99,8.39
+1994-10-26,1994Q4,1453207,Villa,regular_sale,1969,520000,0.0,4,113.0,4601.77,Mølleparken 37,7100,Vejle,South jutland,Jutland,5.0,1.99,8.39
+1994-10-26,1994Q4,1453232,Summerhouse,regular_sale,1971,455000,0.0,5,91.0,5000.0,Plovmandsvang 21,3210,Vejby,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-25,1994Q4,1453308,Farm,regular_sale,1880,729390,0.0,4,110.0,6630.8184,Gl. Viborgvej 408,8920,Randers NV,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-25,1994Q4,1453299,Villa,regular_sale,1978,848000,0.0,7,198.0,4282.828,Lergravsvej 50,4300,Holbæk,Other islands,Zealand,5.0,1.99,8.39
+1994-10-24,1994Q4,1453350,Villa,regular_sale,1928,979040,0.0,5,122.0,8024.918,Frilands AllÃ© 22,2500,Valby,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-24,1994Q4,1453333,Villa,regular_sale,1965,1035000,0.0,5,130.0,7961.5386,Dyrehegnet 5,7120,Vejle Ast,South jutland,Jutland,5.0,1.99,8.39
+1994-10-24,1994Q4,1453326,Villa,other_sale,1931,426220,0.0,5,130.0,3278.6155,Nybovej 6,4293,Dianalund,Other islands,Zealand,5.0,1.99,8.39
+1994-10-24,1994Q4,1453363,Villa,regular_sale,1972,1080000,0.0,5,204.0,5294.1177,Borgervænget 13,2791,Dragør,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-24,1994Q4,1453358,Villa,regular_sale,1980,680000,0.0,6,146.0,4657.534,Nørager 71,7260,Sønder Omme,South jutland,Jutland,5.0,1.99,8.39
+1994-10-24,1994Q4,1453373,Townhouse,regular_sale,1825,284000,0.0,2,62.0,4580.645,Vestergade 28,6100,Haderslev,South jutland,Jutland,5.0,1.99,8.39
+1994-10-23,1994Q4,1453446,Villa,family_sale,1965,287500,0.0,5,148.0,1942.5676,Sjællandsvej 8A,9230,Svenstrup J,North jutland,Jutland,5.0,1.99,8.39
+1994-10-23,1994Q4,1453455,Villa,regular_sale,1967,560000,0.0,6,154.0,3636.3635,Ahornvej 2,6440,Augustenborg,South jutland,Jutland,5.0,1.99,8.39
+1994-10-23,1994Q4,1453410,Villa,regular_sale,1979,700000,0.0,4,118.0,5932.2036,Kogtvedparken 56,5700,Svendborg,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-10-23,1994Q4,1453438,Villa,regular_sale,1969,680000,0.0,5,133.0,5112.7817,Rødhøjvej 30,4220,Korsør,Other islands,Zealand,5.0,1.99,8.39
+1994-10-23,1994Q4,1453461,Villa,regular_sale,1962,715000,0.0,3,91.0,7857.143,Brøndby AllÃ© 9,2660,Brøndby Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-23,1994Q4,1453439,Villa,regular_sale,1850,595000,0.0,5,170.0,3500.0,Skovfennen 15,6270,Tønder,South jutland,Jutland,5.0,1.99,8.39
+1994-10-23,1994Q4,1453418,Farm,family_sale,1969,1440000,0.0,7,186.0,7741.9355,Knivsbækvej 5,6920,Videbæk,South jutland,Jutland,5.0,1.99,8.39
+1994-10-23,1994Q4,1453399,Villa,regular_sale,1936,801600,0.0,5,114.0,7031.579,Fjordvej 59,6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-10-22,1994Q4,1453492,Townhouse,regular_sale,1974,299000,0.0,2,58.0,5155.1724,Dømmestrupvej 20G,5792,Ãrslev,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-10-20,1994Q4,1453537,Apartment,regular_sale,1907,4085000,0.0,3,104.0,39278.848,"John F. Kennedys Plads 45, 1. th",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-10-20,1994Q4,1453573,Villa,family_sale,1972,390000,0.0,4,132.0,2954.5454,Bøgevang 1,6200,Aabenraa,South jutland,Jutland,5.0,1.99,8.39
+1994-10-20,1994Q4,1453568,Villa,regular_sale,1905,978621,0.0,7,193.0,5070.575,Kirkebakken 2A,7080,Børkop,South jutland,Jutland,5.0,1.99,8.39
+1994-10-20,1994Q4,1453529,Villa,regular_sale,1922,385000,0.0,9,276.0,1394.9275,Holleskovvej 2,6683,Føvling,South jutland,Jutland,5.0,1.99,8.39
+1994-10-19,1994Q4,1453595,Villa,regular_sale,1984,1023160,0.0,4,150.0,6821.067,Rådmandsvej 10A,8500,Grenaa,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-19,1994Q4,1453594,Villa,regular_sale,1972,530000,0.0,5,141.0,3758.8652,Enghaven 15,6230,Rødekro,South jutland,Jutland,5.0,1.99,8.39
+1994-10-19,1994Q4,1453585,Apartment,regular_sale,1882,1550000,0.0,4,86.0,18023.256,"Nørre Søgade 39, 1. tv",1370,København K,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-19,1994Q4,1453632,Apartment,regular_sale,1922,3460000,0.0,4,131.0,26412.213,"Hellerupvej 52A, 1. th",2900,Hellerup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-19,1994Q4,1453615,Villa,regular_sale,1926,640000,0.0,4,171.0,3742.69,Sundgade 49,6320,Egernsund,South jutland,Jutland,5.0,1.99,8.39
+1994-10-18,1994Q4,1453650,Villa,regular_sale,1875,306165,0.0,3,102.0,3001.6177,Rødmosevej 154,6052,Viuf,South jutland,Jutland,5.0,1.99,8.39
+1994-10-18,1994Q4,1453669,Villa,regular_sale,1987,825000,0.0,5,136.0,6066.1763,Kirkevænget 20,6870,Algod,South jutland,Jutland,5.0,1.99,8.39
+1994-10-18,1994Q4,1453691,Townhouse,regular_sale,1951,815000,0.0,5,151.0,5397.351,Hørmarks AllÃ© 24,8240,Risskov,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-18,1994Q4,1453651,Villa,regular_sale,1967,650000,0.0,5,130.0,5000.0,Kastanie Alle 24,7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-10-17,1994Q4,1453696,Summerhouse,regular_sale,2000,410000,0.0,3,60.0,6833.3335,Bøgeskov Strand 48,7000,Fredericia,South jutland,Jutland,5.0,1.99,8.39
+1994-10-16,1994Q4,1453776,Townhouse,regular_sale,1990,1001421,0.0,4,117.0,8559.154,Maglegårdsvej 301,3480,Fredensborg,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-16,1994Q4,1453793,Summerhouse,regular_sale,1998,750000,0.0,4,79.0,9493.671,Kabinettet 11,5800,Nyborg,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-10-16,1994Q4,1453799,Villa,regular_sale,1932,730000,0.0,5,115.0,6347.826,Chr. Winthers Vej 74,8230,Ãbyhøj,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-14,1994Q4,1453845,Villa,regular_sale,1957,492000,0.0,3,89.0,5528.09,Halsebyvej 20,4220,Korsør,Other islands,Zealand,5.0,1.99,8.39
+1994-10-13,1994Q4,1453935,Apartment,regular_sale,1930,1725000,0.0,2,85.0,20294.117,"Toftebovej 5A, 3. tv",3230,Græsted,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-13,1994Q4,1453932,Villa,regular_sale,1780,270000,0.0,3,95.0,2842.1052,Marvedevej 69,4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-10-12,1994Q4,1454002,Villa,regular_sale,1978,740000,0.0,6,159.0,4654.088,Urtehaven 9,3630,Jægerspris,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-12,1994Q4,1453998,Villa,regular_sale,1931,680000,0.0,3,110.0,6181.8184,Esterhøjvej 13A,4550,Asnæs,Other islands,Zealand,5.0,1.99,8.39
+1994-10-12,1994Q4,1453966,Villa,regular_sale,1978,680000,0.0,9,182.0,3736.2637,Dagnæsalle 31,8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-12,1994Q4,1453981,Villa,regular_sale,1969,674619,0.0,5,138.0,4888.5435,Sandstumpvej 4,8500,Grenaa,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-12,1994Q4,1453960,Villa,regular_sale,1966,495000,0.0,6,157.0,3152.8662,Brinken 8,9740,Jerslev J,North jutland,Jutland,5.0,1.99,8.39
+1994-10-12,1994Q4,1453958,Villa,regular_sale,1938,315000,0.0,6,154.0,2045.4546,Aastrupvej 49,4850,Stubbekøbing,Other islands,Zealand,5.0,1.99,8.39
+1994-10-12,1994Q4,1453959,Villa,regular_sale,1971,550000,0.0,5,144.0,3819.4443,Bymarken 22,9510,Arden,North jutland,Jutland,5.0,1.99,8.39
+1994-10-12,1994Q4,1453952,Villa,regular_sale,1972,545000,0.0,5,161.0,3385.0933,Krilvej 5,9900,Frederikshavn,North jutland,Jutland,5.0,1.99,8.39
+1994-10-11,1994Q4,1454029,Apartment,family_sale,1933,274906,0.0,2,60.0,4581.7666,"Niels Brocks Gade 19, st. th",8900,Randers C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-11,1994Q4,1454038,Villa,regular_sale,1951,440320,0.0,4,79.0,5573.671,Røsnæsvej 65,4400,Kalundborg,Other islands,Zealand,5.0,1.99,8.39
+1994-10-11,1994Q4,1454026,Apartment,family_sale,1933,274906,0.0,4,119.0,2310.1345,"Niels Brocks Gade 19, 2",8900,Randers C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-11,1994Q4,1454045,Apartment,regular_sale,1944,2200000,0.0,1,39.0,56410.258,"Fynsgade 30C, 1. 1",7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-10-11,1994Q4,1454017,Apartment,regular_sale,1900,512582,0.0,4,121.0,4236.215,"Posekærvej 2, st",6200,Aabenraa,South jutland,Jutland,5.0,1.99,8.39
+1994-10-11,1994Q4,1454037,Villa,regular_sale,1941,995170,0.0,3,120.0,8293.083,Risbjerggårds Alle 16,2650,Hvidovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-10,1994Q4,1454121,Townhouse,regular_sale,1988,595000,0.0,3,85.0,7000.0,Thorsø AllÃ© 1B,8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-10,1994Q4,1454127,Villa,regular_sale,1929,473600,0.0,3,71.0,6670.4224,Nysøvej 13,2720,Vanløse,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-09,1994Q4,1454144,Villa,regular_sale,1850,267020,0.0,3,80.0,3337.75,Skuderløse Bygade 2,4690,Haslev,Other islands,Zealand,5.0,1.99,8.39
+1994-10-09,1994Q4,1454178,Villa,regular_sale,1988,908040,0.0,5,125.0,7264.32,Langager 13,8543,Hornslet,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-09,1994Q4,1454204,Villa,regular_sale,1926,786000,0.0,6,184.0,4271.7393,Kildegade 16,8300,Odder,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-09,1994Q4,1454149,Farm,family_sale,1910,1127020,0.0,9,183.0,6158.579,Tystoftehusevej 103,4230,Skælskør,Other islands,Zealand,5.0,1.99,8.39
+1994-10-09,1994Q4,1454186,Summerhouse,regular_sale,1972,282400,0.0,3,107.0,2639.2524,Skovagervej 18,8850,Bjerringbro,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-09,1994Q4,1454209,Villa,regular_sale,1996,285000,0.0,3,175.0,1628.5714,Duebrødrevej 21,9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-10-09,1994Q4,1454180,Villa,regular_sale,1873,315000,0.0,4,98.0,3214.2856,Lyderslev Bygade 16,4660,Store Heddinge,Other islands,Zealand,5.0,1.99,8.39
+1994-10-08,1994Q4,1454214,Villa,regular_sale,1954,300000,0.0,2,54.0,5555.5557,Bagvej 10,4300,Holbæk,Other islands,Zealand,5.0,1.99,8.39
+1994-10-07,1994Q4,1454278,Villa,regular_sale,1964,620000,0.0,4,128.0,4843.75,Nørrevang 20,8500,Grenaa,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-07,1994Q4,1454273,Summerhouse,regular_sale,1979,252410,0.0,4,101.0,2499.109,Myggevej 13,9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-10-06,1994Q4,1454285,Apartment,regular_sale,1939,1860000,0.0,3,73.0,25479.451,"Folehaven 124, 2. th",2500,Valby,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-06,1994Q4,1454352,Villa,regular_sale,1969,1152000,0.0,5,183.0,6295.082,Snebærhaven 18,2620,Albertslund,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-06,1994Q4,1454282,Villa,regular_sale,1921,280420,0.0,7,305.0,919.40985,Halsted Byvej 4,4900,Nakskov,Other islands,Zealand,5.0,1.99,8.39
+1994-10-06,1994Q4,1454325,Villa,regular_sale,1761,930093,0.0,8,191.0,4869.5967,Skt. Jørgens Gade 9,5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-10-06,1994Q4,1454313,Summerhouse,regular_sale,1981,553200,0.0,4,100.0,5532.0,Klintvej 98,4500,Nykøbing Sj,Other islands,Zealand,5.0,1.99,8.39
+1994-10-05,1994Q4,1454395,Villa,regular_sale,1973,672500,0.0,5,160.0,4203.125,Baldersvej 5,9870,Sindal,North jutland,Jutland,5.0,1.99,8.39
+1994-10-04,1994Q4,1454462,Townhouse,regular_sale,1900,889578,0.0,10,276.0,3223.1086,Norsmindevej 36B,8340,Malling,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-04,1994Q4,1454450,Townhouse,regular_sale,1980,685000,0.0,3,79.0,8670.886,Egå Strandvej 2N,8250,Egå,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-04,1994Q4,1454440,Villa,family_sale,1928,266288,0.0,10,232.0,1147.7931,Arnstrupvej 12,8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-04,1994Q4,1454420,Villa,auction,1969,600000,0.0,5,194.0,3092.7834,Kessel Alle 32,2791,Dragør,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-04,1994Q4,1454470,Townhouse,family_sale,2022,2500000,0.0,3,78.0,32051.281,Sundbylillevej 42F,3600,Frederikssund,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-03,1994Q4,1454528,Villa,regular_sale,1975,700000,0.0,6,128.0,5468.75,Linå Skolebakke 10,8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-10-03,1994Q4,1454488,Apartment,regular_sale,1909,860000,0.0,3,75.0,11466.667,"Brogade 10, 2",4800,Nykøbing F,Other islands,Zealand,5.0,1.99,8.39
+1994-10-02,1994Q4,1454611,Villa,regular_sale,1967,735000,0.0,5,145.0,5068.9653,Mimosevej 7,4030,Tune,Other islands,Zealand,5.0,1.99,8.39
+1994-10-02,1994Q4,1454615,Apartment,regular_sale,1918,500000,0.0,3,74.0,6756.757,Dr Sells Vej 2D,4293,Dianalund,Other islands,Zealand,5.0,1.99,8.39
+1994-10-02,1994Q4,1454597,Townhouse,regular_sale,1953,1730200,0.0,7,182.0,9506.594,Granholmen 28,2840,Holte,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-02,1994Q4,1454589,Townhouse,regular_sale,1953,980000,0.0,5,123.0,7967.4795,Gærdet 7,3460,Birkerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-02,1994Q4,1454606,Apartment,auction,1967,1520000,0.0,7,170.0,8941.177,Gammel Kurreholmvej 10,3330,Gørløse,North Zealand,Zealand,5.0,1.99,8.39
+1994-10-02,1994Q4,1454625,Apartment,regular_sale,1967,710000,0.0,5,135.0,5259.2593,Strandmøllevej 8D,6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-10-01,1994Q4,1454647,Villa,regular_sale,1935,505000,0.0,5,103.0,4902.9126,Saltværksvej 131,2770,Kastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-01,1994Q4,1454648,Villa,regular_sale,2020,1293212,0.0,6,208.0,6217.365,Vinkelvej 14,2950,Vedbæk,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-01,1994Q4,1454657,Apartment,regular_sale,1926,798010,0.0,4,87.0,9172.528,"Egetoften 2, 1",2900,Hellerup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-10-01,1994Q4,1454658,Apartment,regular_sale,1926,798010,0.0,4,111.0,7189.2793,"Egetoften 2, st",2900,Hellerup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-29,1994Q3,1454772,Villa,regular_sale,1923,277000,0.0,5,170.0,1629.4117,Hornborgvej 2,8722,Hedensted,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-29,1994Q3,1454713,Apartment,regular_sale,1938,2021786,0.0,2,65.0,31104.4,"Ramsvej 6, 1. tv",8800,Viborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-29,1994Q3,1454773,Apartment,family_sale,1934,1575000,0.0,4,75.0,21000.0,"Skolegade 21F, st",8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-29,1994Q3,1454690,Villa,regular_sale,1934,705000,0.0,3,81.0,8703.704,Ãvej 47,3500,Værløse,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-29,1994Q3,1454786,Apartment,family_sale,1939,1575000,0.0,1,33.0,47727.273,"Skolegade 21, 3. mf",8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-29,1994Q3,1454695,Villa,regular_sale,1965,490000,0.0,5,163.0,3006.135,Branderslevvej 97,4900,Nakskov,Other islands,Zealand,5.0,1.99,8.39
+1994-09-29,1994Q3,1454743,Villa,auction,1900,400000,0.0,3,150.0,2666.6667,Holbækvej 37H,4340,Tølløse,Other islands,Zealand,5.0,1.99,8.39
+1994-09-29,1994Q3,1454745,Townhouse,regular_sale,1980,505000,0.0,3,90.0,5611.1113,Brændeskovvænget 2D,5700,Svendborg,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-29,1994Q3,1454785,Apartment,family_sale,1939,1575000,0.0,1,33.0,47727.273,"Skolegade 21, 2. mf",8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-28,1994Q3,1454855,Townhouse,regular_sale,1975,565000,0.0,4,130.0,4346.154,Højløkke 29,6310,Broager,South jutland,Jutland,5.0,1.99,8.39
+1994-09-28,1994Q3,1454806,Villa,regular_sale,1971,741078,0.0,4,124.0,5976.4355,Erantisvej 2,3330,Gørløse,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-28,1994Q3,1454835,Apartment,family_sale,1970,552500,0.0,3,115.0,4804.3477,"Vestervang 1, st. 102",8000,Aarhus C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-28,1994Q3,1454824,Apartment,regular_sale,1893,890000,0.0,4,91.0,9780.22,"Overgade 59B, 1. tv",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-28,1994Q3,1454802,Apartment,regular_sale,1908,1116806,0.0,5,168.0,6647.655,"Schlegels Alle 3, 1. th",1807,Frederiksberg C,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-28,1994Q3,1454840,Apartment,regular_sale,1938,1215000,0.0,2,58.0,20948.275,"Stormøllevej 17A, st. tv",4600,Køge,Other islands,Zealand,5.0,1.99,8.39
+1994-09-28,1994Q3,1454833,Villa,regular_sale,1877,520000,0.0,5,164.0,3170.7317,Kaplenivej 18,6400,Sønderborg,South jutland,Jutland,5.0,1.99,8.39
+1994-09-27,1994Q3,1454899,Villa,regular_sale,1937,357301,0.0,7,179.0,1996.095,Munkebjergvej 19,2770,Kastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-27,1994Q3,1454936,Farm,regular_sale,2010,700000,0.0,5,180.0,3888.889,Hekkenfeldtvej 51,6830,Nørre Nebel,South jutland,Jutland,5.0,1.99,8.39
+1994-09-27,1994Q3,1454878,Villa,regular_sale,1947,995000,0.0,8,282.0,3528.369,Hundelevvej 343,9480,Løkken,North jutland,Jutland,5.0,1.99,8.39
+1994-09-27,1994Q3,1454931,Villa,regular_sale,1969,500000,0.0,7,187.0,2673.7969,Elmevej 19,6520,Toftlund,South jutland,Jutland,5.0,1.99,8.39
+1994-09-27,1994Q3,1454914,Villa,regular_sale,1917,393000,0.0,7,185.0,2124.3242,Silkeborgvej 22,7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-09-26,1994Q3,1454956,Villa,regular_sale,1973,878000,0.0,9,310.0,2832.258,Skrænten 15,7830,Vinderup,South jutland,Jutland,5.0,1.99,8.39
+1994-09-26,1994Q3,1454976,Villa,regular_sale,1949,350000,0.0,5,108.0,3240.7407,Emil Aarestrups Gade 42,4990,Sakskøbing,Other islands,Zealand,5.0,1.99,8.39
+1994-09-26,1994Q3,1454960,Villa,regular_sale,1922,650000,0.0,5,103.0,6310.6797,Præstøvej 141B,4640,Faxe,Other islands,Zealand,5.0,1.99,8.39
+1994-09-26,1994Q3,1454959,Villa,regular_sale,1986,1112000,0.0,5,151.0,7364.2383,Bellingehøjen 38,5250,Odense SV,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-25,1994Q3,1454998,Villa,regular_sale,1905,960000,0.0,5,132.0,7272.727,Selma Lagerløfs Alle 41,2860,Søborg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-25,1994Q3,1455043,Villa,regular_sale,1930,531309,0.0,5,101.0,5260.4854,Lindskovvej 12,9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-09-25,1994Q3,1455015,Apartment,regular_sale,1936,400000,0.0,2,81.0,4938.2715,"Odensevej 16, 2",5772,Kværndrup,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-25,1994Q3,1455082,Apartment,regular_sale,1965,379000,0.0,1,46.0,8239.131,"Arnevang 28, st. 2",3450,Allerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-25,1994Q3,1455003,Villa,regular_sale,1961,594000,0.0,5,123.0,4829.268,Kingosvej 16,6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-09-25,1994Q3,1455029,Summerhouse,regular_sale,1962,272000,0.0,3,62.0,4387.0967,Ajstrup Strandvej 17,8340,Malling,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-24,1994Q3,1455095,Villa,regular_sale,1929,650000,0.0,3,103.0,6310.6797,Pyrus Alle 28,2770,Kastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-24,1994Q3,1455110,Villa,regular_sale,1968,1395620,0.0,6,162.0,8614.938,Fagerparken 22,2950,Vedbæk,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-24,1994Q3,1455107,Villa,regular_sale,1980,1447362,0.0,6,166.0,8719.048,Elmevej 3,3500,Værløse,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-24,1994Q3,1455112,Villa,regular_sale,1960,400000,0.0,7,182.0,2197.8022,Kirkevej 12A,9440,Aabybro,North jutland,Jutland,5.0,1.99,8.39
+1994-09-22,1994Q3,1455168,Villa,regular_sale,1959,1450000,0.0,5,155.0,9354.839,Egevej 20,2970,Hørsholm,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-22,1994Q3,1455135,Villa,regular_sale,1877,593000,0.0,5,131.0,4526.718,Nr. Arslev Bygade 20,4800,Nykøbing F,Other islands,Zealand,5.0,1.99,8.39
+1994-09-22,1994Q3,1455160,Villa,regular_sale,1970,895000,0.0,3,138.0,6485.5073,Tirstrupvej 10,2770,Kastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-21,1994Q3,1455210,Villa,regular_sale,1924,632420,0.0,5,162.0,3903.8271,Hjortlundvej 63,6771,Gredstedbro,South jutland,Jutland,5.0,1.99,8.39
+1994-09-21,1994Q3,1455241,Villa,regular_sale,1926,751812,0.0,6,202.0,3721.8416,Strandvejen 13,8831,Løgstrup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-21,1994Q3,1455252,Villa,regular_sale,1919,780000,0.0,5,166.0,4698.7954,Ronæsvænget 10,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-21,1994Q3,1455213,Villa,regular_sale,1973,1075000,0.0,5,162.0,6635.8022,Ãvang 110,3400,Hillerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-20,1994Q3,1455269,Farm,regular_sale,1953,1055500,0.0,5,148.0,7131.757,Højvældsvej 2,4330,Hvalsø,Other islands,Zealand,5.0,1.99,8.39
+1994-09-20,1994Q3,1455293,Apartment,regular_sale,1936,1934142,0.0,2,70.0,27630.6,"Karen Brahes Vej 9, 1. th",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-20,1994Q3,1455270,Apartment,regular_sale,1890,705400,0.0,4,45.0,15675.556,"Køgevej 36, 1. th",4000,Roskilde,Other islands,Zealand,5.0,1.99,8.39
+1994-09-20,1994Q3,1455255,Villa,family_sale,1869,400000,0.0,5,196.0,2040.8163,Bakkelyvej 9,8960,Randers SA,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-20,1994Q3,1455283,Villa,regular_sale,1975,1068750,0.0,5,152.0,7031.25,Lidsøvej 67,2730,Herlev,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-20,1994Q3,1455307,Apartment,regular_sale,1936,1934142,0.0,2,69.0,28031.043,"Karen Brahes Vej 11, 3. tv",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-20,1994Q3,1455284,Villa,regular_sale,1978,541835,0.0,4,105.0,5160.3335,Baldersvej 12,6862,Tistrup,South jutland,Jutland,5.0,1.99,8.39
+1994-09-19,1994Q3,1455333,Villa,regular_sale,1992,825000,0.0,6,143.0,5769.231,Præstevænget 157,7280,Sønder Felding,South jutland,Jutland,5.0,1.99,8.39
+1994-09-19,1994Q3,1455341,Farm,regular_sale,1903,663000,0.0,5,178.0,3724.719,Kildemøllevej 6,5853,Arbæk,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-19,1994Q3,1455357,Summerhouse,regular_sale,1977,493000,0.0,5,60.0,8216.667,Rylevej 92,8300,Odder,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-19,1994Q3,1455371,Villa,regular_sale,1904,641345,0.0,9,241.0,2661.1826,Rigtrupvej 1,8370,Hadsten,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-19,1994Q3,1455330,Townhouse,regular_sale,1908,1070444,0.0,4,176.0,6082.0684,Hertug Hans Vej 39A,6400,Sønderborg,South jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455380,Apartment,auction,1887,1000000,0.0,4,82.0,12195.122,"Sjællandsgade 86, 1",8000,Aarhus C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455406,Villa,regular_sale,1939,445000,0.0,3,112.0,3973.2144,Timmelsvang 10,6520,Toftlund,South jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455462,Villa,regular_sale,1961,757036,0.0,5,166.0,4560.458,Højvangs Tværvej 6,6700,Esbjerg,South jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455434,Villa,regular_sale,1994,1156218,0.0,5,171.0,6761.509,Tyrings Ager 50,6580,Vamdrup,South jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455463,Villa,regular_sale,1985,615000,0.0,5,170.0,3617.647,Bredmosevej 17,8660,Skanderborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455396,Apartment,regular_sale,1926,320000,0.0,3,65.0,4923.077,"Astre Alle 75, st",9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455379,Summerhouse,family_sale,1935,1453500,0.0,5,86.0,16901.162,Hans Ruths Vej 12,9990,Skagen,North jutland,Jutland,5.0,1.99,8.39
+1994-09-18,1994Q3,1455411,Farm,family_sale,1995,560000,0.0,6,279.0,2007.1685,Aalborgvej 152,7700,Thisted,South jutland,Jutland,5.0,1.99,8.39
+1994-09-17,1994Q3,1455477,Villa,regular_sale,1957,872700,0.0,5,107.0,8156.0747,Bystykket 18,2850,Nærum,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-17,1994Q3,1455476,Townhouse,regular_sale,1984,1595000,0.0,4,143.0,11153.846,Sømandshvilevej 13,2960,Rungsted Kyst,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-15,1994Q3,1455531,Villa,regular_sale,1974,725000,0.0,5,182.0,3983.5166,Kastanievej 29,4690,Haslev,Other islands,Zealand,5.0,1.99,8.39
+1994-09-14,1994Q3,1455635,Villa,regular_sale,1925,705020,0.0,5,145.0,4862.207,Børglumvej 25,2720,Vanløse,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-14,1994Q3,1455621,Apartment,regular_sale,1900,365000,0.0,3,58.0,6293.1035,"Sct Nicolaj Gade 13, 1. th",6760,Ribe,South jutland,Jutland,5.0,1.99,8.39
+1994-09-14,1994Q3,1455601,Villa,regular_sale,1974,2270000,0.0,6,180.0,12611.111,Hovedvejen 5,8500,Grenaa,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-14,1994Q3,1455602,Villa,regular_sale,1924,1100000,0.0,6,188.0,5851.064,Kirkegade 77,6700,Esbjerg,South jutland,Jutland,5.0,1.99,8.39
+1994-09-14,1994Q3,1455610,Apartment,family_sale,1935,810000,0.0,3,90.0,9000.0,"Rørthvej 33, st. tv",8300,Odder,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-12,1994Q3,1455713,Apartment,regular_sale,1932,1100000,0.0,3,75.0,14666.667,"Carlsgade 7, st. th",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-12,1994Q3,1455750,Villa,regular_sale,1951,445000,0.0,4,117.0,3803.4187,Granvej 15,9981,Jerup,North jutland,Jutland,5.0,1.99,8.39
+1994-09-12,1994Q3,1455707,Apartment,regular_sale,1932,1100000,0.0,3,86.0,12790.697,"Carlsgade 7, 3. tv",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-12,1994Q3,1455714,Apartment,regular_sale,1932,1100000,0.0,3,90.0,12222.223,"Carlsgade 7, st. tv",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-12,1994Q3,1455768,Villa,regular_sale,1969,795000,0.0,4,118.0,6737.288,Thyravej 1,3550,Slangerup,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-11,1994Q3,1455822,Villa,regular_sale,1952,544980,0.0,6,136.0,4007.2058,Vibevej 7,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-11,1994Q3,1455831,Villa,family_sale,1900,355000,0.0,4,144.0,2465.2778,Madsbadvej 50,7884,Fur,South jutland,Jutland,5.0,1.99,8.39
+1994-09-11,1994Q3,1455789,Townhouse,regular_sale,1983,486680,0.0,4,91.0,5348.132,Tilemannsvej 3A,8450,Hammel,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-11,1994Q3,1455818,Villa,regular_sale,1977,825000,0.0,6,143.0,5769.231,Hjerting Strandvej 90,6710,Esbjerg V,South jutland,Jutland,5.0,1.99,8.39
+1994-09-11,1994Q3,1455852,Apartment,regular_sale,1919,4470000,0.0,2,60.0,74500.0,"Steinmannsgade 16, 3. th",8000,Aarhus C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-11,1994Q3,1455856,Apartment,regular_sale,1919,4470000,0.0,3,75.0,59600.0,"Steinmannsgade 16, 4",8000,Aarhus C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-11,1994Q3,1455873,Apartment,regular_sale,1976,2928000,0.0,3,131.0,22351.145,"Lynghøjvej 10B, 1",3540,Lynge,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-11,1994Q3,1455816,Villa,regular_sale,1976,625000,0.0,8,199.0,3140.7036,Sandevej 4,4735,Mern,Other islands,Zealand,5.0,1.99,8.39
+1994-09-11,1994Q3,1455870,Summerhouse,regular_sale,1975,285000,0.0,4,84.0,3392.8572,Stranddalen 125,7870,Roslev,South jutland,Jutland,5.0,1.99,8.39
+1994-09-09,1994Q3,1455910,Summerhouse,regular_sale,1986,300000,0.0,4,65.0,4615.385,Anemonevej 33,7620,Lemvig,South jutland,Jutland,5.0,1.99,8.39
+1994-09-09,1994Q3,1455917,Villa,regular_sale,1938,531000,0.0,5,162.0,3277.7778,Bjerning Hovedvej 59,6100,Haderslev,South jutland,Jutland,5.0,1.99,8.39
+1994-09-08,1994Q3,1455962,Villa,regular_sale,1963,513655,0.0,5,114.0,4505.7456,Solbakkevej 54,7700,Thisted,South jutland,Jutland,5.0,1.99,8.39
+1994-09-08,1994Q3,1455943,Villa,regular_sale,1939,330000,0.0,9,204.0,1617.6471,Midtbyvej 5,6893,Hemmet,South jutland,Jutland,5.0,1.99,8.39
+1994-09-08,1994Q3,1455918,Farm,regular_sale,1890,380000,0.0,6,166.0,2289.1567,Fjelstedvej 60,9870,Sindal,North jutland,Jutland,5.0,1.99,8.39
+1994-09-08,1994Q3,1455945,Townhouse,regular_sale,1963,615000,0.0,7,190.0,3236.842,Fælledvej 20,9900,Frederikshavn,North jutland,Jutland,5.0,1.99,8.39
+1994-09-07,1994Q3,1455983,Villa,regular_sale,1987,875000,0.0,5,129.0,6782.946,Arnakkegårds Alle 45,4390,Vipperød,Other islands,Zealand,5.0,1.99,8.39
+1994-09-07,1994Q3,1455988,Apartment,regular_sale,1930,1125000,0.0,3,88.0,12784.091,"Knud Skots Gade 12, 1. th",9400,Nørresundby,North jutland,Jutland,5.0,1.99,8.39
+1994-09-07,1994Q3,1456036,Summerhouse,regular_sale,1975,645000,0.0,4,120.0,5375.0,Faaborgvej 9,9493,Saltum,North jutland,Jutland,5.0,1.99,8.39
+1994-09-07,1994Q3,1456037,Townhouse,regular_sale,1967,649000,0.0,5,142.0,4570.4224,Munkevej 9,3660,Stenløse,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-06,1994Q3,1456059,Townhouse,regular_sale,1973,810621,0.0,4,112.0,7237.6875,Askevangen 13,3450,Allerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-09-06,1994Q3,1456077,Townhouse,regular_sale,1972,439000,0.0,2,66.0,6651.515,Alsgade 19B,6400,Sønderborg,South jutland,Jutland,5.0,1.99,8.39
+1994-09-06,1994Q3,1456057,Farm,regular_sale,1933,675000,0.0,4,128.0,5273.4375,Dyrhedenvej 21,9300,Sæby,North jutland,Jutland,5.0,1.99,8.39
+1994-09-06,1994Q3,1456052,Villa,regular_sale,1954,900000,0.0,5,144.0,6250.0,Margrethes AllÃ© 11,5250,Odense SV,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-09-06,1994Q3,1456072,Summerhouse,regular_sale,1965,275000,0.0,3,46.0,5978.2607,Lejervej 1,4591,Føllenslev,Other islands,Zealand,5.0,1.99,8.39
+1994-09-05,1994Q3,1456133,Villa,regular_sale,1985,925000,0.0,4,124.0,7459.6772,Tranemosevej 6B,2750,Ballerup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-05,1994Q3,1456125,Villa,regular_sale,1977,923200,0.0,7,187.0,4936.8984,Hasselhaven 30,8520,Lystrup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-09-05,1994Q3,1456103,Villa,regular_sale,1987,1040000,0.0,6,156.0,6666.6665,Agerbjerg 103,7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-09-05,1994Q3,1456114,Summerhouse,regular_sale,1974,325000,0.0,4,85.0,3823.5293,Bøgevej 24,4281,Gørlev,Other islands,Zealand,5.0,1.99,8.39
+1994-09-04,1994Q3,1456223,Apartment,regular_sale,1940,355000,0.0,3,65.0,5461.5386,"Vindebyvej 5, 2. th",2730,Herlev,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-04,1994Q3,1456181,Apartment,regular_sale,1932,2275000,0.0,2,59.0,38559.32,"Viborggade 47, 4. tv",2100,København A,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-04,1994Q3,1456208,Summerhouse,regular_sale,1975,275000,0.0,4,72.0,3819.4443,Stormvej 19,4571,Grevinge,Other islands,Zealand,5.0,1.99,8.39
+1994-09-04,1994Q3,1456185,Apartment,regular_sale,1932,2275000,0.0,2,59.0,38559.32,"Viborggade 47, 2. th",2100,København A,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-04,1994Q3,1456191,Villa,regular_sale,1967,725000,0.0,5,159.0,4559.7485,Nordlundsvej 2,4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-09-04,1994Q3,1456166,Apartment,regular_sale,1932,2275000,0.0,3,72.0,31597.223,"Viborggade 45, st",2100,København A,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-09-01,1994Q3,1456288,Villa,regular_sale,1930,390000,0.0,4,124.0,3145.1614,Hastrupvej 8,4600,Køge,Other islands,Zealand,5.0,1.99,8.39
+1994-09-01,1994Q3,1456295,Summerhouse,regular_sale,1970,290000,0.0,4,89.0,3258.427,Abrikosvej 13,4760,Vordingborg,Other islands,Zealand,5.0,1.99,8.39
+1994-08-31,1994Q3,1456322,Villa,regular_sale,1995,340000,0.0,6,159.0,2138.3647,Søsvinget 33,2635,Ishøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-31,1994Q3,1456368,Villa,regular_sale,1924,8000000,0.0,7,191.0,41884.816,Alvejen 6,8550,Ryomgård,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-31,1994Q3,1456330,Villa,regular_sale,1963,781000,0.0,7,156.0,5006.41,Ãbakken 32,5250,Odense SV,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-31,1994Q3,1456320,Villa,regular_sale,1777,430000,0.0,6,215.0,2000.0,Hyllerupvej 46,4200,Slagelse,Other islands,Zealand,5.0,1.99,8.39
+1994-08-31,1994Q3,1456332,Farm,regular_sale,1884,2380000,0.0,4,260.0,9153.846,Ãrslevvej 9,4200,Slagelse,Other islands,Zealand,5.0,1.99,8.39
+1994-08-31,1994Q3,1456356,Villa,regular_sale,1970,900000,0.0,7,194.0,4639.1753,Læskovvej 104,4632,Bjæverskov,Other islands,Zealand,5.0,1.99,8.39
+1994-08-31,1994Q3,1456389,Villa,regular_sale,1911,703000,0.0,5,151.0,4655.629,Tyge Brahes Vej 10,9000,Aalborg,North jutland,Jutland,5.0,1.99,8.39
+1994-08-31,1994Q3,1456388,Villa,regular_sale,1961,602756,0.0,5,146.0,4128.466,Søgårdsvej 42,5270,Odense N,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-31,1994Q3,1456380,Villa,family_sale,1976,500000,0.0,5,149.0,3355.7046,Møllevænget 60,8370,Hadsten,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-30,1994Q3,1456438,Apartment,regular_sale,1960,930000,0.0,3,111.0,8378.378,"Vestergade 94, 3. th",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-30,1994Q3,1456434,Villa,regular_sale,1948,865000,0.0,7,211.0,4099.526,Svingelen 5,4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-08-30,1994Q3,1456452,Villa,regular_sale,1986,1055000,0.0,7,133.0,7932.331,Egesvinget 1,8400,Ebeltoft,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-30,1994Q3,1456403,Villa,regular_sale,1900,475000,0.0,6,215.0,2209.3022,Nyrupvej 154,4400,Kalundborg,Other islands,Zealand,5.0,1.99,8.39
+1994-08-30,1994Q3,1456415,Villa,regular_sale,1959,560000,0.0,6,138.0,4057.971,Poppelvej 19A,4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-08-30,1994Q3,1456408,Villa,regular_sale,1900,550000,0.0,4,146.0,3767.1233,Næbbevej 10,4534,Hørve,Other islands,Zealand,5.0,1.99,8.39
+1994-08-30,1994Q3,1456407,Farm,regular_sale,1939,1343000,0.0,5,164.0,8189.0244,Guldforhovedvej 16,7441,Bording,South jutland,Jutland,5.0,1.99,8.39
+1994-08-30,1994Q3,1456447,Townhouse,regular_sale,1907,2250000,0.0,2,50.0,45000.0,Rugårdsvej 352,5210,Odense NV,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-29,1994Q3,1456516,Villa,regular_sale,1964,485000,0.0,3,96.0,5052.0835,Frøkærvej 3,6710,Esbjerg V,South jutland,Jutland,5.0,1.99,8.39
+1994-08-29,1994Q3,1456491,Farm,regular_sale,1918,3506205,0.0,12,350.0,10017.729,Hovedgaden 13,8544,Mørke,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-28,1994Q3,1456542,Villa,regular_sale,1946,925880,0.0,4,118.0,7846.441,Carl Zahlmannsvej 7,3400,Hillerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-28,1994Q3,1456558,Apartment,auction,1965,335150,0.0,2,73.0,4591.0957,"Nærum Hovedgade 25, st. c",2850,Nærum,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-28,1994Q3,1456622,Villa,regular_sale,1975,575000,0.0,4,125.0,4600.0,Nellikevej 24,7700,Thisted,South jutland,Jutland,5.0,1.99,8.39
+1994-08-28,1994Q3,1456595,Villa,regular_sale,1979,895000,0.0,6,211.0,4241.706,Skarvadvej 8,9700,Brønderslev,North jutland,Jutland,5.0,1.99,8.39
+1994-08-28,1994Q3,1456584,Villa,regular_sale,1971,841540,0.0,5,108.0,7792.037,Ketilstorp Alle 54,2650,Hvidovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-28,1994Q3,1456602,Farm,family_sale,1860,550000,0.0,4,132.0,4166.6665,Gl. Skolevej 3,6600,Vejen,South jutland,Jutland,5.0,1.99,8.39
+1994-08-28,1994Q3,1456572,Villa,regular_sale,1981,630400,0.0,5,133.0,4739.8496,Arnæsvej 28,6400,Sønderborg,South jutland,Jutland,5.0,1.99,8.39
+1994-08-28,1994Q3,1456623,Summerhouse,regular_sale,1986,385000,0.0,6,119.0,3235.2942,Vibevej 47,4560,Vig,Other islands,Zealand,5.0,1.99,8.39
+1994-08-28,1994Q3,1456615,Villa,regular_sale,1927,315000,0.0,3,186.0,1693.5483,Vesterbygårdvej 12,4490,Jerslev Sjælland,Other islands,Zealand,5.0,1.99,8.39
+1994-08-27,1994Q3,1456637,Villa,regular_sale,1958,764469,0.0,4,171.0,4470.579,Skovvej 15,3400,Hillerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-25,1994Q3,1456707,Summerhouse,regular_sale,1981,650000,0.0,4,60.0,10833.333,Julsgårdsvej 35A,3220,Tisvildeleje,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-25,1994Q3,1456703,Farm,regular_sale,1910,850000,0.0,5,174.0,4885.0576,Hagenstrupvej 46,8860,Ulstrup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-25,1994Q3,1456684,Villa,regular_sale,1900,275000,0.0,7,191.0,1439.7905,Hesnæsvej 14,4871,Horbelev,Other islands,Zealand,5.0,1.99,8.39
+1994-08-25,1994Q3,1456688,Villa,regular_sale,1956,295000,0.0,3,69.0,4275.3623,Gærumvej 83,9900,Frederikshavn,North jutland,Jutland,5.0,1.99,8.39
+1994-08-24,1994Q3,1456796,Villa,regular_sale,1909,885000,0.0,7,189.0,4682.5396,Bjørnvadbro 2,7900,Nykøbing M,South jutland,Jutland,5.0,1.99,8.39
+1994-08-24,1994Q3,1456779,Villa,regular_sale,1981,846381,0.0,5,132.0,6411.977,Grønnevang 318,3250,Gilleleje,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-24,1994Q3,1456785,Villa,regular_sale,1924,295743,0.0,5,170.0,1739.6647,Kirkebakken 38,6771,Gredstedbro,South jutland,Jutland,5.0,1.99,8.39
+1994-08-24,1994Q3,1456774,Farm,regular_sale,1775,295000,0.0,7,171.0,1725.1462,Nygårdvej 1,6100,Haderslev,South jutland,Jutland,5.0,1.99,8.39
+1994-08-24,1994Q3,1456749,Villa,regular_sale,1877,302000,0.0,3,56.0,5392.857,Jellingvej 133,7100,Vejle,South jutland,Jutland,5.0,1.99,8.39
+1994-08-23,1994Q3,1456831,Villa,regular_sale,1964,835000,0.0,5,142.0,5880.2817,Enghaven 10,6400,Sønderborg,South jutland,Jutland,5.0,1.99,8.39
+1994-08-23,1994Q3,1456810,Villa,regular_sale,1969,795000,0.0,6,197.0,4035.533,Johan Skjoldborgs Vej 9,7700,Thisted,South jutland,Jutland,5.0,1.99,8.39
+1994-08-23,1994Q3,1456811,Villa,regular_sale,1976,848428,0.0,6,153.0,5545.2812,Syrenvænget 5,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-23,1994Q3,1456830,Apartment,regular_sale,1850,478000,0.0,2,67.0,7134.328,"Ane Dams Gade 2B, st",9400,Nørresundby,North jutland,Jutland,5.0,1.99,8.39
+1994-08-22,1994Q3,1456922,Villa,regular_sale,1945,825000,0.0,4,137.0,6021.898,Helmsvej 5,8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-22,1994Q3,1456865,Villa,regular_sale,1934,1050000,0.0,4,158.0,6645.57,Industrivej 6,3550,Slangerup,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-21,1994Q3,1456974,Apartment,regular_sale,1906,6250000,0.0,2,817.0,7649.939,"Stormgade 23, 2. th",6700,Esbjerg,South jutland,Jutland,5.0,1.99,8.39
+1994-08-21,1994Q3,1457008,Farm,regular_sale,1885,1250000,0.0,12,407.0,3071.2532,Vrenderupvej 38,6818,Ãrre,South jutland,Jutland,5.0,1.99,8.39
+1994-08-21,1994Q3,1456976,Villa,regular_sale,1966,301723,0.0,5,114.0,2646.6929,Ørnebjergvej 87,3650,Ølstykke,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-21,1994Q3,1456969,Apartment,regular_sale,1900,699000,0.0,4,107.0,6532.7104,"Mejlgade 91, 3. th",8000,Aarhus C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-21,1994Q3,1456966,Farm,regular_sale,1974,4800000,0.0,9,264.0,18181.818,Mosevej 2,7960,Karby,South jutland,Jutland,5.0,1.99,8.39
+1994-08-21,1994Q3,1457025,Villa,regular_sale,1978,848000,0.0,5,141.0,6014.1846,Ranunkelvej 5,7500,Holstebro,South jutland,Jutland,5.0,1.99,8.39
+1994-08-21,1994Q3,1457024,Apartment,regular_sale,1929,3770000,0.0,2,66.0,57121.21,"Nørregade 2, 1. tv",6700,Esbjerg,South jutland,Jutland,5.0,1.99,8.39
+1994-08-21,1994Q3,1456947,Summerhouse,regular_sale,1967,628432,0.0,5,124.0,5068.0,Thyra Danebods Vej 1,3650,Ølstykke,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-20,1994Q3,1457048,Summerhouse,regular_sale,1974,585410,0.0,4,79.0,7410.253,Bakkesvinget 4,8420,Knebel,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-20,1994Q3,1457052,Summerhouse,regular_sale,1961,414600,0.0,4,78.0,5315.385,Stubbevej 12,3250,Gilleleje,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-20,1994Q3,1457049,Apartment,regular_sale,1934,663410,0.0,4,96.0,6910.521,"Godthåbsvej 135, 1. tv",2000,Frederiksberg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-20,1994Q3,1457044,Villa,regular_sale,1890,450000,0.0,4,160.0,2812.5,Gammelby Strandvej 7,6700,Esbjerg,South jutland,Jutland,5.0,1.99,8.39
+1994-08-19,1994Q3,1457077,Apartment,regular_sale,1980,641254,0.0,3,99.0,6477.313,"Sprogøvej 25, st. th",2000,Frederiksberg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-19,1994Q3,1457078,Villa,regular_sale,1985,2101887,0.0,6,262.0,8022.469,Strandvejen 143E,3060,Espergærde,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-19,1994Q3,1457072,Villa,regular_sale,1977,1554100,0.0,3,144.0,10792.361,Poppelvej 64,2791,Dragør,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-18,1994Q3,1457142,Villa,regular_sale,1973,800375,0.0,8,245.0,3266.8367,Sømærket 2,8960,Randers SA,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-18,1994Q3,1457090,Summerhouse,family_sale,1972,420000,0.0,3,80.0,5250.0,Poppelvænget 40,5631,Ebberup,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-18,1994Q3,1457134,Farm,regular_sale,1925,595000,0.0,7,167.0,3562.8743,Horsmarkvej 18,9230,Svenstrup J,North jutland,Jutland,5.0,1.99,8.39
+1994-08-18,1994Q3,1457103,Townhouse,regular_sale,1979,470000,0.0,4,102.0,4607.8433,Enebærparken 146,6000,Kolding,South jutland,Jutland,5.0,1.99,8.39
+1994-08-18,1994Q3,1457128,Villa,regular_sale,1968,910000,0.0,5,146.0,6232.877,Askøvænget 9,8381,Tilst,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-18,1994Q3,1457109,Villa,family_sale,1963,258750,0.0,6,165.0,1568.1818,Kær Møllevej 138,6094,Hejls,South jutland,Jutland,5.0,1.99,8.39
+1994-08-18,1994Q3,1457125,Villa,regular_sale,1952,690000,0.0,4,112.0,6160.7144,Højgade 36,7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-08-18,1994Q3,1457094,Townhouse,regular_sale,1980,657000,0.0,4,121.0,5429.752,Stammen 126,9260,Gistrup,North jutland,Jutland,5.0,1.99,8.39
+1994-08-17,1994Q3,1457148,Villa,regular_sale,1973,935000,0.0,6,186.0,5026.882,Solvang 12,9900,Frederikshavn,North jutland,Jutland,5.0,1.99,8.39
+1994-08-17,1994Q3,1457145,Villa,regular_sale,1979,749298,0.0,4,127.0,5899.9844,Porsholtparken 56,6740,Bramming,South jutland,Jutland,5.0,1.99,8.39
+1994-08-17,1994Q3,1457146,Villa,regular_sale,1936,320000,0.0,5,203.0,1576.3547,Andebøllevej 16,5492,Vissenbjerg,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-16,1994Q3,1457213,Villa,family_sale,1911,892500,0.0,5,132.0,6761.364,Gl. Frederiksborgvej 67A,3400,Hillerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-16,1994Q3,1457249,Villa,regular_sale,1935,380000,0.0,4,95.0,4000.0,Ãkandevej 3,4330,Hvalsø,Other islands,Zealand,5.0,1.99,8.39
+1994-08-15,1994Q3,1457282,Villa,regular_sale,1986,895000,0.0,4,163.0,5490.7974,Solbakkevej 89,7480,Vildbjerg,South jutland,Jutland,5.0,1.99,8.39
+1994-08-15,1994Q3,1457288,Villa,regular_sale,1936,300000,0.0,4,115.0,2608.6956,Allingdamvej 4,9850,Hirtshals,North jutland,Jutland,5.0,1.99,8.39
+1994-08-15,1994Q3,1457279,Apartment,regular_sale,1908,800000,0.0,4,121.0,6611.5703,"Svanelundsvej 5, st",9800,Hjørring,North jutland,Jutland,5.0,1.99,8.39
+1994-08-14,1994Q3,1457332,Apartment,regular_sale,1907,945000,0.0,3,78.0,12115.385,"Dalgas Alle 20, st. tv",7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-08-14,1994Q3,1457409,Apartment,regular_sale,1968,360000,0.0,3,82.0,4390.244,"Floravænget 30, st",5250,Odense SV,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-14,1994Q3,1457322,Apartment,regular_sale,1913,947000,0.0,4,130.0,7284.615,"Nørrevænget 16, st",5000,Odense C,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-14,1994Q3,1457342,Villa,regular_sale,1956,843580,0.0,4,147.0,5738.6396,Bjørnebakken 13,3400,Hillerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-13,1994Q3,1457442,Villa,regular_sale,1978,825000,0.0,5,154.0,5357.143,Lungstedvangen 27,5250,Odense SV,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-13,1994Q3,1457421,Villa,regular_sale,1937,1782402,0.0,6,168.0,10609.536,Ordrupdalvej 40,2920,Charlottenlund,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-13,1994Q3,1457436,Villa,regular_sale,1954,660000,0.0,3,96.0,6875.0,Sverigesvej 29,5500,Middelfart,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-12,1994Q3,1457451,Villa,regular_sale,1961,662023,0.0,3,127.0,5212.7793,Egevej 4,5300,Kerteminde,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-11,1994Q3,1457489,Villa,regular_sale,1919,650000,0.0,5,220.0,2954.5454,Moshusevej 7,6092,Sønder Stenderup,South jutland,Jutland,5.0,1.99,8.39
+1994-08-10,1994Q3,1457583,Summerhouse,regular_sale,2009,397000,0.0,4,117.0,3393.1624,Karnøevej 2,9492,Blokhus,North jutland,Jutland,5.0,1.99,8.39
+1994-08-10,1994Q3,1457601,Villa,family_sale,1941,700000,0.0,7,177.0,3954.8022,Planteheldvej 4,2650,Hvidovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-09,1994Q3,1457606,Townhouse,regular_sale,1988,405000,0.0,4,90.0,4500.0,S.J. Hvarregaardsvej 12A,9492,Blokhus,North jutland,Jutland,5.0,1.99,8.39
+1994-08-09,1994Q3,1457620,Townhouse,regular_sale,1953,594390,0.0,3,100.0,5943.9,Skyttehøj 58,2770,Kastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-09,1994Q3,1457658,Apartment,regular_sale,1898,338980,0.0,3,98.0,3458.9795,"Nørregade 4C, 2",9870,Sindal,North jutland,Jutland,5.0,1.99,8.39
+1994-08-09,1994Q3,1457673,Villa,regular_sale,1936,300000,0.0,8,183.0,1639.3442,Thorupvej 16,5970,Ãrøskøbing,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-09,1994Q3,1457626,Villa,regular_sale,1978,500000,0.0,5,180.0,2777.7778,Kløvervænget 15,4850,Stubbekøbing,Other islands,Zealand,5.0,1.99,8.39
+1994-08-08,1994Q3,1457720,Townhouse,regular_sale,1982,462027,0.0,3,80.0,5775.3374,Fjordstien 4B,4500,Nykøbing Sj,Other islands,Zealand,5.0,1.99,8.39
+1994-08-08,1994Q3,1457732,Villa,regular_sale,1955,300000,0.0,3,76.0,3947.3684,Dyssevænget 30,6900,Skjern,South jutland,Jutland,5.0,1.99,8.39
+1994-08-07,1994Q3,1457829,Villa,regular_sale,1948,897000,0.0,4,140.0,6407.143,Søborggårdsvej 4,3460,Birkerød,North Zealand,Zealand,5.0,1.99,8.39
+1994-08-07,1994Q3,1457778,Apartment,auction,1800,7500000,0.0,3,109.0,68807.336,"Store Kongensgade 19B, 3",1264,København K,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-07,1994Q3,1457824,Apartment,regular_sale,1904,2846411,0.0,3,178.0,15991.073,"Rådhusvej 26, st",2920,Charlottenlund,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-07,1994Q3,1457763,Apartment,auction,1700,7500000,0.0,3,123.0,60975.61,"Store Kongensgade 11, 2. th",1264,København K,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-07,1994Q3,1457798,Villa,regular_sale,1977,1980000,0.0,8,254.0,7795.2754,Bolskovvej 11,8660,Skanderborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-07,1994Q3,1457762,Apartment,auction,1700,7500000,0.0,3,123.0,60975.61,"Store Kongensgade 11, 1. th",1264,København K,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-04,1994Q3,1457904,Townhouse,regular_sale,1954,420000,0.0,4,89.0,4719.101,Njalsvej 15,5210,Odense NV,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-08-03,1994Q3,1457963,Villa,regular_sale,1984,934813,0.0,4,147.0,6359.272,Blåhøj 36,7000,Fredericia,South jutland,Jutland,5.0,1.99,8.39
+1994-08-03,1994Q3,1457939,Villa,regular_sale,1950,440000,0.0,6,240.0,1833.3334,Glyngørevej 57,7800,Skive,South jutland,Jutland,5.0,1.99,8.39
+1994-08-02,1994Q3,1458005,Villa,regular_sale,1906,450000,0.0,7,209.0,2153.11,Sønderbyvej 27,6731,Tjæreborg,South jutland,Jutland,5.0,1.99,8.39
+1994-08-02,1994Q3,1457977,Villa,regular_sale,1974,700000,0.0,5,164.0,4268.2925,Kirkevænget 23,8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-02,1994Q3,1458010,Villa,regular_sale,1981,618000,0.0,4,156.0,3961.5386,Friggsvej 30,9870,Sindal,North jutland,Jutland,5.0,1.99,8.39
+1994-08-02,1994Q3,1458019,Villa,regular_sale,1969,1024000,0.0,5,167.0,6131.7363,Hoffmannsvej 5,8220,Brabrand,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-08-02,1994Q3,1457966,Villa,other_sale,1981,600000,0.0,4,123.0,4878.049,Højtoften 57,9620,Aalestrup,North jutland,Jutland,5.0,1.99,8.39
+1994-08-02,1994Q3,1457980,Summerhouse,regular_sale,1948,1100000,0.0,6,110.0,10000.0,Frederiksdalsvej 139B,2830,Virum,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-08-01,1994Q3,1458055,Farm,regular_sale,1902,765000,0.0,8,201.0,3805.9702,V. Børstingvej 11,7800,Skive,South jutland,Jutland,5.0,1.99,8.39
+1994-08-01,1994Q3,1458025,Townhouse,regular_sale,1834,348000,0.0,3,85.0,4094.1177,Strandgade 44,9300,Sæby,North jutland,Jutland,5.0,1.99,8.39
+1994-08-01,1994Q3,1458054,Villa,regular_sale,1982,756000,0.0,5,127.0,5952.756,Holger Drachmanns V 26,8400,Ebeltoft,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-31,1994Q3,1458137,Farm,regular_sale,1900,2015000,0.0,7,310.0,6500.0,Nykøbingvej 52,4200,Slagelse,Other islands,Zealand,5.0,1.99,8.39
+1994-07-31,1994Q3,1458146,Apartment,regular_sale,1930,538884,0.0,4,91.0,5921.8022,"Danshøjvej 25, st",2500,Valby,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-31,1994Q3,1458117,Summerhouse,regular_sale,1968,275000,0.0,3,52.0,5288.4614,Hejsager Strandby 121,6100,Haderslev,South jutland,Jutland,5.0,1.99,8.39
+1994-07-31,1994Q3,1458149,Townhouse,regular_sale,1750,1413943,0.0,3,97.0,14576.732,Kløvestedvej 6D,4140,Borup,Other islands,Zealand,5.0,1.99,8.39
+1994-07-31,1994Q3,1458095,Townhouse,regular_sale,1949,800000,0.0,4,87.0,9195.402,Toftekærsvej 164,2860,Søborg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-29,1994Q3,1458189,Apartment,regular_sale,1939,525000,0.0,3,83.0,6325.3013,"Kristiansgade 32, st",7430,Ikast,South jutland,Jutland,5.0,1.99,8.39
+1994-07-28,1994Q3,1458208,Villa,other_sale,1977,256733,0.0,6,132.0,1944.947,Saugskærvej 12,5700,Svendborg,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-28,1994Q3,1458224,Farm,family_sale,1952,800000,0.0,5,175.0,4571.4287,Tarpvej 211,6830,Nørre Nebel,South jutland,Jutland,5.0,1.99,8.39
+1994-07-28,1994Q3,1458227,Apartment,regular_sale,1906,1517000,0.0,5,174.0,8718.391,"Kochsvej 2, 3. th",1812,Frederiksberg C,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-27,1994Q3,1458287,Apartment,regular_sale,1974,524400,0.0,2,71.0,7385.9155,"Drejøgade 26D, 3. 303",2100,København A,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-27,1994Q3,1458304,Apartment,regular_sale,1893,780000,0.0,5,135.0,5777.778,"Hollændervej 4A, st. tv",1855,Frederiksberg C,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-27,1994Q3,1458305,Villa,regular_sale,1943,550000,0.0,6,186.0,2956.9893,Rosengade 27,8740,Brædstrup,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-27,1994Q3,1458296,Villa,regular_sale,1946,650000,0.0,4,115.0,5652.174,Linå Bygade 40,8600,Silkeborg,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-27,1994Q3,1458294,Villa,regular_sale,1917,720000,0.0,7,198.0,3636.3635,Næstvedvej 15,4180,Sorø,Other islands,Zealand,5.0,1.99,8.39
+1994-07-26,1994Q3,1458325,Farm,regular_sale,1900,730000,0.0,6,116.0,6293.1035,Klattrup Bygade 52,7000,Fredericia,South jutland,Jutland,5.0,1.99,8.39
+1994-07-26,1994Q3,1458308,Villa,regular_sale,1972,540000,0.0,4,160.0,3375.0,Kirke AllÃ© 3,8500,Grenaa,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-26,1994Q3,1458342,Villa,regular_sale,1952,325000,0.0,2,63.0,5158.73,Mou Kær 41,9460,Brovst,North jutland,Jutland,5.0,1.99,8.39
+1994-07-25,1994Q3,1458386,Farm,auction,1840,1323000,0.0,7,169.0,7828.4023,Ulkestrupvej 14,4440,Mørkøv,Other islands,Zealand,5.0,1.99,8.39
+1994-07-25,1994Q3,1458384,Villa,regular_sale,1930,495000,0.0,9,228.0,2171.0527,Borgergade 31,8970,Havndal,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-25,1994Q3,1458402,Villa,family_sale,1968,995955,0.0,4,121.0,8231.033,Lille Lyngvej 3,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-25,1994Q3,1458385,Villa,regular_sale,1981,460000,0.0,4,119.0,3865.5461,Kelstruphøj 22,4560,Vig,Other islands,Zealand,5.0,1.99,8.39
+1994-07-24,1994Q3,1458410,Villa,regular_sale,1998,400000,0.0,6,141.0,2836.8794,N. S. Larsensvej 3,9492,Blokhus,North jutland,Jutland,5.0,1.99,8.39
+1994-07-24,1994Q3,1458446,Apartment,regular_sale,1908,600000,0.0,2,68.0,8823.529,"Torvegade 25A, 2. tv",4640,Faxe,Other islands,Zealand,5.0,1.99,8.39
+1994-07-24,1994Q3,1458436,Villa,regular_sale,1930,798375,0.0,4,79.0,10106.013,Højstrupvej 150,2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-24,1994Q3,1458477,Villa,regular_sale,1928,725000,0.0,5,133.0,5451.128,Jægersborg Alle 110,2920,Charlottenlund,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-24,1994Q3,1458476,Farm,regular_sale,1880,530000,0.0,3,167.0,3173.6526,Stendalsvej 5,7752,Snedsted,South jutland,Jutland,5.0,1.99,8.39
+1994-07-24,1994Q3,1458414,Villa,family_sale,1956,605000,0.0,2,87.0,6954.023,Danasvej 14,4600,Køge,Other islands,Zealand,5.0,1.99,8.39
+1994-07-24,1994Q3,1458473,Farm,family_sale,2003,2000000,0.0,8,305.0,6557.377,Bakkedalvej 10,7790,Thyholm,South jutland,Jutland,5.0,1.99,8.39
+1994-07-23,1994Q3,1458482,Apartment,regular_sale,1935,360700,0.0,2,59.0,6113.559,"Ãrtevej 19, 2. 4",2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-23,1994Q3,1458489,Villa,regular_sale,1992,1384940,0.0,4,136.0,10183.383,Søvangen 11,2635,Ishøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-22,1994Q3,1458494,Summerhouse,regular_sale,2007,498000,0.0,4,92.0,5413.0435,Lykkevej 1,7080,Børkop,South jutland,Jutland,5.0,1.99,8.39
+1994-07-21,1994Q3,1458530,Townhouse,regular_sale,1925,274750,0.0,5,117.0,2348.2905,Bredgade 11,8766,Nørre Snede,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-20,1994Q3,1458558,Villa,regular_sale,1955,751103,0.0,6,140.0,5365.0215,Jellingvej 25,5200,Odense V,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-20,1994Q3,1458572,Villa,regular_sale,1939,470000,0.0,5,141.0,3333.3333,Brandstrupvej 2,4293,Dianalund,Other islands,Zealand,5.0,1.99,8.39
+1994-07-20,1994Q3,1458579,Villa,regular_sale,1939,500000,0.0,5,192.0,2604.1667,Havevej 1,6823,Ansager,South jutland,Jutland,5.0,1.99,8.39
+1994-07-20,1994Q3,1458532,Summerhouse,regular_sale,1970,268500,0.0,4,55.0,4881.8184,Lille Skovvej 4,3630,Jægerspris,North Zealand,Zealand,5.0,1.99,8.39
+1994-07-20,1994Q3,1458554,Villa,regular_sale,1941,383000,0.0,6,173.0,2213.8728,Rudevej 8,8300,Odder,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-20,1994Q3,1458583,Townhouse,regular_sale,1971,890000,0.0,4,183.0,4863.388,Vigerslevvej 260B,2500,Valby,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-19,1994Q3,1458632,Villa,regular_sale,1908,893039,0.0,8,269.0,3319.8477,Vestre Havnevej 18,4400,Kalundborg,Other islands,Zealand,5.0,1.99,8.39
+1994-07-19,1994Q3,1458622,Townhouse,regular_sale,1987,775000,0.0,4,112.0,6919.643,Kildehøjen 50B,4690,Haslev,Other islands,Zealand,5.0,1.99,8.39
+1994-07-19,1994Q3,1458628,Apartment,auction,1978,431000,0.0,4,122.0,3532.7869,"Askeskellet 30, st",2000,Frederiksberg,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-19,1994Q3,1458604,Villa,regular_sale,1903,695000,0.0,4,179.0,3882.6816,Frøbjergvej 43,5560,Aarup,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-19,1994Q3,1458601,Villa,regular_sale,1975,570000,0.0,4,112.0,5089.2856,Bækgårdsvej 1,4700,Næstved,Other islands,Zealand,5.0,1.99,8.39
+1994-07-19,1994Q3,1458603,Villa,regular_sale,1913,380000,0.0,4,117.0,3247.8633,Skærumvej 26,9870,Sindal,North jutland,Jutland,5.0,1.99,8.39
+1994-07-18,1994Q3,1458641,Farm,regular_sale,1909,1800000,0.0,6,160.0,11250.0,Norvej 6,4220,Korsør,Other islands,Zealand,5.0,1.99,8.39
+1994-07-18,1994Q3,1458649,Apartment,regular_sale,1914,544000,0.0,2,52.0,10461.538,"Grønnegade 66, 4. th",8000,Aarhus C,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-17,1994Q3,1458738,Farm,family_sale,1976,1275000,0.0,5,130.0,9807.692,Tørvevej 45,6852,Billum,South jutland,Jutland,5.0,1.99,8.39
+1994-07-17,1994Q3,1458770,Villa,regular_sale,1968,926400,0.0,4,123.0,7531.7075,Odensevej 21,4000,Roskilde,Other islands,Zealand,5.0,1.99,8.39
+1994-07-17,1994Q3,1458771,Apartment,regular_sale,1995,2560300,0.0,3,126.0,20319.842,"Nørregade 6A, 2. 2",7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-07-17,1994Q3,1458739,Villa,regular_sale,1912,3100000,0.0,6,186.0,16666.666,"Borgergade 84, st. tv",9362,Gandrup,North jutland,Jutland,5.0,1.99,8.39
+1994-07-17,1994Q3,1458702,Villa,regular_sale,1931,1223618,0.0,5,157.0,7793.745,Klitrose Alle 17,2770,Kastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-17,1994Q3,1458749,Villa,regular_sale,1939,570000,0.0,3,70.0,8142.857,Buddinge Hovedgade 231,2880,Bagsværd,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-16,1994Q3,1458775,Villa,regular_sale,1952,351640,0.0,3,77.0,4566.7534,Kærvej 20,9500,Hobro,North jutland,Jutland,5.0,1.99,8.39
+1994-07-16,1994Q3,1458780,Summerhouse,family_sale,1932,300000,0.0,3,59.0,5084.7456,Astre Strandvej 187,5450,Otterup,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-15,1994Q3,1458799,Villa,regular_sale,1898,5000000,0.0,8,300.0,16666.666,Vedbæk Strandvej 452,2950,Vedbæk,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-15,1994Q3,1458786,Villa,regular_sale,1986,1162000,0.0,6,186.0,6247.312,Ved Bjerget 40,9530,Støvring,North jutland,Jutland,5.0,1.99,8.39
+1994-07-14,1994Q3,1458825,Villa,auction,1802,420000,0.0,5,170.0,2470.5881,Oddenvej 251,4583,Sjællands Odde,Other islands,Zealand,5.0,1.99,8.39
+1994-07-14,1994Q3,1458832,Villa,regular_sale,1940,274807,0.0,9,242.0,1135.5662,Bokærsvej 11,9340,Asaa,North jutland,Jutland,5.0,1.99,8.39
+1994-07-14,1994Q3,1458810,Villa,regular_sale,1957,340000,0.0,3,82.0,4146.3413,Fjordvej 187,5330,Munkebo,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-14,1994Q3,1458809,Villa,regular_sale,1905,749483,0.0,6,192.0,3903.5574,Fjordsgade 3A,8700,Horsens,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-13,1994Q3,1458933,Villa,regular_sale,1975,678000,0.0,7,170.0,3988.2354,Højlund 51,6400,Sønderborg,South jutland,Jutland,5.0,1.99,8.39
+1994-07-13,1994Q3,1458917,Villa,regular_sale,1964,320000,0.0,3,109.0,2935.7798,Stationsvej 6,6200,Aabenraa,South jutland,Jutland,5.0,1.99,8.39
+1994-07-13,1994Q3,1458900,Apartment,auction,1935,3210000,0.0,2,52.0,61730.77,"Astrupvej 70, 1. 2",2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-13,1994Q3,1458906,Apartment,auction,1935,3210000,0.0,2,51.0,62941.176,"Astrupvej 70, 2. 3",2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-13,1994Q3,1458916,Townhouse,regular_sale,1900,445000,0.0,5,104.0,4278.846,Trekronergade 137,2500,Valby,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-13,1994Q3,1458940,Apartment,regular_sale,1989,595000,0.0,4,126.0,4722.222,"Smallegade 3, 1. tv",7400,Herning,South jutland,Jutland,5.0,1.99,8.39
+1994-07-13,1994Q3,1458910,Villa,regular_sale,1980,726000,0.0,5,120.0,6050.0,Hasselbakken 32,8361,Hasselager,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-13,1994Q3,1458878,Apartment,auction,1935,3210000,0.0,2,45.0,71333.336,"Astrupvej 68, st. 1",2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-13,1994Q3,1458901,Apartment,auction,1935,3210000,0.0,2,45.0,71333.336,"Astrupvej 70, 1. 4",2700,Brønshøj,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-12,1994Q3,1458954,Villa,family_sale,1902,262566,0.0,6,248.0,1058.7339,Hajslundvej 16,7500,Holstebro,South jutland,Jutland,5.0,1.99,8.39
+1994-07-12,1994Q3,1458951,Villa,auction,1970,918000,0.0,5,152.0,6039.4736,Lønholtvej 12,3480,Fredensborg,North Zealand,Zealand,5.0,1.99,8.39
+1994-07-12,1994Q3,1458983,Farm,family_sale,1906,2164300,0.0,6,236.0,9170.763,Selsøvej 27,4050,Skibby,Other islands,Zealand,5.0,1.99,8.39
+1994-07-12,1994Q3,1458973,Villa,regular_sale,1975,551238,0.0,5,148.0,3724.581,Jebjergvej 44,8870,Langå,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-12,1994Q3,1458977,Villa,regular_sale,1982,1942220,0.0,7,199.0,9759.899,Sandagervej 27,8240,Risskov,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-12,1994Q3,1458952,Villa,regular_sale,1982,422632,0.0,4,103.0,4103.223,Borgergade 8,8450,Hammel,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-11,1994Q3,1459021,Farm,family_sale,1912,382000,0.0,4,119.0,3210.084,Esbjergvej 81,6650,Brørup,South jutland,Jutland,5.0,1.99,8.39
+1994-07-10,1994Q3,1459064,Villa,regular_sale,1952,496040,0.0,5,166.0,2988.1929,Løgstørvej 68,9500,Hobro,North jutland,Jutland,5.0,1.99,8.39
+1994-07-09,1994Q3,1459129,Villa,regular_sale,1927,549600,0.0,5,139.0,3953.9568,Enighedsvej 8,4180,Sorø,Other islands,Zealand,5.0,1.99,8.39
+1994-07-09,1994Q3,1459128,Townhouse,regular_sale,1985,978299,0.0,4,116.0,8433.612,Rødovrevej 80D,2610,Rødovre,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-09,1994Q3,1459119,Townhouse,regular_sale,1985,1173000,0.0,4,119.0,9857.143,Egehegnet 75,2850,Nærum,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-08,1994Q3,1459135,Townhouse,regular_sale,1915,355000,0.0,3,135.0,2629.6296,Assensvej 11,5500,Middelfart,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-08,1994Q3,1459139,Apartment,regular_sale,1840,734705,0.0,3,87.0,8444.885,"Rahbeks Alle 34, st. th",1801,Frederiksberg C,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-08,1994Q3,1459144,Farm,regular_sale,1907,865606,0.0,6,238.0,3637.0,Rudholmvej 41,6818,Ãrre,South jutland,Jutland,5.0,1.99,8.39
+1994-07-07,1994Q3,1459179,Villa,regular_sale,1984,530000,0.0,3,85.0,6235.294,Sneppevej 51,8723,Løsning,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-07,1994Q3,1459194,Villa,regular_sale,1900,405480,0.0,5,156.0,2599.2307,Skelskovvej 41,5690,Tommerup,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-07,1994Q3,1459224,Villa,regular_sale,1934,787000,0.0,4,127.0,6196.8506,Egøjevej 10,4600,Køge,Other islands,Zealand,5.0,1.99,8.39
+1994-07-07,1994Q3,1459176,Villa,regular_sale,1953,325000,0.0,6,182.0,1785.7142,Sognegårdsvej 10,6990,Ulfborg,South jutland,Jutland,5.0,1.99,8.39
+1994-07-06,1994Q3,1459268,Villa,regular_sale,1987,960000,0.0,5,156.0,6153.846,Sofienbergparken 7,5800,Nyborg,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-07-06,1994Q3,1459239,Townhouse,regular_sale,1946,760977,0.0,5,98.0,7765.0713,Uranus Alle 8,2770,Kastrup,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-05,1994Q3,1459326,Villa,regular_sale,1927,590000,0.0,4,133.0,4436.0903,Augustenborg Landevej 75,6400,Sønderborg,South jutland,Jutland,5.0,1.99,8.39
+1994-07-05,1994Q3,1459315,Townhouse,regular_sale,1938,1109462,0.0,5,94.0,11802.787,Wienervej 15,2830,Virum,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-05,1994Q3,1459303,Farm,regular_sale,1880,417500,0.0,6,160.0,2609.375,Hobrovej 2,7840,Højslev,South jutland,Jutland,5.0,1.99,8.39
+1994-07-04,1994Q3,1459380,Villa,regular_sale,1924,802000,0.0,5,106.0,7566.0376,Højmosevej 22,2400,København NV,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-04,1994Q3,1459378,Villa,regular_sale,1976,1100000,0.0,4,169.0,6508.876,Tornskadevej 37,7600,Struer,South jutland,Jutland,5.0,1.99,8.39
+1994-07-03,1994Q3,1459420,Villa,regular_sale,1975,995000,0.0,5,190.0,5236.8423,Vestervangsvej 58,8450,Hammel,East & mid jutland,Jutland,5.0,1.99,8.39
+1994-07-03,1994Q3,1459460,Villa,regular_sale,1941,671109,0.0,5,121.0,5546.3555,Jyllandsgade 3,4100,Ringsted,Other islands,Zealand,5.0,1.99,8.39
+1994-07-03,1994Q3,1459451,Summerhouse,regular_sale,1853,646695,0.0,5,116.0,5574.957,Kongelysvej 6,3390,Hundested,North Zealand,Zealand,5.0,1.99,8.39
+1994-07-03,1994Q3,1459478,Villa,regular_sale,1918,1052000,0.0,7,184.0,5717.391,Oldfuxvej 17,2400,København NV,"Capital, Copenhagen",Zealand,5.0,1.99,8.39
+1994-07-03,1994Q3,1459432,Villa,regular_sale,1969,495000,0.0,5,130.0,3807.6924,Selbjerg 28,6100,Haderslev,South jutland,Jutland,5.0,1.99,8.39
+1994-07-03,1994Q3,1459427,Farm,regular_sale,1909,690000,0.0,9,232.0,2974.138,Brædstrupvej 22,7160,Tørring,South jutland,Jutland,5.0,1.99,8.39
+1994-07-03,1994Q3,1459482,Villa,regular_sale,1942,575000,0.0,5,129.0,4457.3643,Egøgade 8,4220,Korsør,Other islands,Zealand,5.0,1.99,8.39
+1994-07-03,1994Q3,1459429,Villa,regular_sale,1989,259978,0.0,4,102.0,2548.804,Bogøvænget 13,5500,Middelfart,Fyn & islands,Fyn & islands,5.0,1.99,8.39
+1994-06-30,1994Q2,1459608,Villa,regular_sale,1980,497000,0.0,4,127.0,3913.3857,Slipager 12,5854,Gislev,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-30,1994Q2,1459609,Villa,regular_sale,1941,365000,0.0,3,80.0,4562.5,Astre Havnevej 17,4583,Sjællands Odde,Other islands,Zealand,5.5,1.99,8.39
+1994-06-30,1994Q2,1459526,Apartment,regular_sale,1924,735000,0.0,5,142.0,5176.056,"Flinterenden 4, 3. th",2300,København S,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-30,1994Q2,1459558,Summerhouse,regular_sale,1951,795000,0.0,7,144.0,5520.8335,Nordslugen 11,6857,Blåvand,South jutland,Jutland,5.5,1.99,8.39
+1994-06-30,1994Q2,1459607,Farm,family_sale,2005,550000,0.0,6,230.0,2391.3044,Ved Fyret 11,6300,Gråsten,South jutland,Jutland,5.5,1.99,8.39
+1994-06-30,1994Q2,1459600,Villa,regular_sale,1977,440000,0.0,4,115.0,3826.087,Ahornvej 9,7860,Spøttrup,South jutland,Jutland,5.5,1.99,8.39
+1994-06-30,1994Q2,1459611,Villa,regular_sale,2022,1103320,0.0,10,235.0,4694.9785,Sverigesvej 8A,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-29,1994Q2,1459654,Farm,regular_sale,1750,3122000,0.0,11,327.0,9547.4,Astermarkvej 14,6230,Rødekro,South jutland,Jutland,5.5,1.99,8.39
+1994-06-29,1994Q2,1459656,Summerhouse,regular_sale,1968,400000,0.0,4,54.0,7407.407,Knudedybsvej 4,9800,Hjørring,North jutland,Jutland,5.5,1.99,8.39
+1994-06-29,1994Q2,1459694,Villa,regular_sale,1986,1150252,0.0,5,154.0,7469.169,Gyvellunden 55,6800,Varde,South jutland,Jutland,5.5,1.99,8.39
+1994-06-29,1994Q2,1459661,Villa,regular_sale,1985,1200000,0.0,6,187.0,6417.1123,Kirkebjerg Vænge 33,2635,Ishøj,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-29,1994Q2,1459676,Villa,regular_sale,1888,645000,0.0,6,327.0,1972.477,Kærsgårdvej 4,9800,Hjørring,North jutland,Jutland,5.5,1.99,8.39
+1994-06-29,1994Q2,1459693,Farm,regular_sale,1917,1100000,0.0,5,140.0,7857.143,Aster Vase 17,9280,Storvorde,North jutland,Jutland,5.5,1.99,8.39
+1994-06-29,1994Q2,1459667,Villa,regular_sale,1974,594000,0.0,5,130.0,4569.231,Ribe Landevej 94,6100,Haderslev,South jutland,Jutland,5.5,1.99,8.39
+1994-06-29,1994Q2,1459625,Townhouse,regular_sale,1972,622987,0.0,5,138.0,4514.3984,Brønlundsvej 13,9210,Aalborg SA,North jutland,Jutland,5.5,1.99,8.39
+1994-06-29,1994Q2,1459657,Villa,regular_sale,1995,325000,0.0,5,161.0,2018.6335,Råbroparken 29,2765,Smørum,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-28,1994Q2,1459779,Townhouse,regular_sale,1985,1052000,0.0,5,127.0,8283.465,Bygaden 5C,9000,Aalborg,North jutland,Jutland,5.5,1.99,8.39
+1994-06-28,1994Q2,1459732,Villa,regular_sale,1896,275000,0.0,4,142.0,1936.6198,Kirkelyngsvej 4,4160,Herlufmagle,Other islands,Zealand,5.5,1.99,8.39
+1994-06-27,1994Q2,1459789,Villa,regular_sale,1934,575000,0.0,8,169.0,3402.367,Vordingborg Landevej 22,4700,Næstved,Other islands,Zealand,5.5,1.99,8.39
+1994-06-27,1994Q2,1459854,Villa,regular_sale,1960,767500,0.0,6,139.0,5521.5825,Barritvej 30,2770,Kastrup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-27,1994Q2,1459837,Villa,regular_sale,1959,555000,0.0,5,107.0,5186.916,Banevænget 4,4293,Dianalund,Other islands,Zealand,5.5,1.99,8.39
+1994-06-27,1994Q2,1459809,Villa,regular_sale,1971,595000,0.0,6,216.0,2754.6296,Toftevej 24,6440,Augustenborg,South jutland,Jutland,5.5,1.99,8.39
+1994-06-27,1994Q2,1459819,Villa,regular_sale,1969,323851,0.0,5,155.0,2089.3613,Enghaven 11,8250,Egå,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-27,1994Q2,1459864,Farm,family_sale,2005,400000,0.0,5,160.0,2500.0,Omfartsvejen 45A,4300,Holbæk,Other islands,Zealand,5.5,1.99,8.39
+1994-06-27,1994Q2,1459841,Apartment,regular_sale,1901,900000,0.0,3,54.0,16666.666,"Sønderbrogade 49, 1. th",8700,Horsens,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-26,1994Q2,1459910,Villa,regular_sale,1940,735000,0.0,4,107.0,6869.1587,Henrik Hertz Vej 46,8230,Ãbyhøj,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-26,1994Q2,1459918,Villa,regular_sale,1925,385000,0.0,5,120.0,3208.3333,Orebyvej 82,4990,Sakskøbing,Other islands,Zealand,5.5,1.99,8.39
+1994-06-26,1994Q2,1459967,Villa,regular_sale,1943,569750,0.0,4,172.0,3312.5,Kroghusvej 25,6940,Lem St,South jutland,Jutland,5.5,1.99,8.39
+1994-06-26,1994Q2,1459899,Villa,regular_sale,1975,716000,0.0,5,194.0,3690.7217,Vagtelvej 45,8560,Kolind,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-26,1994Q2,1459894,Apartment,regular_sale,1983,1163975,0.0,4,113.0,10300.664,"Averødvej 72A, 1",2840,Holte,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-25,1994Q2,1459980,Villa,regular_sale,1900,557920,0.0,4,107.0,5214.2056,Roskildevej 109,3400,Hillerød,North Zealand,Zealand,5.5,1.99,8.39
+1994-06-23,1994Q2,1460064,Farm,regular_sale,1920,822000,0.0,3,144.0,5708.3335,Engvej 197,9381,Sulsted,North jutland,Jutland,5.5,1.99,8.39
+1994-06-23,1994Q2,1460022,Farm,family_sale,1906,1200000,0.0,7,168.0,7142.857,Mustrupvej 21,8320,Mårslet,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-23,1994Q2,1460048,Villa,regular_sale,1935,440000,0.0,4,117.0,3760.6838,Slagelsevej 130,4400,Kalundborg,Other islands,Zealand,5.5,1.99,8.39
+1994-06-23,1994Q2,1460031,Apartment,regular_sale,1937,252816,0.0,4,101.0,2503.1287,"Skovvejen 9, 5. tv",8000,Aarhus C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-23,1994Q2,1460054,Villa,regular_sale,1942,716000,0.0,6,95.0,7536.8423,Valdemarsvej 4,4180,Sorø,Other islands,Zealand,5.5,1.99,8.39
+1994-06-22,1994Q2,1460130,Villa,regular_sale,1976,720000,0.0,4,125.0,5760.0,Kroggårdvej 89,5270,Odense N,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-22,1994Q2,1460111,Townhouse,regular_sale,1922,370000,0.0,6,131.0,2824.4275,Svendborgvej 51,5600,Faaborg,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-22,1994Q2,1460162,Apartment,regular_sale,1900,450000,0.0,2,46.0,9782.608,Bredgade 17,8740,Brædstrup,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-21,1994Q2,1460184,Villa,regular_sale,1980,925000,0.0,5,159.0,5817.61,Tyreløkke 5,4622,Havdrup,Other islands,Zealand,5.5,1.99,8.39
+1994-06-21,1994Q2,1460226,Villa,regular_sale,1875,280000,0.0,5,174.0,1609.1954,Vandmøllevej 11,6230,Rødekro,South jutland,Jutland,5.5,1.99,8.39
+1994-06-20,1994Q2,1460248,Villa,regular_sale,1908,1525000,0.0,4,134.0,11380.597,Frydenlundsvej 75,2950,Vedbæk,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-20,1994Q2,1460303,Apartment,regular_sale,1982,959000,0.0,4,84.0,11416.667,Kollemosevej 10A,2840,Holte,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-20,1994Q2,1460281,Apartment,regular_sale,1939,361000,0.0,5,114.0,3166.6667,"Sønderbyen 12C, 1",6753,Agerbæk,South jutland,Jutland,5.5,1.99,8.39
+1994-06-20,1994Q2,1460261,Villa,regular_sale,1957,470000,0.0,5,85.0,5529.4116,Faaborgvej 141,5250,Odense SV,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-20,1994Q2,1460315,Villa,regular_sale,1960,835000,0.0,7,149.0,5604.027,Fyrrevej 36,4000,Roskilde,Other islands,Zealand,5.5,1.99,8.39
+1994-06-20,1994Q2,1460290,Villa,regular_sale,1964,535842,0.0,4,120.0,4465.35,Primulavej 18,6400,Sønderborg,South jutland,Jutland,5.5,1.99,8.39
+1994-06-19,1994Q2,1460349,Townhouse,regular_sale,1712,680000,0.0,2,45.0,15111.111,Sudergade 29D,3000,Helsingør,North Zealand,Zealand,5.5,1.99,8.39
+1994-06-19,1994Q2,1460363,Apartment,regular_sale,1966,515000,0.0,3,82.0,6280.488,"Sletterhagevej 23, 1. th",8240,Risskov,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-19,1994Q2,1460407,Villa,regular_sale,1939,455000,0.0,3,99.0,4595.9595,Wibolttsvej 16,4900,Nakskov,Other islands,Zealand,5.5,1.99,8.39
+1994-06-19,1994Q2,1460373,Villa,regular_sale,1978,705000,0.0,7,223.0,3161.435,Buntmagervej 33,9300,Sæby,North jutland,Jutland,5.5,1.99,8.39
+1994-06-18,1994Q2,1460427,Apartment,regular_sale,1980,695000,0.0,2,79.0,8797.469,"Vinkelvej 12B, 7. tv",2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-18,1994Q2,1460443,Villa,regular_sale,1930,425000,0.0,7,188.0,2260.6382,Højskole Alle 37,2770,Kastrup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-18,1994Q2,1460430,Villa,regular_sale,1979,810000,0.0,5,150.0,5400.0,Ribersvej 120,7200,Grindsted,South jutland,Jutland,5.5,1.99,8.39
+1994-06-18,1994Q2,1460426,Villa,regular_sale,1961,440077,0.0,5,146.0,3014.226,Lærkevej 11,5550,Langeskov,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-18,1994Q2,1460441,Villa,regular_sale,1974,707000,0.0,5,130.0,5438.4614,Helletoften 10,5700,Svendborg,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-16,1994Q2,1460493,Villa,regular_sale,1978,802000,0.0,7,169.0,4745.562,Rønne Alle 114,7451,Sunds,South jutland,Jutland,5.5,1.99,8.39
+1994-06-16,1994Q2,1460490,Townhouse,regular_sale,1994,1446400,0.0,4,100.0,14464.0,Skovvej 17,2930,Klampenborg,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-16,1994Q2,1460485,Townhouse,regular_sale,1961,765000,0.0,5,114.0,6710.5264,Holtebakken 21,2990,Nivå,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-16,1994Q2,1460508,Villa,regular_sale,1900,275184,0.0,4,126.0,2184.0,Nyhavevej 106,5220,Odense SA,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-16,1994Q2,1460520,Villa,regular_sale,1979,535000,0.0,3,136.0,3933.8235,Skolegade 22,6200,Aabenraa,South jutland,Jutland,5.5,1.99,8.39
+1994-06-15,1994Q2,1460633,Apartment,regular_sale,1965,3562000,0.0,2,70.0,50885.715,"Tousvej 97, 1. th",8230,Ãbyhøj,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-15,1994Q2,1460634,Apartment,regular_sale,1900,1326202,0.0,4,157.0,8447.146,"Låsbygade 32A, 2. th",6000,Kolding,South jutland,Jutland,5.5,1.99,8.39
+1994-06-15,1994Q2,1460555,Farm,family_sale,1890,600000,0.0,7,237.0,2531.6455,Fiilsøvej 16,6840,Oksbøl,South jutland,Jutland,5.5,1.99,8.39
+1994-06-15,1994Q2,1460622,Villa,regular_sale,1994,1073971,0.0,5,163.0,6588.7793,Langelinie 77B,8471,Sabro,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-15,1994Q2,1460533,Villa,regular_sale,1968,650000,0.0,3,113.0,5752.2124,Nordre Parkvej 33,3200,Helsinge,North Zealand,Zealand,5.5,1.99,8.39
+1994-06-14,1994Q2,1460723,Apartment,family_sale,1838,463000,0.0,7,247.0,1874.4939,Astervej 15,6430,Nordborg,South jutland,Jutland,5.5,1.99,8.39
+1994-06-14,1994Q2,1460659,Villa,regular_sale,1957,1506080,0.0,8,312.0,4827.1797,Kresten Kolds Vej 5,8230,Ãbyhøj,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-14,1994Q2,1460649,Apartment,regular_sale,1911,2164874,0.0,3,81.0,26726.84,"Holbergsgade 1, st. tv",9000,Aalborg,North jutland,Jutland,5.5,1.99,8.39
+1994-06-13,1994Q2,1460759,Apartment,regular_sale,1914,400000,0.0,2,91.0,4395.6045,"Klosterstræde 2, 2",4800,Nykøbing F,Other islands,Zealand,5.5,1.99,8.39
+1994-06-13,1994Q2,1460757,Apartment,regular_sale,1914,400000,0.0,3,98.0,4081.6326,"Klosterstræde 2, 1",4800,Nykøbing F,Other islands,Zealand,5.5,1.99,8.39
+1994-06-13,1994Q2,1460798,Villa,regular_sale,1986,975000,0.0,5,134.0,7276.1196,Bispevænget 32,6000,Kolding,South jutland,Jutland,5.5,1.99,8.39
+1994-06-13,1994Q2,1460787,Apartment,regular_sale,1850,460000,0.0,3,59.0,7796.6104,Havnevej 213. 1,8500,Grenaa,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-12,1994Q2,1460811,Villa,regular_sale,1970,800000,0.0,6,207.0,3864.7344,Park Alle 25,9850,Hirtshals,North jutland,Jutland,5.5,1.99,8.39
+1994-06-12,1994Q2,1460883,Villa,regular_sale,1973,480000,0.0,6,162.0,2962.963,Stadionvej 3,4895,Errindlev,Other islands,Zealand,5.5,1.99,8.39
+1994-06-11,1994Q2,1460894,Villa,regular_sale,1984,1530000,0.0,5,176.0,8693.182,Bådsmandsvænget 45,6710,Esbjerg V,South jutland,Jutland,5.5,1.99,8.39
+1994-06-11,1994Q2,1460897,Townhouse,regular_sale,1870,390000,0.0,6,133.0,2932.3308,Stationsstien 8,8541,Skødstrup,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-10,1994Q2,1460917,Summerhouse,family_sale,1984,380000,0.0,4,72.0,5277.778,Arvidvej 154,6960,Hvide Sande,South jutland,Jutland,5.5,1.99,8.39
+1994-06-09,1994Q2,1460962,Summerhouse,regular_sale,1972,454587,0.0,4,82.0,5543.744,Toftevej 29,3220,Tisvildeleje,North Zealand,Zealand,5.5,1.99,8.39
+1994-06-09,1994Q2,1460937,Apartment,regular_sale,1895,629000,0.0,4,160.0,3931.25,"Jyllandsgade 58, 1",7000,Fredericia,South jutland,Jutland,5.5,1.99,8.39
+1994-06-09,1994Q2,1460943,Townhouse,regular_sale,1978,565000,0.0,3,99.0,5707.071,Rømerparken 15,5700,Svendborg,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-08,1994Q2,1461025,Villa,regular_sale,1974,625100,0.0,4,186.0,3360.7527,Ahornvænget 4,4800,Nykøbing F,Other islands,Zealand,5.5,1.99,8.39
+1994-06-08,1994Q2,1461042,Villa,regular_sale,1974,553000,0.0,4,128.0,4320.3125,Lapmejsevej 14,6500,Vojens,South jutland,Jutland,5.5,1.99,8.39
+1994-06-08,1994Q2,1461023,Farm,regular_sale,1864,1854000,0.0,6,227.0,8167.401,Plantagevej 6,3330,Gørløse,North Zealand,Zealand,5.5,1.99,8.39
+1994-06-08,1994Q2,1461032,Villa,regular_sale,1973,1145765,0.0,6,166.0,6902.1987,Bueparken 34,2750,Ballerup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-08,1994Q2,1461037,Villa,regular_sale,1972,1225000,0.0,5,197.0,6218.274,Alstedgårdvænget 19,5230,Odense M,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-08,1994Q2,1461035,Villa,regular_sale,1965,507600,0.0,6,128.0,3965.625,Bakkelyvej 9,9380,Vestbjerg,North jutland,Jutland,5.5,1.99,8.39
+1994-06-08,1994Q2,1461006,Villa,regular_sale,1998,300000,0.0,4,159.0,1886.7925,Brovejen 12,9620,Aalestrup,North jutland,Jutland,5.5,1.99,8.39
+1994-06-07,1994Q2,1461092,Townhouse,regular_sale,1844,403000,0.0,3,60.0,6716.6665,Bagergade 56,5700,Svendborg,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-07,1994Q2,1461117,Apartment,regular_sale,1980,333000,0.0,2,59.0,5644.068,"Benløseparken 161, st. th",4100,Ringsted,Other islands,Zealand,5.5,1.99,8.39
+1994-06-06,1994Q2,1461133,Villa,regular_sale,1972,800000,0.0,7,180.0,4444.4443,Glentevej 23,9430,Vadum,North jutland,Jutland,5.5,1.99,8.39
+1994-06-06,1994Q2,1461177,Villa,regular_sale,1977,760000,0.0,4,121.0,6280.9917,Leharsvej 34,7500,Holstebro,South jutland,Jutland,5.5,1.99,8.39
+1994-06-06,1994Q2,1461187,Villa,regular_sale,1977,760000,0.0,5,144.0,5277.778,Floraparken 55,4690,Haslev,Other islands,Zealand,5.5,1.99,8.39
+1994-06-06,1994Q2,1461171,Villa,regular_sale,1963,722000,0.0,5,116.0,6224.1377,Dyssevænget 60,2700,Brønshøj,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-05,1994Q2,1461210,Apartment,regular_sale,1890,320000,0.0,2,42.0,7619.048,"Vimmelskaftet 14, 2. th",8700,Horsens,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-05,1994Q2,1461271,Villa,regular_sale,1900,1102500,0.0,12,262.0,4208.015,Præstøvej 37,4700,Næstved,Other islands,Zealand,5.5,1.99,8.39
+1994-06-05,1994Q2,1461307,Villa,regular_sale,1900,502994,0.0,5,203.0,2477.803,Dræby Fedvej 519,5330,Munkebo,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-05,1994Q2,1461279,Villa,regular_sale,1969,475000,0.0,4,107.0,4439.2524,Lærkevænget 2,6920,Videbæk,South jutland,Jutland,5.5,1.99,8.39
+1994-06-05,1994Q2,1461209,Apartment,regular_sale,1890,320000,0.0,2,47.0,6808.5107,"Vimmelskaftet 14, 1. tv",8700,Horsens,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-04,1994Q2,1461317,Villa,regular_sale,1991,864000,0.0,4,121.0,7140.496,Hoppevænget 44,9230,Svenstrup J,North jutland,Jutland,5.5,1.99,8.39
+1994-06-02,1994Q2,1461415,Townhouse,auction,1989,1277333,0.0,4,82.0,15577.231,Gyrstinge Præstemark 1A,4100,Ringsted,Other islands,Zealand,5.5,1.99,8.39
+1994-06-02,1994Q2,1461439,Villa,regular_sale,1907,593990,0.0,3,95.0,6252.5264,Sønder Ulstrupvej 31,9500,Hobro,North jutland,Jutland,5.5,1.99,8.39
+1994-06-02,1994Q2,1461427,Apartment,regular_sale,1974,477800,0.0,3,82.0,5826.829,"Theklavej 41, 1. 34",2400,København NV,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-06-02,1994Q2,1461405,Apartment,regular_sale,1965,582000,0.0,3,82.0,7097.561,"Ryttergårdsvej 18, 2. 204",3520,Farum,North Zealand,Zealand,5.5,1.99,8.39
+1994-06-02,1994Q2,1461377,Farm,family_sale,1898,1212251,0.0,9,285.0,4253.512,Ãnsbjergvej 13,9500,Hobro,North jutland,Jutland,5.5,1.99,8.39
+1994-06-02,1994Q2,1461381,Apartment,regular_sale,1897,465000,0.0,3,70.0,6642.857,Storegade 62D,6800,Varde,South jutland,Jutland,5.5,1.99,8.39
+1994-06-02,1994Q2,1461434,Apartment,regular_sale,1920,895000,0.0,2,58.0,15431.034,"Richtersvej 18, 1. th",8600,Silkeborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-02,1994Q2,1461418,Townhouse,auction,1989,1277333,0.0,4,82.0,15577.231,Gyrstinge Præstemark 1B,4100,Ringsted,Other islands,Zealand,5.5,1.99,8.39
+1994-06-01,1994Q2,1461470,Summerhouse,regular_sale,1984,325000,0.0,7,186.0,1747.3118,Vesterlundvej 148,8600,Silkeborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-06-01,1994Q2,1461527,Villa,regular_sale,1765,1425000,0.0,9,296.0,4814.189,Ãkildevej 15,5762,Vester Skerninge,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-06-01,1994Q2,1461501,Villa,regular_sale,1974,650000,0.0,7,175.0,3714.2856,Skovvejen 45,4200,Slagelse,Other islands,Zealand,5.5,1.99,8.39
+1994-06-01,1994Q2,1461531,Villa,regular_sale,1930,318400,0.0,7,194.0,1641.237,Boserupvej 24,2700,Brønshøj,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-31,1994Q2,1461568,Summerhouse,regular_sale,1971,490000,0.0,2,80.0,6125.0,Nordstrandsvej 7,5450,Otterup,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-31,1994Q2,1461537,Villa,regular_sale,1972,885000,0.0,6,186.0,4758.0645,Skelbækvej 29,6710,Esbjerg V,South jutland,Jutland,5.5,1.99,8.39
+1994-05-31,1994Q2,1461608,Villa,regular_sale,1974,580000,0.0,4,132.0,4393.9395,Højholt 19,8883,Gjern,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-31,1994Q2,1461556,Apartment,regular_sale,1980,800000,0.0,3,90.0,8888.889,"Sprogøvej 27, 1. mf",2000,Frederiksberg,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-31,1994Q2,1461609,Villa,regular_sale,1954,1260000,0.0,10,231.0,5454.5454,Irisvej 9,8260,Viby J,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-31,1994Q2,1461555,Villa,regular_sale,1970,520000,0.0,3,105.0,4952.381,Hjørnehusvej 20,4720,Præstø,Other islands,Zealand,5.5,1.99,8.39
+1994-05-31,1994Q2,1461615,Villa,regular_sale,1972,500000,0.0,4,129.0,3875.969,Lærkevej 4,5932,Humble,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-31,1994Q2,1461536,Apartment,regular_sale,1921,860000,0.0,3,75.0,11466.667,"Herningvej 34, st. tv",6950,Ringkøbing,South jutland,Jutland,5.5,1.99,8.39
+1994-05-31,1994Q2,1461567,Villa,regular_sale,1977,1879000,0.0,8,247.0,7607.2876,Sarabjerg 6,8660,Skanderborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-30,1994Q2,1461670,Villa,regular_sale,1972,750000,0.0,5,162.0,4629.6294,Thorsvej 34,3300,Frederiksværk,North Zealand,Zealand,5.5,1.99,8.39
+1994-05-29,1994Q2,1461783,Apartment,regular_sale,1977,410000,0.0,2,65.0,6307.6924,"Brobjerg Parkvej 93, 2. 4",8250,Egå,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-29,1994Q2,1461798,Villa,regular_sale,1986,766665,0.0,5,143.0,5361.294,Klydevej 1,7130,Juelsminde,South jutland,Jutland,5.5,1.99,8.39
+1994-05-29,1994Q2,1461755,Apartment,regular_sale,1960,375000,0.0,2,50.0,7500.0,"Kildebakken 37, st. th",2860,Søborg,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-29,1994Q2,1461778,Apartment,regular_sale,1949,520461,0.0,4,96.0,5421.4688,"Frederiksensvej 12, 1. th",4780,Stege,Other islands,Zealand,5.5,1.99,8.39
+1994-05-29,1994Q2,1461727,Villa,regular_sale,1979,640000,0.0,5,130.0,4923.077,Sønderkær 268,7190,Billund,South jutland,Jutland,5.5,1.99,8.39
+1994-05-29,1994Q2,1461828,Villa,regular_sale,1978,467000,0.0,5,165.0,2830.303,Sprogøvej 60,7680,Thyborøn,South jutland,Jutland,5.5,1.99,8.39
+1994-05-29,1994Q2,1461836,Villa,regular_sale,1961,630920,0.0,6,157.0,4018.5986,Erritsø Kirkevej 18,7000,Fredericia,South jutland,Jutland,5.5,1.99,8.39
+1994-05-29,1994Q2,1461736,Villa,regular_sale,1965,488600,0.0,6,140.0,3490.0,Hornemannsvej 28,4660,Store Heddinge,Other islands,Zealand,5.5,1.99,8.39
+1994-05-29,1994Q2,1461747,Farm,family_sale,1910,926509,0.0,8,332.0,2790.6897,Strandvejen 80,4733,Tappernøje,Other islands,Zealand,5.5,1.99,8.39
+1994-05-28,1994Q2,1461871,Villa,family_sale,1970,300000,0.0,3,100.0,3000.0,Filipsdalvej 6,4480,Store Fuglede,Other islands,Zealand,5.5,1.99,8.39
+1994-05-26,1994Q2,1461992,Villa,regular_sale,1923,1322500,0.0,7,193.0,6852.3315,Søndre Alle 21A,4600,Køge,Other islands,Zealand,5.5,1.99,8.39
+1994-05-26,1994Q2,1461934,Villa,regular_sale,1974,775000,0.0,5,160.0,4843.75,Klintevej 2,7900,Nykøbing M,South jutland,Jutland,5.5,1.99,8.39
+1994-05-26,1994Q2,1461961,Apartment,regular_sale,1881,1750000,0.0,2,39.0,44871.793,"Møllegade 21A, 1. tv",2200,København N,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-26,1994Q2,1461947,Villa,regular_sale,1968,710000,0.0,6,180.0,3944.4443,Grønagervej 4,6261,Bredebro,South jutland,Jutland,5.5,1.99,8.39
+1994-05-26,1994Q2,1461969,Villa,regular_sale,1967,580000,0.0,6,200.0,2900.0,Søndervang 8,6520,Toftlund,South jutland,Jutland,5.5,1.99,8.39
+1994-05-26,1994Q2,1461909,Apartment,regular_sale,1941,1226250,0.0,4,89.0,13778.09,"Rosenørnsvej 46, st. th",5230,Odense M,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-26,1994Q2,1461890,Villa,regular_sale,1908,755480,0.0,5,150.0,5036.533,Hestehaven 18,5260,Odense S,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-26,1994Q2,1461950,Villa,regular_sale,1924,1140800,0.0,6,171.0,6671.345,Kjærstrupvej 40,2500,Valby,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-26,1994Q2,1461897,Villa,regular_sale,1979,537500,0.0,4,202.0,2660.891,Søndervej 202,5700,Svendborg,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-26,1994Q2,1461898,Villa,family_sale,1968,408000,0.0,5,130.0,3138.4614,Toftevej 2,7000,Fredericia,South jutland,Jutland,5.5,1.99,8.39
+1994-05-26,1994Q2,1461996,Villa,regular_sale,1978,844000,0.0,7,178.0,4741.573,Helstedgårdsvej 27,8920,Randers NV,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-25,1994Q2,1462075,Villa,family_sale,1939,287500,0.0,5,139.0,2068.3452,Strandvænget 11,4400,Kalundborg,Other islands,Zealand,5.5,1.99,8.39
+1994-05-25,1994Q2,1462099,Villa,regular_sale,1974,550000,0.0,5,141.0,3900.7092,Ege Alle 15,8723,Løsning,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-25,1994Q2,1462057,Villa,regular_sale,1970,780000,0.0,6,186.0,4193.5483,Borrevænget 2,8320,Mårslet,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-25,1994Q2,1462054,Apartment,other_sale,1920,582500,0.0,2,41.0,14207.317,"Enggade 12A, st. tv",7100,Vejle,South jutland,Jutland,5.5,1.99,8.39
+1994-05-25,1994Q2,1462034,Villa,regular_sale,1970,578750,0.0,5,138.0,4193.841,Vievang Alle 30,2610,Rødovre,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-25,1994Q2,1462051,Apartment,other_sale,1920,582500,0.0,2,50.0,11650.0,"Enggade 12B, 1",7100,Vejle,South jutland,Jutland,5.5,1.99,8.39
+1994-05-25,1994Q2,1462027,Villa,regular_sale,1946,340000,0.0,4,125.0,2720.0,Lyngvej 22,8800,Viborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-24,1994Q2,1462105,Villa,regular_sale,1978,790000,0.0,5,140.0,5642.857,Solbærvænget 6,3630,Jægerspris,North Zealand,Zealand,5.5,1.99,8.39
+1994-05-24,1994Q2,1462120,Villa,regular_sale,1928,730000,0.0,4,125.0,5840.0,Asterøvej 99,5800,Nyborg,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-24,1994Q2,1462118,Villa,regular_sale,1972,775000,0.0,4,156.0,4967.9487,Klempegårdsvej 112,4140,Borup,Other islands,Zealand,5.5,1.99,8.39
+1994-05-24,1994Q2,1462185,Villa,regular_sale,1934,460000,0.0,5,128.0,3593.75,Vindevej 6A,7800,Skive,South jutland,Jutland,5.5,1.99,8.39
+1994-05-24,1994Q2,1462137,Townhouse,regular_sale,1974,760000,0.0,5,131.0,5801.527,Ankerhusvej 113,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-23,1994Q2,1462252,Apartment,regular_sale,1908,300000,0.0,2,69.0,4347.826,Naffet 4B,6500,Vojens,South jutland,Jutland,5.5,1.99,8.39
+1994-05-23,1994Q2,1462218,Villa,regular_sale,1907,478000,0.0,4,122.0,3918.0327,Værkevadsvej 40,4100,Ringsted,Other islands,Zealand,5.5,1.99,8.39
+1994-05-23,1994Q2,1462201,Townhouse,regular_sale,1978,700000,0.0,4,109.0,6422.0186,Mejsebo 31,2665,Vallensbæk Strand,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-22,1994Q2,1462302,Villa,regular_sale,1972,869620,0.0,4,132.0,6588.0303,Kløvervej 3,2765,Smørum,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-22,1994Q2,1462297,Villa,regular_sale,1942,520000,0.0,5,153.0,3398.6929,Kastanievej 16B,3300,Frederiksværk,North Zealand,Zealand,5.5,1.99,8.39
+1994-05-20,1994Q2,1462364,Apartment,regular_sale,1901,556490,0.0,3,80.0,6956.125,"Esthersvej 15, st. th",2900,Hellerup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-19,1994Q2,1462404,Farm,regular_sale,1900,1475000,0.0,8,296.0,4983.108,Højvangsvej 3,8870,Langå,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-19,1994Q2,1462405,Villa,regular_sale,1956,475000,0.0,4,91.0,5219.7803,Søndergade 221,9900,Frederikshavn,North jutland,Jutland,5.5,1.99,8.39
+1994-05-19,1994Q2,1462446,Villa,regular_sale,1912,1060000,0.0,10,259.0,4092.664,Tølløsevej 9,2700,Brønshøj,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462473,Townhouse,regular_sale,1986,710000,0.0,3,84.0,8452.381,Møllevej 10E,4180,Sorø,Other islands,Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462516,Farm,regular_sale,1930,350000,0.0,8,170.0,2058.8235,Stovbyvej 64,4872,Idestrup,Other islands,Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462451,Villa,regular_sale,1977,865000,0.0,4,143.0,6048.951,Nevadavej 7,4200,Slagelse,Other islands,Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462494,Villa,regular_sale,1974,525000,0.0,3,79.0,6645.57,Mågevej 2,4040,Jyllinge,Other islands,Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462481,Farm,regular_sale,1910,800000,0.0,6,235.0,3404.2554,Fredborgvej 16,7330,Brande,South jutland,Jutland,5.5,1.99,8.39
+1994-05-18,1994Q2,1462455,Townhouse,regular_sale,1980,567866,0.0,4,132.0,4302.015,Kastanjevej 48,4632,Bjæverskov,Other islands,Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462492,Villa,regular_sale,1950,675000,0.0,4,110.0,6136.364,Baldersvej 6,3300,Frederiksværk,North Zealand,Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462469,Villa,regular_sale,1900,620860,0.0,7,260.0,2387.923,Frihedsmindevej 28,4840,Nørre Alslev,Other islands,Zealand,5.5,1.99,8.39
+1994-05-18,1994Q2,1462524,Villa,regular_sale,1946,460000,0.0,3,80.0,5750.0,Grethevej 6,7000,Fredericia,South jutland,Jutland,5.5,1.99,8.39
+1994-05-17,1994Q2,1462573,Villa,regular_sale,1968,1761325,0.0,4,162.0,10872.377,Høje Sandbjergvej 3,2840,Holte,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-17,1994Q2,1462539,Farm,regular_sale,1890,740300,0.0,5,165.0,4486.6665,Randrupvej 22,9550,Mariager,North jutland,Jutland,5.5,1.99,8.39
+1994-05-17,1994Q2,1462528,Villa,regular_sale,1968,840000,0.0,5,134.0,6268.6567,Piledyssen 30,4000,Roskilde,Other islands,Zealand,5.5,1.99,8.39
+1994-05-17,1994Q2,1462559,Villa,regular_sale,1909,717000,0.0,5,187.0,3834.2246,Jægergårdsvej 11,8680,Ry,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-17,1994Q2,1462542,Summerhouse,regular_sale,1993,1668000,0.0,7,171.0,9754.386,Tane Hedevej 37B,6857,Blåvand,South jutland,Jutland,5.5,1.99,8.39
+1994-05-17,1994Q2,1462529,Villa,regular_sale,1975,630000,0.0,4,120.0,5250.0,Blåkjærsvej 21,7000,Fredericia,South jutland,Jutland,5.5,1.99,8.39
+1994-05-17,1994Q2,1462589,Villa,regular_sale,1956,450000,0.0,4,89.0,5056.1797,Parkvej 3,6340,Kruså,South jutland,Jutland,5.5,1.99,8.39
+1994-05-16,1994Q2,1462600,Townhouse,regular_sale,1948,1140000,0.0,4,110.0,10363.637,Solbyen 16,9000,Aalborg,North jutland,Jutland,5.5,1.99,8.39
+1994-05-16,1994Q2,1462595,Villa,regular_sale,1935,460000,0.0,5,170.0,2705.8823,Fjordgade 2,9500,Hobro,North jutland,Jutland,5.5,1.99,8.39
+1994-05-16,1994Q2,1462604,Villa,regular_sale,1972,775000,0.0,6,166.0,4668.675,Risumvej 28,8600,Silkeborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-15,1994Q2,1462708,Villa,regular_sale,1936,591992,0.0,4,119.0,4974.7227,Ibsensvej 43,5000,Odense C,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-15,1994Q2,1462697,Townhouse,regular_sale,1955,730371,0.0,5,97.0,7529.598,Buddinge Hovedgade 206,2860,Søborg,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-15,1994Q2,1462658,Villa,regular_sale,1920,410000,0.0,7,138.0,2971.0144,Skolegade 29,6650,Brørup,South jutland,Jutland,5.5,1.99,8.39
+1994-05-15,1994Q2,1462667,Villa,other_sale,1946,452590,0.0,4,130.0,3481.4614,Thorsvej 19,6705,Esbjerg A,South jutland,Jutland,5.5,1.99,8.39
+1994-05-15,1994Q2,1462706,Apartment,family_sale,1890,273000,0.0,5,141.0,1936.1702,"Amicisvej 2, st. tv",1852,Frederiksberg C,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-15,1994Q2,1462690,Villa,regular_sale,1979,850000,0.0,4,156.0,5448.718,Rønhave Parkvej 100,4736,Karrebæksminde,Other islands,Zealand,5.5,1.99,8.39
+1994-05-15,1994Q2,1462732,Villa,regular_sale,1970,616682,0.0,3,126.0,4894.302,Fårtoftvej 85,7700,Thisted,South jutland,Jutland,5.5,1.99,8.39
+1994-05-15,1994Q2,1462735,Villa,regular_sale,1938,1070000,0.0,6,179.0,5977.654,Liljevej 10,8240,Risskov,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-15,1994Q2,1462747,Apartment,regular_sale,1880,750000,0.0,2,66.0,11363.637,"Vestergade 5, 1. mf",4300,Holbæk,Other islands,Zealand,5.5,1.99,8.39
+1994-05-14,1994Q2,1462764,Villa,regular_sale,1953,980000,0.0,5,142.0,6901.4087,Gærdebuen 6,2850,Nærum,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-14,1994Q2,1462782,Villa,regular_sale,1971,444015,0.0,4,163.0,2724.0183,Nybovej 1,6980,Tim,South jutland,Jutland,5.5,1.99,8.39
+1994-05-13,1994Q2,1462800,Farm,regular_sale,1912,3900000,0.0,7,260.0,15000.0,Ferritslevvej 79,5540,Ullerslev,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-13,1994Q2,1462807,Villa,regular_sale,1971,505000,0.0,4,154.0,3279.2207,Smedegårdsvej 1,7430,Ikast,South jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462864,Apartment,regular_sale,1901,1000000,0.0,3,88.0,11363.637,"Slyngborggade 18, st",8900,Randers C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462811,Apartment,regular_sale,1935,1400000,0.0,2,57.0,24561.404,"Bredstrupsgade 14, 1. th",8900,Randers C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462819,Apartment,regular_sale,1935,1400000,0.0,1,44.0,31818.182,"Bredstrupsgade 14, 2. tv",8900,Randers C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462871,Farm,regular_sale,1900,2800000,0.0,3,80.0,35000.0,Skærbækvej 6,6870,Algod,South jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462841,Apartment,regular_sale,1935,1400000,0.0,2,64.0,21875.0,"Steen Blichers Gade 31, 1. th",8900,Randers C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462972,Villa,regular_sale,1937,436200,0.0,4,129.0,3381.3953,Røjlevej 6,5500,Middelfart,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-12,1994Q2,1462877,Apartment,regular_sale,1901,1000000,0.0,4,96.0,10416.667,"Viborgvej 36, 3. th",8920,Randers NV,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462876,Apartment,regular_sale,1901,1000000,0.0,3,91.0,10989.011,"Viborgvej 36, 2. tv",8920,Randers NV,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462825,Apartment,regular_sale,1900,2850050,0.0,3,89.0,32023.033,"Danmarksgade 37, 2. tv",8900,Randers C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462858,Villa,regular_sale,1971,505000,0.0,5,133.0,3796.9924,Granskovvej 12,7451,Sunds,South jutland,Jutland,5.5,1.99,8.39
+1994-05-12,1994Q2,1462983,Apartment,regular_sale,1936,2840000,0.0,2,73.0,38904.11,"Mariagervej 24, 2. tv",8900,Randers C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-11,1994Q2,1463007,Villa,regular_sale,1924,2527428,0.0,6,228.0,11085.211,Jacob Adelborgs AllÃ© 21,8240,Risskov,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-11,1994Q2,1463025,Farm,regular_sale,1910,625000,0.0,6,162.0,3858.0247,Hobrovej 64,9670,Løgstør,North jutland,Jutland,5.5,1.99,8.39
+1994-05-10,1994Q2,1463081,Villa,regular_sale,1968,847000,0.0,4,117.0,7239.3164,Lodager 12,2620,Albertslund,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-10,1994Q2,1463066,Townhouse,regular_sale,1962,736000,0.0,4,119.0,6184.874,Holtebakken 57,2990,Nivå,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-10,1994Q2,1463042,Townhouse,family_sale,1931,375000,0.0,7,160.0,2343.75,Teglværksvej 3A,4420,Regstrup,Other islands,Zealand,5.5,1.99,8.39
+1994-05-10,1994Q2,1463058,Summerhouse,family_sale,1985,920000,0.0,1,32.0,28750.0,Strandgårdsvej 11,8420,Knebel,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-10,1994Q2,1463045,Summerhouse,regular_sale,1993,654902,0.0,4,76.0,8617.132,Søndervang 56,6830,Nørre Nebel,South jutland,Jutland,5.5,1.99,8.39
+1994-05-10,1994Q2,1463095,Apartment,family_sale,1911,340000,0.0,5,149.0,2281.8792,Bygaden 28A,8450,Hammel,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-10,1994Q2,1463041,Apartment,regular_sale,1907,1345942,0.0,7,257.0,5237.1284,"BÃ¼lowsvej 26, 1",1870,Frederiksberg C,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-10,1994Q2,1463048,Villa,family_sale,1880,871500,0.0,9,248.0,3514.1128,Vittenvej 94,8382,Hinnerup,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-10,1994Q2,1463087,Villa,regular_sale,1978,1155250,0.0,4,192.0,6016.9272,Tjørneager 13,4330,Hvalsø,Other islands,Zealand,5.5,1.99,8.39
+1994-05-10,1994Q2,1463088,Villa,regular_sale,1980,370000,0.0,4,152.0,2434.2104,Høkervænget 7,9850,Hirtshals,North jutland,Jutland,5.5,1.99,8.39
+1994-05-09,1994Q2,1463123,Villa,regular_sale,1906,550000,0.0,6,176.0,3125.0,Dalgas Alle 29,7400,Herning,South jutland,Jutland,5.5,1.99,8.39
+1994-05-09,1994Q2,1463168,Villa,regular_sale,1956,700000,0.0,5,107.0,6542.056,Rønnevej 9,2640,Hedehusene,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-09,1994Q2,1463132,Villa,regular_sale,1983,695000,0.0,4,108.0,6435.185,Langesøvej 122,7000,Fredericia,South jutland,Jutland,5.5,1.99,8.39
+1994-05-09,1994Q2,1463120,Apartment,regular_sale,1902,678386,0.0,3,84.0,8076.024,"Strandvejen 110C, 4. tv",2900,Hellerup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-09,1994Q2,1463170,Villa,regular_sale,1923,550000,0.0,4,98.0,5612.245,Grundtvigs Alle 17,4760,Vordingborg,Other islands,Zealand,5.5,1.99,8.39
+1994-05-09,1994Q2,1463161,Villa,regular_sale,1973,811600,0.0,5,140.0,5797.143,Mejsevej 12,3200,Helsinge,North Zealand,Zealand,5.5,1.99,8.39
+1994-05-08,1994Q2,1463188,Villa,regular_sale,1927,300000,0.0,5,137.0,2189.781,Sjørslevvej 24,8620,Kjellerup,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-08,1994Q2,1463262,Farm,regular_sale,1885,1500000,0.0,3,99.0,15151.516,Hellestrupvej 5B,4300,Holbæk,Other islands,Zealand,5.5,1.99,8.39
+1994-05-08,1994Q2,1463190,Villa,regular_sale,1900,740000,0.0,4,134.0,5522.388,Brobjergvej 25,4000,Roskilde,Other islands,Zealand,5.5,1.99,8.39
+1994-05-08,1994Q2,1463235,Villa,regular_sale,1969,625000,0.0,4,146.0,4280.822,Toften 11,7400,Herning,South jutland,Jutland,5.5,1.99,8.39
+1994-05-08,1994Q2,1463212,Villa,regular_sale,1968,450000,0.0,5,131.0,3435.1145,Væbnervænget 7,4400,Kalundborg,Other islands,Zealand,5.5,1.99,8.39
+1994-05-08,1994Q2,1463230,Villa,regular_sale,1933,425000,0.0,4,76.0,5592.1055,Fynsgade 10,7490,Aulum,South jutland,Jutland,5.5,1.99,8.39
+1994-05-08,1994Q2,1463197,Villa,regular_sale,1947,300000,0.0,4,140.0,2142.8572,Rougsøvej 251,8950,Arsted,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-07,1994Q2,1463287,Villa,regular_sale,1967,800000,0.0,7,195.0,4102.564,Egevej 23,4690,Haslev,Other islands,Zealand,5.5,1.99,8.39
+1994-05-07,1994Q2,1463286,Townhouse,regular_sale,1927,1230000,0.0,6,155.0,7935.484,C.N. Petersens Vej 53,2000,Frederiksberg,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-06,1994Q2,1463327,Villa,regular_sale,1962,842925,0.0,5,155.0,5438.2256,Nyvang 3,6400,Sønderborg,South jutland,Jutland,5.5,1.99,8.39
+1994-05-05,1994Q2,1463390,Villa,regular_sale,1935,567000,0.0,3,113.0,5017.699,Katholmvej 43,4340,Tølløse,Other islands,Zealand,5.5,1.99,8.39
+1994-05-05,1994Q2,1463350,Farm,family_sale,1878,705500,0.0,4,128.0,5511.7188,Ny Kærvej 20,9530,Støvring,North jutland,Jutland,5.5,1.99,8.39
+1994-05-05,1994Q2,1463383,Villa,family_sale,1936,500000,0.0,6,184.0,2717.3914,Ejsingholmvej 23,7830,Vinderup,South jutland,Jutland,5.5,1.99,8.39
+1994-05-05,1994Q2,1463347,Villa,regular_sale,1957,1627700,0.0,4,129.0,12617.829,Kongshvilebakken 74,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-05,1994Q2,1463395,Villa,regular_sale,1930,326688,0.0,3,72.0,4537.3335,Liseborgvej 20,8800,Viborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-05,1994Q2,1463362,Villa,regular_sale,1970,1146493,0.0,5,155.0,7396.729,Kalendervej 28,8210,Aarhus V,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-04,1994Q2,1463455,Apartment,regular_sale,1968,700000,0.0,4,112.0,6250.0,"Langebjerg 24, 2. th",2850,Nærum,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-04,1994Q2,1463459,Apartment,regular_sale,1958,382600,0.0,3,79.0,4843.038,"Snerlevej 3, 2. tv",9000,Aalborg,North jutland,Jutland,5.5,1.99,8.39
+1994-05-04,1994Q2,1463411,Villa,regular_sale,1978,827303,0.0,4,141.0,5867.397,Devantiersvej 24,7000,Fredericia,South jutland,Jutland,5.5,1.99,8.39
+1994-05-04,1994Q2,1463440,Villa,regular_sale,1869,935840,0.0,8,330.0,2835.879,Nørupvej 18,4420,Regstrup,Other islands,Zealand,5.5,1.99,8.39
+1994-05-04,1994Q2,1463473,Farm,regular_sale,1953,2000000,0.0,9,146.0,13698.63,Elkærvej 15B,9881,Bindslev,North jutland,Jutland,5.5,1.99,8.39
+1994-05-04,1994Q2,1463408,Villa,regular_sale,1938,500000,0.0,2,84.0,5952.381,Slotsherrensvej 24,2720,Vanløse,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-04,1994Q2,1463441,Farm,regular_sale,1900,970000,0.0,5,128.0,7578.125,Logslundvej 6,7160,Tørring,South jutland,Jutland,5.5,1.99,8.39
+1994-05-04,1994Q2,1463421,Villa,regular_sale,1948,1208400,0.0,6,160.0,7552.5,Skodsborgvej 14,2830,Virum,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-03,1994Q2,1463530,Villa,regular_sale,1972,1130000,0.0,7,224.0,5044.643,Stigårdsvej 20,2680,Solrød Strand,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-03,1994Q2,1463501,Townhouse,regular_sale,1928,596907,0.0,4,106.0,5631.198,Rødhættevej 4A,2730,Herlev,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-03,1994Q2,1463484,Townhouse,regular_sale,1979,590000,0.0,4,116.0,5086.207,Humlevej 27,7800,Skive,South jutland,Jutland,5.5,1.99,8.39
+1994-05-02,1994Q2,1463554,Villa,regular_sale,1995,1441000,0.0,6,136.0,10595.588,Olsbæklund 6,2670,Greve,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-02,1994Q2,1463569,Villa,regular_sale,1940,315000,0.0,3,128.0,2460.9375,Maribovej 72,4930,Maribo,Other islands,Zealand,5.5,1.99,8.39
+1994-05-02,1994Q2,1463604,Villa,auction,1980,575000,0.0,7,205.0,2804.878,Falkevænget 5,4250,Fuglebjerg,Other islands,Zealand,5.5,1.99,8.39
+1994-05-02,1994Q2,1463582,Villa,regular_sale,1978,402000,0.0,4,118.0,3406.7795,Avej 7,4540,Fårevejle,Other islands,Zealand,5.5,1.99,8.39
+1994-05-02,1994Q2,1463545,Villa,regular_sale,1978,752924,0.0,6,145.0,5192.579,Ribersvej 2,7200,Grindsted,South jutland,Jutland,5.5,1.99,8.39
+1994-05-02,1994Q2,1463567,Villa,regular_sale,1941,356500,0.0,4,121.0,2946.281,Assensvej 189,5771,Stenstrup,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-05-02,1994Q2,1463609,Villa,regular_sale,1977,975000,0.0,6,149.0,6543.624,Splinten 5,9260,Gistrup,North jutland,Jutland,5.5,1.99,8.39
+1994-05-01,1994Q2,1463663,Villa,regular_sale,1965,1075000,0.0,6,174.0,6178.161,Ulvebjerg 7,2880,Bagsværd,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-01,1994Q2,1463732,Villa,regular_sale,1968,913160,0.0,4,115.0,7940.522,Ejby Mosevej 73,2600,Glostrup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-05-01,1994Q2,1463704,Villa,regular_sale,1961,586000,0.0,3,104.0,5634.615,Byvejen 60,4130,Viby Sjælland,Other islands,Zealand,5.5,1.99,8.39
+1994-05-01,1994Q2,1463707,Townhouse,regular_sale,1994,632134,0.0,2,44.0,14366.682,"Neptunvej 81, st. 1",8800,Viborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-05-01,1994Q2,1463622,Villa,regular_sale,1910,673799,0.0,4,155.0,4347.0903,Odinsvej 14,4060,Kirke Såby,Other islands,Zealand,5.5,1.99,8.39
+1994-05-01,1994Q2,1463734,Villa,regular_sale,1980,435000,0.0,5,166.0,2620.482,Astermarken 26,9510,Arden,North jutland,Jutland,5.5,1.99,8.39
+1994-05-01,1994Q2,1463613,Villa,regular_sale,1980,619000,0.0,4,147.0,4210.8843,Kristiansmindevej 2,4760,Vordingborg,Other islands,Zealand,5.5,1.99,8.39
+1994-04-30,1994Q2,1463757,Villa,regular_sale,1994,1556973,0.0,6,161.0,9670.64,Snerlevej 4,8240,Risskov,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-30,1994Q2,1463766,Villa,regular_sale,1911,1300000,0.0,6,180.0,7222.222,Stationsvej 31,2791,Dragør,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-30,1994Q2,1463782,Apartment,family_sale,1910,375000,0.0,2,50.0,7500.0,"Aagade 59, 2",7100,Vejle,South jutland,Jutland,5.5,1.99,8.39
+1994-04-30,1994Q2,1463783,Apartment,regular_sale,1952,891250,0.0,3,91.0,9793.956,"Phistersvej 1, 3. th",2900,Hellerup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-30,1994Q2,1463751,Farm,regular_sale,1900,1281000,0.0,8,280.0,4575.0,Slangerupvej 29,3540,Lynge,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-29,1994Q2,1463802,Villa,regular_sale,1902,556000,0.0,7,163.0,3411.043,Klostergade 4B,3230,Græsted,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-29,1994Q2,1463789,Villa,family_sale,1967,820000,0.0,5,164.0,5000.0,Kvædehaven 7,2600,Glostrup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-29,1994Q2,1463801,Villa,regular_sale,1978,500000,0.0,5,156.0,3205.1282,Marsvej 10,4500,Nykøbing Sj,Other islands,Zealand,5.5,1.99,8.39
+1994-04-29,1994Q2,1463787,Farm,regular_sale,2017,920000,0.0,5,146.0,6301.3696,Fåborgvej 177,5700,Svendborg,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-28,1994Q2,1463808,Villa,regular_sale,1964,686000,0.0,6,152.0,4513.1577,Bildsøvej 181,4200,Slagelse,Other islands,Zealand,5.5,1.99,8.39
+1994-04-27,1994Q2,1463860,Farm,regular_sale,1972,1235000,0.0,8,324.0,3811.7285,Skovbjergvej 25,7280,Sønder Felding,South jutland,Jutland,5.5,1.99,8.39
+1994-04-27,1994Q2,1463819,Apartment,auction,1960,256000,0.0,3,86.0,2976.7441,"Kongebakken 17, st. th",4000,Roskilde,Other islands,Zealand,5.5,1.99,8.39
+1994-04-27,1994Q2,1463874,Villa,regular_sale,1937,265000,0.0,4,142.0,1866.1971,Syrenvej 9,9700,Brønderslev,North jutland,Jutland,5.5,1.99,8.39
+1994-04-27,1994Q2,1463830,Townhouse,regular_sale,1973,1099000,0.0,6,155.0,7090.3228,Jollen 63,3070,Snekkersten,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-27,1994Q2,1463879,Villa,regular_sale,1923,1987000,0.0,9,258.0,7701.5503,Vestagervej 29,2900,Hellerup,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-26,1994Q2,1463954,Apartment,regular_sale,1932,3827265,0.0,4,83.0,46111.625,"Udbyhøjvej 118, 2. tv",8930,Randers NA,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-26,1994Q2,1463949,Apartment,regular_sale,1932,3827265,0.0,4,85.0,45026.65,"Udbyhøjvej 118, st. th",8930,Randers NA,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-26,1994Q2,1463979,Villa,other_sale,1972,255102,0.0,5,167.0,1527.5569,Valmuevej 84,8700,Horsens,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-26,1994Q2,1463915,Villa,regular_sale,1974,650000,0.0,4,124.0,5241.9355,Enghaverne 14,8800,Viborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-25,1994Q2,1464069,Villa,regular_sale,1972,461511,0.0,4,112.0,4120.634,Ollundsbjerg 40,6470,Sydals,South jutland,Jutland,5.5,1.99,8.39
+1994-04-25,1994Q2,1464012,Villa,regular_sale,1877,927880,0.0,5,128.0,7249.0625,Mørdrupvej 34,3060,Espergærde,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-25,1994Q2,1464032,Farm,regular_sale,1943,2250000,0.0,4,139.0,16187.051,Galdbjerg Kohavevej 24,5874,Hesselager,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-25,1994Q2,1464106,Villa,regular_sale,1914,470000,0.0,4,140.0,3357.1428,Ståbyvej 27,5672,Broby,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-25,1994Q2,1464084,Villa,regular_sale,1968,1250000,0.0,7,220.0,5681.8184,Søster Svenstrup Byvej 19,4130,Viby Sjælland,Other islands,Zealand,5.5,1.99,8.39
+1994-04-25,1994Q2,1464027,Villa,family_sale,1931,435000,0.0,3,84.0,5178.5713,Ottesvej 2,4180,Sorø,Other islands,Zealand,5.5,1.99,8.39
+1994-04-24,1994Q2,1464108,Farm,regular_sale,1848,2000000,0.0,9,275.0,7272.727,Skovs-Højrup-Vej 73,5270,Odense N,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-24,1994Q2,1464192,Villa,regular_sale,1978,700000,0.0,5,175.0,4000.0,Nellikevej 8,3300,Frederiksværk,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-24,1994Q2,1464147,Villa,regular_sale,1957,460000,0.0,7,217.0,2119.8157,Strandfogedvej 23,2660,Brøndby Strand,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-24,1994Q2,1464113,Villa,regular_sale,1934,559230,0.0,4,120.0,4660.25,Grundtvigsvej 6,5230,Odense M,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-24,1994Q2,1464190,Villa,regular_sale,1935,877570,0.0,6,203.0,4323.005,Jyllingevej 221,2610,Rødovre,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-24,1994Q2,1464175,Townhouse,regular_sale,1965,697000,0.0,4,111.0,6279.2793,Elverhøj 22,9400,Nørresundby,North jutland,Jutland,5.5,1.99,8.39
+1994-04-24,1994Q2,1464177,Villa,family_sale,1973,730000,0.0,7,226.0,3230.0884,Korsnæbsvej 19,4673,Rødvig Stevns,Other islands,Zealand,5.5,1.99,8.39
+1994-04-24,1994Q2,1464184,Apartment,regular_sale,1897,2445000,0.0,2,107.0,22850.467,"Nørrebrogade 29, 4. th",2200,København N,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-24,1994Q2,1464196,Villa,regular_sale,1974,861000,0.0,6,162.0,5314.815,Toften 30,4230,Skælskør,Other islands,Zealand,5.5,1.99,8.39
+1994-04-24,1994Q2,1464152,Villa,regular_sale,1971,695000,0.0,4,111.0,6261.261,Dalumvej 23,4700,Næstved,Other islands,Zealand,5.5,1.99,8.39
+1994-04-22,1994Q2,1464259,Villa,regular_sale,1911,1310580,0.0,4,123.0,10655.122,Bækkelundsvej 41A,8240,Risskov,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-22,1994Q2,1464249,Townhouse,regular_sale,1958,611243,0.0,4,96.0,6367.1147,Ãparken 68,2605,Brøndby,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-21,1994Q2,1464324,Apartment,regular_sale,1931,750000,0.0,4,118.0,6355.932,"Strandvejen 18, 1. tv",2100,København A,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-21,1994Q2,1464283,Farm,family_sale,1912,510000,0.0,4,167.0,3053.8923,Alkenvej 57,8660,Skanderborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-21,1994Q2,1464280,Villa,regular_sale,1939,520000,0.0,4,139.0,3741.007,Fælleslykkevej 32,6100,Haderslev,South jutland,Jutland,5.5,1.99,8.39
+1994-04-21,1994Q2,1464268,Apartment,regular_sale,1897,1000000,0.0,3,69.0,14492.754,"Absalonsgade 1, 3. tv",9000,Aalborg,North jutland,Jutland,5.5,1.99,8.39
+1994-04-21,1994Q2,1464269,Villa,regular_sale,1875,300000,0.0,8,220.0,1363.6364,Molsvej 97,8400,Ebeltoft,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-21,1994Q2,1464279,Villa,regular_sale,1973,560000,0.0,5,137.0,4087.5913,Sømarksvej 222,5471,Søndersø,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-21,1994Q2,1464323,Villa,regular_sale,1970,685000,0.0,4,123.0,5569.1055,Skovhaven 66,5320,Agedrup,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-21,1994Q2,1464286,Villa,regular_sale,1940,314000,0.0,4,91.0,3450.5496,Skagensvej 152,9800,Hjørring,North jutland,Jutland,5.5,1.99,8.39
+1994-04-20,1994Q2,1464369,Villa,regular_sale,1963,657000,0.0,3,173.0,3797.6877,Vandværksvej 22,7080,Børkop,South jutland,Jutland,5.5,1.99,8.39
+1994-04-20,1994Q2,1464372,Villa,regular_sale,1978,1050000,0.0,6,154.0,6818.1816,Bygvænget 214,2980,Kokkedal,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-19,1994Q2,1464425,Villa,regular_sale,1952,803880,0.0,4,145.0,5544.0,Borgervænget 13,8600,Silkeborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-19,1994Q2,1464467,Villa,family_sale,1974,382229,0.0,5,146.0,2618.0068,Arnedalen 19,8520,Lystrup,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-19,1994Q2,1464414,Summerhouse,regular_sale,1978,369540,0.0,6,98.0,3770.8164,Fiskervej 82,7700,Thisted,South jutland,Jutland,5.5,1.99,8.39
+1994-04-19,1994Q2,1464428,Farm,regular_sale,1900,665000,0.0,4,134.0,4962.6865,Fuglsangvej 10,9900,Frederikshavn,North jutland,Jutland,5.5,1.99,8.39
+1994-04-19,1994Q2,1464473,Farm,family_sale,1942,400000,0.0,5,133.0,3007.5188,Skindersøvej 46,3000,Helsingør,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-18,1994Q2,1464487,Farm,regular_sale,1900,2475000,0.0,7,283.0,8745.583,Ade Hastrup Vej 12,4000,Roskilde,Other islands,Zealand,5.5,1.99,8.39
+1994-04-17,1994Q2,1464524,Villa,regular_sale,1961,400000,0.0,4,95.0,4210.5264,Kærvej 6,7100,Vejle,South jutland,Jutland,5.5,1.99,8.39
+1994-04-17,1994Q2,1464593,Villa,regular_sale,1994,295000,0.0,6,145.0,2034.4828,Rødkildebanken 6,4320,Lejre,Other islands,Zealand,5.5,1.99,8.39
+1994-04-17,1994Q2,1464526,Summerhouse,family_sale,2012,270000,0.0,3,91.0,2967.033,Tingodden 220,6960,Hvide Sande,South jutland,Jutland,5.5,1.99,8.39
+1994-04-17,1994Q2,1464609,Villa,regular_sale,2012,853720,0.0,6,170.0,5021.8823,Vindfløjen 24,9380,Vestbjerg,North jutland,Jutland,5.5,1.99,8.39
+1994-04-16,1994Q2,1464643,Villa,regular_sale,1942,1400000,0.0,8,236.0,5932.2036,Høeghsmindevej 46,2820,Gentofte,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-14,1994Q2,1464670,Townhouse,regular_sale,1942,1022000,0.0,4,102.0,10019.607,Ellebækvej 26,2820,Gentofte,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-14,1994Q2,1464688,Villa,regular_sale,1965,788000,0.0,6,157.0,5019.1084,Dalstrøget 37,8600,Silkeborg,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-14,1994Q2,1464753,Apartment,regular_sale,1920,3850000,0.0,3,81.0,47530.863,"Helsingørsgade 56, st",3400,Hillerød,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-13,1994Q2,1464773,Villa,regular_sale,1987,580000,0.0,4,191.0,3036.6492,Tværstenen 6,4281,Gørlev,Other islands,Zealand,5.5,1.99,8.39
+1994-04-13,1994Q2,1464785,Villa,regular_sale,1970,585000,0.0,4,122.0,4795.082,Norgesvej 9,7200,Grindsted,South jutland,Jutland,5.5,1.99,8.39
+1994-04-13,1994Q2,1464767,Villa,regular_sale,1924,575000,0.0,5,125.0,4600.0,Søndergade 34,4534,Hørve,Other islands,Zealand,5.5,1.99,8.39
+1994-04-13,1994Q2,1464794,Villa,family_sale,1895,1063750,0.0,2,35.0,30392.857,Synnedrupvej 188,8340,Malling,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-13,1994Q2,1464824,Villa,regular_sale,1937,641083,0.0,6,175.0,3663.3315,Hunderupvej 126,5230,Odense M,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-13,1994Q2,1464790,Villa,regular_sale,1975,705000,0.0,3,96.0,7343.75,Skovduevej 6,6800,Varde,South jutland,Jutland,5.5,1.99,8.39
+1994-04-12,1994Q2,1464890,Villa,regular_sale,1966,587640,0.0,5,118.0,4980.0,Granvejen 40,4540,Fårevejle,Other islands,Zealand,5.5,1.99,8.39
+1994-04-12,1994Q2,1464878,Villa,regular_sale,1975,956643,0.0,4,160.0,5979.0186,Fasanvej 8,3400,Hillerød,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-11,1994Q2,1464935,Villa,regular_sale,1908,401471,0.0,6,226.0,1776.4204,Søndergade 9,6430,Nordborg,South jutland,Jutland,5.5,1.99,8.39
+1994-04-11,1994Q2,1464960,Villa,regular_sale,1977,777000,0.0,3,171.0,4543.86,Havrevænget 23,8300,Odder,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-11,1994Q2,1464979,Villa,regular_sale,1976,644250,0.0,6,169.0,3812.1301,Normavej 43,7800,Skive,South jutland,Jutland,5.5,1.99,8.39
+1994-04-11,1994Q2,1464974,Villa,regular_sale,1937,395000,0.0,6,167.0,2365.2695,Stationsvej 48,7080,Børkop,South jutland,Jutland,5.5,1.99,8.39
+1994-04-10,1994Q2,1465008,Townhouse,regular_sale,1917,520000,0.0,4,86.0,6046.5117,Grøndalsvej 15,5000,Odense C,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-07,1994Q2,1465115,Villa,regular_sale,1965,408000,0.0,4,147.0,2775.5103,Bakkevej 14,5672,Broby,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-07,1994Q2,1465169,Apartment,regular_sale,1910,1897327,0.0,3,73.0,25990.781,"Niels Brocks Gade 11, 1. tv",8900,Randers C,East & mid jutland,Jutland,5.5,1.99,8.39
+1994-04-07,1994Q2,1465142,Townhouse,regular_sale,1966,930000,0.0,5,155.0,6000.0,Hegnet 22,6000,Kolding,South jutland,Jutland,5.5,1.99,8.39
+1994-04-07,1994Q2,1465122,Villa,regular_sale,1961,865000,0.0,5,138.0,6268.1157,Kastanievej 10,4220,Korsør,Other islands,Zealand,5.5,1.99,8.39
+1994-04-06,1994Q2,1465239,Villa,regular_sale,1890,570000,0.0,3,65.0,8769.23,Storegade 18B,4171,Glumsø,Other islands,Zealand,5.5,1.99,8.39
+1994-04-06,1994Q2,1465208,Villa,regular_sale,1887,560000,0.0,9,218.0,2568.8074,Bredgade 21,9670,Løgstør,North jutland,Jutland,5.5,1.99,8.39
+1994-04-06,1994Q2,1465231,Summerhouse,regular_sale,1968,510000,0.0,5,88.0,5795.4546,Toppebjerg 12,6960,Hvide Sande,South jutland,Jutland,5.5,1.99,8.39
+1994-04-06,1994Q2,1465196,Villa,regular_sale,1953,325000,0.0,5,136.0,2389.7058,Bjerrumsvej 3,7673,Harboøre,South jutland,Jutland,5.5,1.99,8.39
+1994-04-06,1994Q2,1465185,Townhouse,regular_sale,1902,475000,0.0,4,74.0,6418.919,Rosenvej 4B,4654,Faxe Ladeplads,Other islands,Zealand,5.5,1.99,8.39
+1994-04-06,1994Q2,1465237,Apartment,regular_sale,1890,570000,0.0,3,83.0,6867.4697,"Storegade 18A, 2. tv",4171,Glumsø,Other islands,Zealand,5.5,1.99,8.39
+1994-04-06,1994Q2,1465224,Villa,regular_sale,1900,410000,0.0,4,115.0,3565.2173,Kraghave Møllevej 5,4800,Nykøbing F,Other islands,Zealand,5.5,1.99,8.39
+1994-04-06,1994Q2,1465192,Summerhouse,regular_sale,1918,325000,0.0,3,74.0,4391.892,Sundet 5,9800,Hjørring,North jutland,Jutland,5.5,1.99,8.39
+1994-04-05,1994Q2,1465275,Villa,regular_sale,1927,298000,0.0,5,100.0,2980.0,Grå Stensvej 7,7990,Aster Assels,South jutland,Jutland,5.5,1.99,8.39
+1994-04-05,1994Q2,1465245,Villa,regular_sale,1938,1575000,0.0,11,289.0,5449.827,Høeghsmindevej 69,2820,Gentofte,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-05,1994Q2,1465270,Villa,regular_sale,1957,1305927,0.0,6,220.0,5936.0317,Mothsvej 25,2840,Holte,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-04,1994Q2,1465344,Townhouse,regular_sale,1906,450000,0.0,4,101.0,4455.4453,Blindebomsvej 22,5500,Middelfart,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-04,1994Q2,1465287,Villa,regular_sale,1937,652965,0.0,4,94.0,6946.436,Grønbækvej 15,2610,Rødovre,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-04,1994Q2,1465350,Farm,family_sale,1930,1105000,0.0,4,206.0,5364.0776,Hornbækvej 497B,3080,Tikøb,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-04,1994Q2,1465337,Villa,family_sale,1995,410000,0.0,6,146.0,2808.2192,Valnøddebakken 7,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,5.5,1.99,8.39
+1994-04-04,1994Q2,1465289,Villa,regular_sale,1974,617000,0.0,5,171.0,3608.1873,Traverskiftet 16,5881,Skårup Fyn,Fyn & islands,Fyn & islands,5.5,1.99,8.39
+1994-04-04,1994Q2,1465309,Villa,regular_sale,1923,1048050,0.0,6,133.0,7880.075,Tordenskjoldsvej 8,3000,Helsingør,North Zealand,Zealand,5.5,1.99,8.39
+1994-04-03,1994Q2,1465374,Villa,regular_sale,1972,590000,0.0,6,148.0,3986.4866,Mejsevej 28,3200,Helsinge,North Zealand,Zealand,5.5,1.99,8.39
+1994-03-31,1994Q1,1465446,Summerhouse,regular_sale,1971,445000,0.0,4,70.0,6357.143,Kratvej 30,6853,Vejers Strand,South jutland,Jutland,6.25,1.99,8.39
+1994-03-31,1994Q1,1465430,Villa,regular_sale,1962,862440,0.0,7,159.0,5424.151,Lammefjordsvej 24,4300,Holbæk,Other islands,Zealand,6.25,1.99,8.39
+1994-03-30,1994Q1,1465460,Summerhouse,regular_sale,2001,350000,0.0,4,139.0,2517.9856,Ramsvej 42,3200,Helsinge,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-29,1994Q1,1465521,Villa,regular_sale,1980,1015000,0.0,6,196.0,5178.5713,Brunhøj 38,8362,Hørning,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-29,1994Q1,1465532,Apartment,regular_sale,1902,2400000,0.0,3,80.0,30000.0,"Odensegade 14, 2. th",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-29,1994Q1,1465516,Villa,regular_sale,1980,937267,0.0,4,133.0,7047.12,Skovgårdsvænget 81,8310,Tranbjerg J,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-29,1994Q1,1465527,Apartment,regular_sale,1902,2400000,0.0,3,79.0,30379.746,"Odensegade 14, 1. tv",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-29,1994Q1,1465541,Apartment,regular_sale,1902,2400000,0.0,3,79.0,30379.746,"Odensegade 14, 3. th",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-29,1994Q1,1465494,Apartment,regular_sale,1935,669000,0.0,3,96.0,6968.75,"Strandparken 16, 2. th",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-29,1994Q1,1465526,Apartment,regular_sale,1902,2400000,0.0,3,80.0,30000.0,"Odensegade 14, 1. th",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-28,1994Q1,1465609,Villa,regular_sale,1968,830000,0.0,5,152.0,5460.5264,Søleddet 22,4180,Sorø,Other islands,Zealand,6.25,1.99,8.39
+1994-03-28,1994Q1,1465633,Apartment,regular_sale,1885,447000,0.0,2,51.0,8764.706,"Jellingvej 16, st. th",7100,Vejle,South jutland,Jutland,6.25,1.99,8.39
+1994-03-28,1994Q1,1465597,Apartment,regular_sale,1906,3125000,0.0,3,82.0,38109.758,"Skt. Pauls Gade 23, 3. th",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-28,1994Q1,1465655,Villa,regular_sale,1964,537860,0.0,5,125.0,4302.88,Bjerrevej 172B,8700,Horsens,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-28,1994Q1,1465650,Villa,regular_sale,1953,665000,0.0,5,137.0,4854.0146,Holbækvej 16,7400,Herning,South jutland,Jutland,6.25,1.99,8.39
+1994-03-28,1994Q1,1465628,Farm,regular_sale,1967,1907500,0.0,9,270.0,7064.815,Aalborgvej 50,9670,Løgstør,North jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465689,Summerhouse,regular_sale,1992,2200000,0.0,5,150.0,14666.667,Lyngvejen 80,6950,Ringkøbing,South jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465750,Apartment,regular_sale,1946,2030000,0.0,2,75.0,27066.666,"Ryesgade 38C, 1. 3",9000,Aalborg,North jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465747,Apartment,regular_sale,1889,396000,0.0,2,58.0,6827.5864,"Søren Møllers Gade 19, 1. th",8900,Randers C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465751,Apartment,regular_sale,1946,2030000,0.0,2,76.0,26710.525,"Ryesgade 38C, 1. 4",9000,Aalborg,North jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465765,Apartment,regular_sale,1932,2030000,0.0,2,69.0,29420.29,"Ryesgade 38, 3. tv",9000,Aalborg,North jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465670,Villa,regular_sale,1933,708869,0.0,5,107.0,6624.944,Højbyvej 1,4320,Lejre,Other islands,Zealand,6.25,1.99,8.39
+1994-03-27,1994Q1,1465702,Villa,regular_sale,1927,325000,0.0,7,122.0,2663.9343,Gl Skolevej 18,8620,Kjellerup,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465773,Apartment,regular_sale,1919,650000,0.0,3,84.0,7738.095,"Heltzensgade 6, st. tv",5000,Odense C,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-03-27,1994Q1,1465738,Villa,family_sale,1961,534174,0.0,3,96.0,5564.3125,Funder Bygade 24,8600,Silkeborg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-27,1994Q1,1465699,Villa,regular_sale,1920,864400,0.0,6,192.0,4502.0835,Karlebyvej 63,4070,Kirke Hyllinge,Other islands,Zealand,6.25,1.99,8.39
+1994-03-27,1994Q1,1465686,Apartment,regular_sale,1946,543166,0.0,3,67.0,8106.955,"Gladsaxevej 65, 1. tv",2860,Søborg,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-26,1994Q1,1465790,Villa,regular_sale,1950,372000,0.0,3,100.0,3720.0,Dalsgaardvej 12,9293,Kongerslev,North jutland,Jutland,6.25,1.99,8.39
+1994-03-25,1994Q1,1465825,Farm,regular_sale,1906,895000,0.0,6,175.0,5114.2856,Ãlykken 23,4360,Kirke Eskilstrup,Other islands,Zealand,6.25,1.99,8.39
+1994-03-25,1994Q1,1465851,Villa,regular_sale,1972,690000,0.0,4,139.0,4964.029,Drosselvej 6,6340,Kruså,South jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465889,Villa,regular_sale,1952,700000,0.0,5,139.0,5035.971,Mollerupvej 7,2610,Rødovre,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-24,1994Q1,1465893,Villa,regular_sale,1975,460000,0.0,6,215.0,2139.535,Rugvænget 17,9632,Møldrup,North jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465908,Villa,regular_sale,1979,850000,0.0,5,131.0,6488.55,Ankjær 363,8300,Odder,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465870,Villa,regular_sale,1904,256000,0.0,3,90.0,2844.4443,Adelvej 11,7830,Vinderup,South jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465901,Apartment,regular_sale,1896,656180,0.0,4,92.0,7132.391,Montanagade 44B,8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465879,Townhouse,regular_sale,1983,605000,0.0,4,99.0,6111.1113,Druelundsvej 39,4660,Store Heddinge,Other islands,Zealand,6.25,1.99,8.39
+1994-03-24,1994Q1,1465867,Townhouse,regular_sale,1982,528000,0.0,3,106.0,4981.132,Krondrevet 55,3140,Ãlsgårde,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-24,1994Q1,1465871,Villa,regular_sale,1907,897313,0.0,4,123.0,7295.2275,Thyrasgade 8,8260,Viby J,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465910,Farm,family_sale,1924,690000,0.0,8,206.0,3349.5146,V. Breumvej 2,7870,Roslev,South jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465854,Villa,regular_sale,1957,320000,0.0,3,112.0,2857.1428,Bjerndrup Bygade 9,6200,Aabenraa,South jutland,Jutland,6.25,1.99,8.39
+1994-03-24,1994Q1,1465858,Apartment,regular_sale,1891,298985,0.0,1,50.0,5979.7,"Kastelsvej 9, 4. 3",2100,København A,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-23,1994Q1,1465945,Villa,regular_sale,1910,1300000,0.0,10,84.0,15476.19,Jels Torvet 5,6630,Rødding,South jutland,Jutland,6.25,1.99,8.39
+1994-03-23,1994Q1,1466007,Villa,regular_sale,1987,825000,0.0,6,172.0,4796.5117,Astervænget 42,6623,Vorbasse,South jutland,Jutland,6.25,1.99,8.39
+1994-03-23,1994Q1,1465971,Villa,regular_sale,1979,807000,0.0,4,127.0,6354.3306,Ovesdal 19,8320,Mårslet,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-23,1994Q1,1465955,Villa,regular_sale,1931,500000,0.0,3,112.0,4464.2856,Silkeborgvej 34,8653,Them,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-23,1994Q1,1465977,Apartment,auction,1910,1305000,0.0,2,43.0,30348.838,"Niels Brocks Gade 13, 4. tv",8900,Randers C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-23,1994Q1,1465957,Townhouse,regular_sale,1972,340000,0.0,2,55.0,6181.8184,Lonesvej 96,9800,Hjørring,North jutland,Jutland,6.25,1.99,8.39
+1994-03-22,1994Q1,1466082,Villa,regular_sale,1977,1439369,0.0,5,206.0,6987.228,Tuelsøvej 30,4180,Sorø,Other islands,Zealand,6.25,1.99,8.39
+1994-03-22,1994Q1,1466054,Summerhouse,regular_sale,1973,435000,0.0,4,95.0,4578.9473,Nygårdsvej 18,6960,Hvide Sande,South jutland,Jutland,6.25,1.99,8.39
+1994-03-22,1994Q1,1466037,Townhouse,regular_sale,1976,674526,0.0,4,108.0,6245.6113,Lonevej 27,3060,Espergærde,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-22,1994Q1,1466030,Farm,regular_sale,1911,800000,0.0,4,120.0,6666.6665,Bajlumvej 3,7870,Roslev,South jutland,Jutland,6.25,1.99,8.39
+1994-03-22,1994Q1,1466047,Farm,regular_sale,1932,952642,0.0,5,136.0,7004.7207,Sivkærvej 25,5591,Gelsted,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-03-22,1994Q1,1466017,Farm,regular_sale,2000,768000,0.0,6,244.0,3147.541,Strandbakken 5,8420,Knebel,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-21,1994Q1,1466114,Villa,regular_sale,1922,675000,0.0,7,145.0,4655.1724,Treldevej 20,7000,Fredericia,South jutland,Jutland,6.25,1.99,8.39
+1994-03-21,1994Q1,1466154,Apartment,regular_sale,1878,2800000,0.0,3,146.0,19178.082,"Helligkorsgade 15, 2. th",6000,Kolding,South jutland,Jutland,6.25,1.99,8.39
+1994-03-21,1994Q1,1466139,Apartment,regular_sale,1878,2800000,0.0,3,88.0,31818.182,"Helligkorsgade 15, 1. tv",6000,Kolding,South jutland,Jutland,6.25,1.99,8.39
+1994-03-21,1994Q1,1466135,Villa,regular_sale,1986,710000,0.0,4,113.0,6283.186,Kildedalen 11,9490,Pandrup,North jutland,Jutland,6.25,1.99,8.39
+1994-03-20,1994Q1,1466196,Villa,regular_sale,1904,625000,0.0,4,122.0,5122.9507,Stubbekøbingvej 28,4840,Nørre Alslev,Other islands,Zealand,6.25,1.99,8.39
+1994-03-20,1994Q1,1466164,Villa,family_sale,1927,795000,0.0,6,154.0,5162.338,Rosenlunden 10,5000,Odense C,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-03-20,1994Q1,1466234,Villa,regular_sale,1970,654147,0.0,6,164.0,3988.7012,Møllekrogen 7,6705,Esbjerg A,South jutland,Jutland,6.25,1.99,8.39
+1994-03-20,1994Q1,1466189,Townhouse,regular_sale,1987,425000,0.0,3,63.0,6746.0317,Hasselvej 15,4540,Fårevejle,Other islands,Zealand,6.25,1.99,8.39
+1994-03-19,1994Q1,1466258,Summerhouse,regular_sale,1989,360000,0.0,3,61.0,5901.639,Fiskerleddet 10,4560,Vig,Other islands,Zealand,6.25,1.99,8.39
+1994-03-19,1994Q1,1466256,Villa,regular_sale,1924,1205250,0.0,6,173.0,6966.763,Rygårds Alle 18,2900,Hellerup,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-19,1994Q1,1466273,Villa,regular_sale,1983,721000,0.0,5,166.0,4343.3735,Frederiksdalvej 3A,8600,Silkeborg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-17,1994Q1,1466312,Villa,regular_sale,1980,792000,0.0,6,174.0,4551.724,Højbjergvej 11,3390,Hundested,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-17,1994Q1,1466356,Farm,regular_sale,1916,5700000,0.0,10,319.0,17868.338,Falkensteenvej 7A,4200,Slagelse,Other islands,Zealand,6.25,1.99,8.39
+1994-03-17,1994Q1,1466310,Villa,regular_sale,1935,854176,0.0,7,183.0,4667.6284,Højdevej 32,2830,Virum,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-17,1994Q1,1466322,Villa,regular_sale,1920,770000,0.0,4,114.0,6754.3857,Filstedvej 54,9000,Aalborg,North jutland,Jutland,6.25,1.99,8.39
+1994-03-16,1994Q1,1466436,Farm,auction,1971,1500000,0.0,6,166.0,9036.145,Karsbækvej 10,6940,Lem St,South jutland,Jutland,6.25,1.99,8.39
+1994-03-16,1994Q1,1466408,Farm,regular_sale,1789,1083637,0.0,4,105.0,10320.353,Villingerødvej 31,3120,Dronningmølle,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-16,1994Q1,1466395,Villa,regular_sale,1905,569633,0.0,5,127.0,4485.2993,Egå Kirkesti 6,8250,Egå,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-15,1994Q1,1466468,Villa,regular_sale,1986,570000,0.0,4,89.0,6404.494,Gl. Ãrhusvej 115,8800,Viborg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-15,1994Q1,1466493,Townhouse,regular_sale,2016,850000,0.0,4,103.0,8252.427,Holbergsgade 1D,7470,Karup J,South jutland,Jutland,6.25,1.99,8.39
+1994-03-15,1994Q1,1466444,Villa,regular_sale,1969,822800,0.0,5,136.0,6050.0,Majbøl Alle 21,2770,Kastrup,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-14,1994Q1,1466596,Villa,family_sale,1865,410000,0.0,5,79.0,5189.8735,Ãbyskovvej 52,5881,Skårup Fyn,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-03-14,1994Q1,1466598,Apartment,regular_sale,1876,2400000,0.0,4,96.0,25000.0,"Griffenfeldsgade 52, 4. th",2200,København N,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-14,1994Q1,1466545,Villa,regular_sale,1877,575000,0.0,4,102.0,5637.255,Samsøvej 6,4060,Kirke Såby,Other islands,Zealand,6.25,1.99,8.39
+1994-03-14,1994Q1,1466610,Townhouse,regular_sale,1930,1265000,0.0,7,132.0,9583.333,Christian X's Alle 156,2800,Kongens Lyngby,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-13,1994Q1,1466692,Villa,regular_sale,1978,950000,0.0,6,146.0,6506.849,Røglevej 112,3450,Allerød,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-13,1994Q1,1466635,Villa,regular_sale,1973,1100000,0.0,7,167.0,6586.826,Smedievej 137,3400,Hillerød,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-13,1994Q1,1466657,Villa,regular_sale,1972,664500,0.0,3,113.0,5880.531,Fyrrelunden 80,6705,Esbjerg A,South jutland,Jutland,6.25,1.99,8.39
+1994-03-13,1994Q1,1466649,Farm,regular_sale,1907,1141680,0.0,3,122.0,9358.033,Roskildevej 68,3400,Hillerød,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-13,1994Q1,1466626,Villa,regular_sale,1900,390000,0.0,8,203.0,1921.1823,Ãrbækvej 6,7752,Snedsted,South jutland,Jutland,6.25,1.99,8.39
+1994-03-13,1994Q1,1466690,Apartment,regular_sale,1860,600000,0.0,2,47.0,12765.957,"Skovmøllevej 25, st. th",5881,Skårup Fyn,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-03-13,1994Q1,1466663,Villa,regular_sale,1974,1014000,0.0,8,195.0,5200.0,Strandvejen 51A,7120,Vejle Ast,South jutland,Jutland,6.25,1.99,8.39
+1994-03-12,1994Q1,1466711,Villa,regular_sale,1976,740000,0.0,5,204.0,3627.451,Lindevænget 58,7361,Ejstrupholm,South jutland,Jutland,6.25,1.99,8.39
+1994-03-12,1994Q1,1466701,Villa,regular_sale,1850,870930,0.0,6,170.0,5123.1177,Astervang 6,6200,Aabenraa,South jutland,Jutland,6.25,1.99,8.39
+1994-03-10,1994Q1,1466759,Villa,regular_sale,1971,602116,0.0,5,130.0,4631.6616,Fåborgvej 26,4700,Næstved,Other islands,Zealand,6.25,1.99,8.39
+1994-03-09,1994Q1,1466819,Villa,auction,1989,850000,0.0,9,231.0,3679.6536,Birketvej 195,4941,Bandholm,Other islands,Zealand,6.25,1.99,8.39
+1994-03-09,1994Q1,1466840,Villa,regular_sale,1977,800000,0.0,5,147.0,5442.177,Flyet 5,9310,Vodskov,North jutland,Jutland,6.25,1.99,8.39
+1994-03-09,1994Q1,1466826,Farm,regular_sale,1939,650000,0.0,4,94.0,6914.8936,Skolevej 6,9541,Suldrup,North jutland,Jutland,6.25,1.99,8.39
+1994-03-08,1994Q1,1466863,Villa,regular_sale,1961,575000,0.0,6,123.0,4674.797,Abildholtvej 11,7500,Holstebro,South jutland,Jutland,6.25,1.99,8.39
+1994-03-08,1994Q1,1466877,Apartment,regular_sale,1906,1150000,0.0,2,52.0,22115.385,"Bredgade 82, 1",9700,Brønderslev,North jutland,Jutland,6.25,1.99,8.39
+1994-03-08,1994Q1,1466896,Villa,regular_sale,1984,642039,0.0,4,130.0,4938.7617,Højdedraget 65,6940,Lem St,South jutland,Jutland,6.25,1.99,8.39
+1994-03-08,1994Q1,1466890,Summerhouse,family_sale,1916,501500,0.0,4,113.0,4438.053,Korshage Lyngvej 10,4581,Rørvig,Other islands,Zealand,6.25,1.99,8.39
+1994-03-08,1994Q1,1466889,Summerhouse,regular_sale,1975,361200,0.0,3,79.0,4572.152,Barsøvej 7,8585,Glesborg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-07,1994Q1,1466963,Villa,regular_sale,1935,785000,0.0,5,162.0,4845.679,Købkesvej 1,5230,Odense M,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-03-06,1994Q1,1466980,Apartment,regular_sale,1890,6300000,0.0,3,86.0,73255.81,"Sortedam Dossering 21, 1. tv",2200,København N,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-06,1994Q1,1466985,Apartment,regular_sale,1890,6300000,0.0,2,86.0,73255.81,"Sortedam Dossering 21, 3. th",2200,København N,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-06,1994Q1,1467031,Villa,regular_sale,1982,340000,0.0,6,202.0,1683.1683,Rygbjergvej 17,7183,Randbøl,South jutland,Jutland,6.25,1.99,8.39
+1994-03-06,1994Q1,1467044,Townhouse,regular_sale,1978,720000,0.0,5,116.0,6206.8965,Hallandsparken 90,2630,Taastrup,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-06,1994Q1,1466977,Townhouse,regular_sale,1968,663000,0.0,4,122.0,5434.4263,Park Alle 24,3650,Alstykke,North Zealand,Zealand,6.25,1.99,8.39
+1994-03-06,1994Q1,1467003,Apartment,regular_sale,1890,6300000,0.0,3,90.0,70000.0,"Sankt Hans Gade 1, 1. tv",2200,København N,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-06,1994Q1,1466979,Apartment,regular_sale,1890,6300000,0.0,3,86.0,73255.81,"Sortedam Dossering 21, st. tv",2200,København N,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-06,1994Q1,1467027,Summerhouse,regular_sale,1972,349190,0.0,2,67.0,5211.791,Stormvej 11,4571,Grevinge,Other islands,Zealand,6.25,1.99,8.39
+1994-03-03,1994Q1,1467149,Villa,regular_sale,1988,710000,0.0,5,140.0,5071.4287,Humlevænget 15,7570,Vemb,South jutland,Jutland,6.25,1.99,8.39
+1994-03-03,1994Q1,1467147,Villa,regular_sale,1957,480000,0.0,3,102.0,4705.8823,Ryesgade 5,8680,Ry,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-03,1994Q1,1467144,Villa,regular_sale,1908,2980000,0.0,6,245.0,12163.266,Fandrupvej 26,9640,Farsø,North jutland,Jutland,6.25,1.99,8.39
+1994-03-02,1994Q1,1467167,Townhouse,regular_sale,1986,560000,0.0,4,101.0,5544.5547,Rytterparken 48,8543,Hornslet,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-02,1994Q1,1467152,Villa,family_sale,1920,382500,0.0,3,92.0,4157.609,Hegnet 10,4300,Holbæk,Other islands,Zealand,6.25,1.99,8.39
+1994-03-02,1994Q1,1467156,Apartment,regular_sale,1908,1125000,0.0,5,104.0,10817.308,"Hovedgaden 445, 1. tv",2640,Hedehusene,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-01,1994Q1,1467263,Townhouse,regular_sale,1960,690280,0.0,4,87.0,7934.253,Kamma Rahbeks Vej 11,8230,Ãbyhøj,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-03-01,1994Q1,1467258,Villa,regular_sale,1912,550000,0.0,4,122.0,4508.197,Kværkeby Stationsvej 7,4100,Ringsted,Other islands,Zealand,6.25,1.99,8.39
+1994-03-01,1994Q1,1467271,Apartment,other_sale,1950,6300000,0.0,4,99.0,63636.363,"Frederiksberg Alle 76, 6. th",1820,Frederiksberg C,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-03-01,1994Q1,1467257,Apartment,other_sale,1950,6300000,0.0,4,99.0,63636.363,"Frederiksberg Alle 76, 4. th",1820,Frederiksberg C,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-28,1994Q1,1467335,Villa,regular_sale,1913,750000,0.0,5,130.0,5769.231,Stationsvej 25,7330,Brande,South jutland,Jutland,6.25,1.99,8.39
+1994-02-28,1994Q1,1467325,Villa,other_sale,1953,251412,0.0,4,119.0,2112.7058,Odensevej 27,5700,Svendborg,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-27,1994Q1,1467379,Apartment,regular_sale,1900,440000,0.0,3,92.0,4782.609,"Carl Medingsvej 26, 1",4230,Skælskør,Other islands,Zealand,6.25,1.99,8.39
+1994-02-27,1994Q1,1467459,Apartment,regular_sale,1860,350000,0.0,3,68.0,5147.0586,"Strandgade 23A, st. tv",4230,Skælskør,Other islands,Zealand,6.25,1.99,8.39
+1994-02-27,1994Q1,1467425,Villa,regular_sale,1910,285000,0.0,5,105.0,2714.2856,Apotekervej 8,5700,Svendborg,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-27,1994Q1,1467416,Villa,regular_sale,1976,705000,0.0,6,150.0,4700.0,Daneng 8,6760,Ribe,South jutland,Jutland,6.25,1.99,8.39
+1994-02-27,1994Q1,1467440,Farm,family_sale,2004,490000,0.0,4,102.0,4803.9214,Stadionvej 95,7470,Karup J,South jutland,Jutland,6.25,1.99,8.39
+1994-02-27,1994Q1,1467455,Villa,regular_sale,1966,859000,0.0,4,130.0,6607.6924,Nyvej 4B,2620,Albertslund,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-27,1994Q1,1467383,Apartment,regular_sale,1900,440000,0.0,3,72.0,6111.1113,"Carl Medingsvej 26, 2",4230,Skælskør,Other islands,Zealand,6.25,1.99,8.39
+1994-02-26,1994Q1,1467477,Villa,regular_sale,1847,260000,0.0,8,185.0,1405.4054,Rangstrupvej 28,6534,Agerskov,South jutland,Jutland,6.25,1.99,8.39
+1994-02-24,1994Q1,1467516,Villa,regular_sale,1902,765000,0.0,9,337.0,2270.0298,Nørreåvej 29,8830,Tjele,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-24,1994Q1,1467511,Villa,regular_sale,1977,1150500,0.0,6,174.0,6612.069,Mellemvangsvej 7,3060,Espergærde,North Zealand,Zealand,6.25,1.99,8.39
+1994-02-24,1994Q1,1467550,Villa,regular_sale,1933,566000,0.0,5,118.0,4796.6104,Søndermarksvej 50,7100,Vejle,South jutland,Jutland,6.25,1.99,8.39
+1994-02-24,1994Q1,1467580,Villa,regular_sale,1920,526000,0.0,3,92.0,5717.391,Ormslevvej 486,8260,Viby J,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-24,1994Q1,1467575,Villa,regular_sale,1965,495000,0.0,3,98.0,5051.0205,Villavej 20,9240,Nibe,North jutland,Jutland,6.25,1.99,8.39
+1994-02-23,1994Q1,1467584,Apartment,regular_sale,1911,610000,0.0,3,94.0,6489.362,"Fåborggade 7B, 2",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-23,1994Q1,1467637,Villa,regular_sale,1963,565000,0.0,4,140.0,4035.7144,Tværvej 10,5853,Arbæk,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-23,1994Q1,1467646,Villa,regular_sale,1935,481300,0.0,5,109.0,4415.596,Langelinie 38,4780,Stege,Other islands,Zealand,6.25,1.99,8.39
+1994-02-23,1994Q1,1467590,Villa,regular_sale,1994,1080000,0.0,5,154.0,7012.987,Solbakken 3,8450,Hammel,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-23,1994Q1,1467609,Villa,regular_sale,1931,550000,0.0,5,177.0,3107.3447,Trekanten 4,5792,Ãrslev,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-23,1994Q1,1467610,Apartment,regular_sale,1970,285000,0.0,3,83.0,3433.7349,"Kongensgavevej 33, st. th",3200,Helsinge,North Zealand,Zealand,6.25,1.99,8.39
+1994-02-22,1994Q1,1467713,Villa,family_sale,1948,765000,0.0,3,74.0,10337.838,Averødvej 187A,2840,Holte,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-22,1994Q1,1467667,Townhouse,regular_sale,1994,975000,0.0,4,104.0,9375.0,Parklodden 67,2760,Måløv,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-21,1994Q1,1467739,Farm,regular_sale,1900,1600000,0.0,7,243.0,6584.3623,Møllesøvej 5,4241,Vemmelev,Other islands,Zealand,6.25,1.99,8.39
+1994-02-21,1994Q1,1467737,Villa,regular_sale,1934,891010,0.0,5,128.0,6961.0156,Sparresholmvej 37,2700,Brønshøj,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-21,1994Q1,1467747,Villa,regular_sale,1900,254411,0.0,3,86.0,2958.2673,Skovfennen 16,6270,Tønder,South jutland,Jutland,6.25,1.99,8.39
+1994-02-21,1994Q1,1467753,Apartment,regular_sale,1991,1100000,0.0,2,63.0,17460.318,"Jernbanegade 2B, 1. tv",5400,Bogense,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-21,1994Q1,1467729,Apartment,family_sale,1966,254600,0.0,2,49.0,5195.9185,"Vejlegårdsparken 14, 1. 13",2665,Vallensbæk Strand,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-20,1994Q1,1467856,Villa,regular_sale,1937,728000,0.0,8,179.0,4067.039,Tvoruphøjevej 12,9520,Skørping,North jutland,Jutland,6.25,1.99,8.39
+1994-02-20,1994Q1,1467855,Apartment,regular_sale,1900,1150000,0.0,3,79.0,14556.962,"Havnegade 12B, st",7100,Vejle,South jutland,Jutland,6.25,1.99,8.39
+1994-02-20,1994Q1,1467805,Villa,regular_sale,1987,770000,0.0,5,165.0,4666.6665,Skovvej 1B,9550,Mariager,North jutland,Jutland,6.25,1.99,8.39
+1994-02-19,1994Q1,1467870,Apartment,family_sale,1901,580000,0.0,2,54.0,10740.741,"Bredgade 40, st. tv",8870,Langå,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-19,1994Q1,1467867,Summerhouse,regular_sale,1980,430020,0.0,4,88.0,4886.591,Søstensvej 27,4583,Sjællands Odde,Other islands,Zealand,6.25,1.99,8.39
+1994-02-19,1994Q1,1467876,Villa,regular_sale,1981,745000,0.0,6,168.0,4434.524,Tjørnevej 115,7500,Holstebro,South jutland,Jutland,6.25,1.99,8.39
+1994-02-18,1994Q1,1467910,Apartment,regular_sale,1928,400000,0.0,2,40.0,10000.0,"Ringvejen 18, 1",9560,Hadsund,North jutland,Jutland,6.25,1.99,8.39
+1994-02-17,1994Q1,1467942,Villa,regular_sale,1907,814340,0.0,11,192.0,4241.354,Restrup Skovvej 72,9240,Nibe,North jutland,Jutland,6.25,1.99,8.39
+1994-02-17,1994Q1,1467931,Farm,regular_sale,1907,750000,0.0,5,121.0,6198.347,Virkelystvej 11,7550,Sørvad,South jutland,Jutland,6.25,1.99,8.39
+1994-02-16,1994Q1,1468006,Apartment,regular_sale,1913,831000,0.0,5,138.0,6021.7393,"Mantziusvej 20, st",2900,Hellerup,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-16,1994Q1,1467952,Villa,regular_sale,1976,740000,0.0,5,140.0,5285.7144,Lunddalvej 13,7000,Fredericia,South jutland,Jutland,6.25,1.99,8.39
+1994-02-16,1994Q1,1467989,Summerhouse,regular_sale,1973,265000,0.0,3,67.0,3955.2239,Brudbjergvej 20,6830,Nørre Nebel,South jutland,Jutland,6.25,1.99,8.39
+1994-02-16,1994Q1,1467969,Townhouse,regular_sale,1980,765000,0.0,4,125.0,6120.0,Volden 46,8800,Viborg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-16,1994Q1,1467985,Villa,regular_sale,1938,385000,0.0,3,103.0,3737.864,Saltenvej 11,8653,Them,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-15,1994Q1,1468054,Villa,regular_sale,1967,847000,0.0,5,182.0,4653.846,Brydeholmen 1,4000,Roskilde,Other islands,Zealand,6.25,1.99,8.39
+1994-02-15,1994Q1,1468044,Villa,regular_sale,1976,755000,0.0,4,156.0,4839.7437,Holger Danskes Vej 35,7100,Vejle,South jutland,Jutland,6.25,1.99,8.39
+1994-02-15,1994Q1,1468040,Villa,regular_sale,1897,845500,0.0,4,240.0,3522.9167,Værslevvej 8,4490,Jerslev Sjælland,Other islands,Zealand,6.25,1.99,8.39
+1994-02-14,1994Q1,1468065,Villa,regular_sale,1936,1069528,0.0,3,182.0,5876.5273,Vestre Stræde 14,3390,Hundested,North Zealand,Zealand,6.25,1.99,8.39
+1994-02-14,1994Q1,1468102,Villa,regular_sale,1959,641745,0.0,5,146.0,4395.5137,Lyøvej 18,4700,Næstved,Other islands,Zealand,6.25,1.99,8.39
+1994-02-14,1994Q1,1468090,Villa,regular_sale,1954,909600,0.0,5,148.0,6145.946,Margrethes AllÃ© 32,5250,Odense SV,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-14,1994Q1,1468083,Apartment,regular_sale,1895,1650000,0.0,2,45.0,36666.668,"Gerritsgade 23B, 1",5700,Svendborg,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-13,1994Q1,1468123,Townhouse,regular_sale,1986,738198,0.0,4,93.0,7937.613,Grønnegården 314,2670,Greve,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-13,1994Q1,1468141,Villa,regular_sale,1954,600000,0.0,4,128.0,4687.5,Lykkesholms AllÃ© 56,8260,Viby J,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468125,Villa,auction,1986,603000,0.0,6,146.0,4130.137,Gartnervangen 34,9240,Nibe,North jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468164,Townhouse,family_sale,1980,392687,0.0,4,114.0,3444.6228,Slettebjerget 117,3400,Hillerød,North Zealand,Zealand,6.25,1.99,8.39
+1994-02-13,1994Q1,1468127,Villa,regular_sale,1974,749689,0.0,6,170.0,4409.935,Søndervang 3,6840,Oksbøl,South jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468133,Apartment,regular_sale,1939,959000,0.0,2,64.0,14984.375,"Præstevænge 9, st. th",9400,Nørresundby,North jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468190,Villa,regular_sale,1964,410000,0.0,4,129.0,3178.2947,Thorstedvej 128,7700,Thisted,South jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468153,Villa,regular_sale,1949,275000,0.0,4,108.0,2546.2964,Rougsøvej 64,8961,Allingåbro,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468160,Villa,regular_sale,1973,695000,0.0,4,140.0,4964.2856,Firkløvervej 11,8700,Horsens,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468175,Villa,regular_sale,1930,470000,0.0,6,151.0,3112.5828,Asylvej 16,9000,Aalborg,North jutland,Jutland,6.25,1.99,8.39
+1994-02-13,1994Q1,1468182,Summerhouse,family_sale,1975,484500,0.0,5,140.0,3460.7144,Stågbak 22,7700,Thisted,South jutland,Jutland,6.25,1.99,8.39
+1994-02-12,1994Q1,1468214,Farm,regular_sale,1924,785000,0.0,5,150.0,5233.3335,Sortehøjvej 17,8850,Bjerringbro,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-11,1994Q1,1468234,Farm,regular_sale,1900,620000,0.0,4,160.0,3875.0,Svindborgvej 13,7755,Bedsted Thy,South jutland,Jutland,6.25,1.99,8.39
+1994-02-10,1994Q1,1468292,Villa,regular_sale,1967,859600,0.0,4,120.0,7163.3335,Hirsevej 6,4040,Jyllinge,Other islands,Zealand,6.25,1.99,8.39
+1994-02-10,1994Q1,1468309,Villa,regular_sale,1971,1075000,0.0,4,112.0,9598.214,Vinterbuen 43,2750,Ballerup,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-10,1994Q1,1468289,Villa,regular_sale,1974,671350,0.0,7,154.0,4359.4155,Ildfuglevænget 51,5260,Odense S,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-10,1994Q1,1468262,Villa,family_sale,1886,621000,0.0,6,256.0,2425.7812,Gammel Randersvej 46,8990,Fårup,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-09,1994Q1,1468349,Villa,regular_sale,1926,655000,0.0,5,142.0,4612.6763,Syrenvej 16,7100,Vejle,South jutland,Jutland,6.25,1.99,8.39
+1994-02-09,1994Q1,1468357,Farm,regular_sale,1860,775000,0.0,5,236.0,3283.8982,Baaringvad 14,5580,Nørre Aaby,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-09,1994Q1,1468329,Villa,regular_sale,1900,465000,0.0,3,131.0,3549.6184,Assensvej 180,5771,Stenstrup,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-09,1994Q1,1468323,Townhouse,regular_sale,1907,710000,0.0,8,162.0,4382.716,Hertug Hans Vej 31A,6400,Sønderborg,South jutland,Jutland,6.25,1.99,8.39
+1994-02-08,1994Q1,1468409,Villa,regular_sale,1955,575000,0.0,6,169.0,3402.367,Nyvej 3,4174,Jystrup Midtsj,Other islands,Zealand,6.25,1.99,8.39
+1994-02-08,1994Q1,1468410,Villa,regular_sale,1910,300000,0.0,5,180.0,1666.6666,Stenbankevej 13,5771,Stenstrup,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-08,1994Q1,1468419,Villa,regular_sale,1900,300000,0.0,5,128.0,2343.75,Grønsundvej 120,4780,Stege,Other islands,Zealand,6.25,1.99,8.39
+1994-02-08,1994Q1,1468375,Villa,regular_sale,1965,916213,0.0,6,149.0,6149.0806,Solsvinget 10,8700,Horsens,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-07,1994Q1,1468442,Farm,family_sale,1912,799000,0.0,6,229.0,3489.083,Koelbjergvej 70,5492,Vissenbjerg,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-07,1994Q1,1468485,Townhouse,family_sale,1984,600000,0.0,4,103.0,5825.2427,Grønsiskenvej 36,6950,Ringkøbing,South jutland,Jutland,6.25,1.99,8.39
+1994-02-07,1994Q1,1468482,Villa,regular_sale,1968,620000,0.0,5,136.0,4558.8237,Barkvej 9,5960,Marstal,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-07,1994Q1,1468458,Villa,regular_sale,1970,1160000,0.0,8,262.0,4427.481,Elmevænget 6B,2880,Bagsværd,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-02-06,1994Q1,1468559,Apartment,family_sale,1900,1021458,0.0,4,102.0,10014.294,"Skt. Pauls Kirkeplads 19, 2. th",8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-06,1994Q1,1468556,Apartment,family_sale,1915,450000,0.0,3,108.0,4166.6665,"Dehnsvej 5, st",4700,Næstved,Other islands,Zealand,6.25,1.99,8.39
+1994-02-06,1994Q1,1468577,Apartment,regular_sale,1907,325000,0.0,2,46.0,7065.2173,"Skovbovej 2, st. 4",4800,Nykøbing F,Other islands,Zealand,6.25,1.99,8.39
+1994-02-05,1994Q1,1468602,Villa,regular_sale,1994,300000,0.0,4,136.0,2205.8823,Bekkasinvej 2,4000,Roskilde,Other islands,Zealand,6.25,1.99,8.39
+1994-02-04,1994Q1,1468624,Villa,regular_sale,1977,694500,0.0,5,126.0,5511.905,Elisabeth Billes Vej 17,9300,Sæby,North jutland,Jutland,6.25,1.99,8.39
+1994-02-04,1994Q1,1468626,Farm,other_sale,1872,700000,0.0,10,250.0,2800.0,Bjerndrupvej 5,6560,Sommersted,South jutland,Jutland,6.25,1.99,8.39
+1994-02-03,1994Q1,1468638,Villa,regular_sale,1970,425000,0.0,4,108.0,3935.1853,Nyvangsvej 1,8560,Kolind,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-03,1994Q1,1468635,Villa,regular_sale,1968,705000,0.0,4,120.0,5875.0,Benløse Leragervej 4,4100,Ringsted,Other islands,Zealand,6.25,1.99,8.39
+1994-02-03,1994Q1,1468647,Villa,regular_sale,1890,280000,0.0,3,150.0,1866.6666,Systofte Bygade 26,4800,Nykøbing F,Other islands,Zealand,6.25,1.99,8.39
+1994-02-03,1994Q1,1468670,Villa,regular_sale,1953,550000,0.0,3,67.0,8208.955,Dalumvej 9,8270,Højbjerg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-03,1994Q1,1468656,Villa,regular_sale,1969,700000,0.0,4,130.0,5384.615,Rosenhøjvej 8,8410,Rønde,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-03,1994Q1,1468655,Farm,regular_sale,2003,1490000,0.0,7,273.0,5457.8755,Kyømarksvej 11,9240,Nibe,North jutland,Jutland,6.25,1.99,8.39
+1994-02-02,1994Q1,1468683,Villa,regular_sale,1970,895000,0.0,4,152.0,5888.1577,Klintevej 31,7500,Holstebro,South jutland,Jutland,6.25,1.99,8.39
+1994-02-02,1994Q1,1468720,Villa,auction,1977,342000,0.0,4,124.0,2758.0645,Amarksvej 6,4100,Ringsted,Other islands,Zealand,6.25,1.99,8.39
+1994-02-02,1994Q1,1468689,Villa,regular_sale,1978,768600,0.0,5,132.0,5822.727,Højmarksvænget 97,8600,Silkeborg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-02,1994Q1,1468687,Townhouse,regular_sale,1966,760000,0.0,4,146.0,5205.4795,Pilestykket 5,4000,Roskilde,Other islands,Zealand,6.25,1.99,8.39
+1994-02-01,1994Q1,1468780,Apartment,regular_sale,1935,2250000,0.0,4,99.0,22727.273,"Langegade 1B, st. tv",5300,Kerteminde,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-02-01,1994Q1,1468744,Summerhouse,regular_sale,1994,612500,0.0,5,135.0,4537.037,Thomas Winthers Vej 10,9370,Hals,North jutland,Jutland,6.25,1.99,8.39
+1994-02-01,1994Q1,1468753,Villa,regular_sale,1986,920000,0.0,4,138.0,6666.6665,Skovparken 53,8722,Hedensted,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-02-01,1994Q1,1468731,Villa,regular_sale,1974,695000,0.0,4,121.0,5743.802,Andekæret 39,5300,Kerteminde,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-31,1994Q1,1468805,Summerhouse,regular_sale,1992,829100,0.0,4,82.0,10110.976,Ringvejen 60,6792,Rømø,South jutland,Jutland,6.25,1.99,8.39
+1994-01-31,1994Q1,1468826,Villa,family_sale,1977,550000,0.0,4,115.0,4782.609,Centrumsgaden 27,6330,Padborg,South jutland,Jutland,6.25,1.99,8.39
+1994-01-31,1994Q1,1468876,Villa,regular_sale,1987,470000,0.0,4,123.0,3821.1382,Snebærvej 14,4540,Fårevejle,Other islands,Zealand,6.25,1.99,8.39
+1994-01-31,1994Q1,1468869,Villa,regular_sale,1930,825000,0.0,9,255.0,3235.2942,Stationsvej 6,5260,Odense S,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-31,1994Q1,1468837,Farm,family_sale,1939,1012000,0.0,7,196.0,5163.265,Ramskovvej 8,7550,Sørvad,South jutland,Jutland,6.25,1.99,8.39
+1994-01-31,1994Q1,1468873,Apartment,regular_sale,1876,1750000,0.0,3,68.0,25735.295,"Aster Farimagsgade 16A, 4. tv",2100,København A,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-01-30,1994Q1,1468942,Townhouse,regular_sale,1892,424783,0.0,5,165.0,2574.4424,Havnegade 34,5960,Marstal,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-30,1994Q1,1468918,Villa,regular_sale,1985,770000,0.0,6,150.0,5133.3335,Slibemestervej 34,4684,Holmegaard,Other islands,Zealand,6.25,1.99,8.39
+1994-01-30,1994Q1,1468929,Villa,regular_sale,1964,470000,0.0,7,168.0,2797.6191,Stendyssevej 4,4534,Hørve,Other islands,Zealand,6.25,1.99,8.39
+1994-01-30,1994Q1,1468894,Villa,regular_sale,1976,685000,0.0,4,124.0,5524.1934,Anneksvænget 14,5270,Odense N,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-30,1994Q1,1468895,Villa,regular_sale,1951,725000,0.0,4,102.0,7107.8433,Humlevænget 42,5800,Nyborg,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-29,1994Q1,1468950,Villa,regular_sale,1961,660000,0.0,5,144.0,4583.3335,Voldgade 23,7600,Struer,South jutland,Jutland,6.25,1.99,8.39
+1994-01-27,1994Q1,1469001,Townhouse,regular_sale,1883,584000,0.0,3,80.0,7300.0,Ole Rømers Gade 90,8000,Aarhus C,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-27,1994Q1,1469018,Townhouse,regular_sale,1972,1225000,0.0,4,141.0,8687.943,Elleparken 21,2950,Vedbæk,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-01-27,1994Q1,1469017,Villa,regular_sale,1986,745000,0.0,5,139.0,5359.7124,Dalsbrovej 12,8370,Hadsten,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-26,1994Q1,1469063,Townhouse,regular_sale,1994,613000,0.0,4,103.0,5951.4565,Marienhoffvej 17C,8550,Ryomgård,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-26,1994Q1,1469095,Apartment,regular_sale,1964,2000000,0.0,5,88.0,22727.273,"Borchsvej 14, st. tv",4300,Holbæk,Other islands,Zealand,6.25,1.99,8.39
+1994-01-26,1994Q1,1469084,Apartment,regular_sale,1964,2000000,0.0,2,54.0,37037.035,"Borchsvej 12, 1. tv",4300,Holbæk,Other islands,Zealand,6.25,1.99,8.39
+1994-01-25,1994Q1,1469170,Villa,regular_sale,1969,765000,0.0,5,181.0,4226.5195,Torneåvej 18,7430,Ikast,South jutland,Jutland,6.25,1.99,8.39
+1994-01-25,1994Q1,1469136,Townhouse,regular_sale,1827,465000,0.0,3,124.0,3750.0,Prinsensgade 48,7000,Fredericia,South jutland,Jutland,6.25,1.99,8.39
+1994-01-25,1994Q1,1469148,Villa,regular_sale,1963,800000,0.0,4,150.0,5333.3335,Garvergårdsvej 35,4200,Slagelse,Other islands,Zealand,6.25,1.99,8.39
+1994-01-25,1994Q1,1469151,Villa,family_sale,1874,406678,0.0,7,201.0,2023.2737,Klattrup Bygade 1B,7000,Fredericia,South jutland,Jutland,6.25,1.99,8.39
+1994-01-24,1994Q1,1469213,Apartment,regular_sale,1902,2300000,0.0,4,207.0,11111.111,"Jernbanegade 1C, 4",6000,Kolding,South jutland,Jutland,6.25,1.99,8.39
+1994-01-24,1994Q1,1469192,Apartment,regular_sale,1892,556000,0.0,4,110.0,5054.5454,"Nordre Frihavnsgade 84, 4. th",2100,København A,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-01-24,1994Q1,1469180,Farm,regular_sale,1906,875000,0.0,6,221.0,3959.2761,Tønningvej 6,8740,Brædstrup,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-24,1994Q1,1469181,Apartment,regular_sale,1902,2300000,0.0,5,205.0,11219.512,"Jernbanegade 1C, 2",6000,Kolding,South jutland,Jutland,6.25,1.99,8.39
+1994-01-24,1994Q1,1469207,Villa,regular_sale,1900,289000,0.0,4,100.0,2890.0,Emil Bojsens Gade 36,8700,Horsens,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-23,1994Q1,1469292,Townhouse,regular_sale,1977,252835,0.0,4,123.0,2055.569,Metavej 17,9000,Aalborg,North jutland,Jutland,6.25,1.99,8.39
+1994-01-23,1994Q1,1469313,Villa,regular_sale,1957,894790,0.0,3,97.0,9224.64,Ãgerupvej 47,2700,Brønshøj,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-01-23,1994Q1,1469268,Apartment,regular_sale,1896,2800000,0.0,3,87.0,32183.908,"Rosenørns Alle 39A, 3. tv",1970,Frederiksberg C,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-01-23,1994Q1,1469317,Villa,regular_sale,1962,790000,0.0,3,125.0,6320.0,Anders Nielsens Vej 16,3210,Vejby,North Zealand,Zealand,6.25,1.99,8.39
+1994-01-20,1994Q1,1469356,Apartment,regular_sale,1911,280000,0.0,2,72.0,3888.889,"Bispeengen 13, 1. tv",2000,Frederiksberg,"Capital, Copenhagen",Zealand,6.25,1.99,8.39
+1994-01-19,1994Q1,1469401,Farm,regular_sale,1910,1680000,0.0,7,184.0,9130.435,Truevejen 16,9500,Hobro,North jutland,Jutland,6.25,1.99,8.39
+1994-01-19,1994Q1,1469417,Villa,regular_sale,1952,560000,0.0,7,198.0,2828.2827,Hovedgaden 45,4050,Skibby,Other islands,Zealand,6.25,1.99,8.39
+1994-01-19,1994Q1,1469405,Villa,regular_sale,1974,1085000,0.0,5,182.0,5961.5386,Ahornvej 5,6400,Sønderborg,South jutland,Jutland,6.25,1.99,8.39
+1994-01-19,1994Q1,1469407,Farm,regular_sale,1974,1081000,0.0,6,161.0,6714.2856,Ramsølillevejen 34,4622,Havdrup,Other islands,Zealand,6.25,1.99,8.39
+1994-01-19,1994Q1,1469380,Villa,family_sale,1970,476582,0.0,4,133.0,3583.3232,Tværgyden 161,5300,Kerteminde,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-18,1994Q1,1469448,Villa,regular_sale,1924,400000,0.0,5,187.0,2139.0374,Skovvej 15,9510,Arden,North jutland,Jutland,6.25,1.99,8.39
+1994-01-17,1994Q1,1469478,Villa,regular_sale,1964,581400,0.0,3,66.0,8809.091,Hovedgaden 26,3220,Tisvildeleje,North Zealand,Zealand,6.25,1.99,8.39
+1994-01-17,1994Q1,1469473,Villa,regular_sale,1919,370000,0.0,6,161.0,2298.1367,Frederik 3.s Vej 18,7000,Fredericia,South jutland,Jutland,6.25,1.99,8.39
+1994-01-16,1994Q1,1469562,Villa,regular_sale,1949,495000,0.0,5,141.0,3510.6382,Rugvang 29,5210,Odense NV,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-16,1994Q1,1469560,Villa,regular_sale,1790,450000,0.0,9,269.0,1672.8624,Uge Bygade 15,6360,Tinglev,South jutland,Jutland,6.25,1.99,8.39
+1994-01-16,1994Q1,1469553,Villa,regular_sale,1931,350000,0.0,6,138.0,2536.232,Storegade 48,6862,Tistrup,South jutland,Jutland,6.25,1.99,8.39
+1994-01-14,1994Q1,1469620,Villa,regular_sale,1977,730000,0.0,4,116.0,6293.1035,Mexicovej 4,4200,Slagelse,Other islands,Zealand,6.25,1.99,8.39
+1994-01-12,1994Q1,1469697,Villa,regular_sale,1951,595000,0.0,3,52.0,11442.308,Albert Naurs Vej 23,8270,Højbjerg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-12,1994Q1,1469734,Townhouse,regular_sale,1861,504332,0.0,3,153.0,3296.2876,Brændekilde Bygade 51,5250,Odense SV,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-12,1994Q1,1469716,Apartment,regular_sale,1915,417600,0.0,2,55.0,7592.727,"Oldenborggade 54, 1",7000,Fredericia,South jutland,Jutland,6.25,1.99,8.39
+1994-01-12,1994Q1,1469721,Villa,regular_sale,1877,665000,0.0,6,161.0,4130.4346,Revsøgårdvej 3,6560,Sommersted,South jutland,Jutland,6.25,1.99,8.39
+1994-01-12,1994Q1,1469726,Villa,regular_sale,1958,340820,0.0,4,115.0,2963.652,Vestergade 4,9681,Ranum,North jutland,Jutland,6.25,1.99,8.39
+1994-01-11,1994Q1,1469770,Villa,regular_sale,1972,590000,0.0,4,116.0,5086.207,Kærvej 27,5220,Odense SA,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-11,1994Q1,1469759,Villa,regular_sale,1969,587000,0.0,5,106.0,5537.736,Fraugde Byvej 7,5220,Odense SA,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-10,1994Q1,1469815,Villa,regular_sale,1983,1780000,0.0,7,177.0,10056.497,Lønspjæld 4,4320,Lejre,Other islands,Zealand,6.25,1.99,8.39
+1994-01-10,1994Q1,1469797,Farm,family_sale,1840,380000,0.0,5,169.0,2248.5208,Horskjærvej 4,6780,Skærbæk,South jutland,Jutland,6.25,1.99,8.39
+1994-01-10,1994Q1,1469818,Apartment,regular_sale,1935,300000,0.0,4,77.0,3896.104,"Toldbodvej 1A, st. tv",5700,Svendborg,Fyn & islands,Fyn & islands,6.25,1.99,8.39
+1994-01-10,1994Q1,1469776,Villa,regular_sale,1969,500000,0.0,4,116.0,4310.3447,Nygårdsvej 2,4100,Ringsted,Other islands,Zealand,6.25,1.99,8.39
+1994-01-09,1994Q1,1469830,Apartment,auction,1800,751899,0.0,2,76.0,9893.408,Skovgårdsvænget 4,4573,Højby,Other islands,Zealand,6.25,1.99,8.39
+1994-01-09,1994Q1,1469883,Farm,regular_sale,1907,690000,0.0,4,168.0,4107.143,Nordlundvej 105,7330,Brande,South jutland,Jutland,6.25,1.99,8.39
+1994-01-09,1994Q1,1469859,Apartment,regular_sale,1888,1300000,0.0,3,71.0,18309.86,Roskildevej 101F,3600,Frederikssund,North Zealand,Zealand,6.25,1.99,8.39
+1994-01-09,1994Q1,1469827,Villa,regular_sale,1941,335000,0.0,4,84.0,3988.0952,Haderslevvej 53,6070,Christiansfeld,South jutland,Jutland,6.25,1.99,8.39
+1994-01-08,1994Q1,1469905,Townhouse,regular_sale,1978,935000,0.0,4,139.0,6726.6187,Klokkervej 105,4000,Roskilde,Other islands,Zealand,6.25,1.99,8.39
+1994-01-07,1994Q1,1469910,Villa,regular_sale,1967,330000,0.0,4,118.0,2796.61,Munkekæret 2,9800,Hjørring,North jutland,Jutland,6.25,1.99,8.39
+1994-01-06,1994Q1,1469939,Villa,regular_sale,1976,635000,0.0,5,198.0,3207.0708,Lindenovsvej 63,9330,Dronninglund,North jutland,Jutland,6.25,1.99,8.39
+1994-01-06,1994Q1,1469928,Villa,family_sale,1968,337856,0.0,4,132.0,2559.5151,Korntoften 10,3660,Stenløse,North Zealand,Zealand,6.25,1.99,8.39
+1994-01-06,1994Q1,1469938,Villa,regular_sale,1969,1195000,0.0,5,155.0,7709.6772,Grumstolsvej 63,8270,Højbjerg,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-06,1994Q1,1469948,Summerhouse,regular_sale,1963,300000,0.0,5,98.0,3061.2246,Minkvej 2,3390,Hundested,North Zealand,Zealand,6.25,1.99,8.39
+1994-01-06,1994Q1,1469929,Villa,regular_sale,1965,620000,0.0,4,121.0,5123.967,Midgårdsvej 6,8920,Randers NV,East & mid jutland,Jutland,6.25,1.99,8.39
+1994-01-05,1994Q1,1469988,Apartment,regular_sale,1959,625000,0.0,5,135.0,4629.6294,"Fyrrebakken 30, 2",9000,Aalborg,North jutland,Jutland,6.25,1.99,8.39
+1994-01-03,1994Q1,1470103,Farm,auction,1942,400000,0.0,4,146.0,2739.726,Nibevej 108,9640,Farsø,North jutland,Jutland,6.25,1.99,8.39
+1994-01-02,1994Q1,1470148,Villa,regular_sale,1981,910000,0.0,5,206.0,4417.4756,Mosevangen 15,6710,Esbjerg V,South jutland,Jutland,6.25,1.99,8.39
+1994-01-02,1994Q1,1470160,Villa,regular_sale,1965,525000,0.0,5,110.0,4772.727,Lærkevej 17,3200,Helsinge,North Zealand,Zealand,6.25,1.99,8.39
+1994-01-02,1994Q1,1470140,Farm,regular_sale,1932,1811257,0.0,4,119.0,15220.647,Eveldrupvej 179,9620,Aalestrup,North jutland,Jutland,6.25,1.99,8.39

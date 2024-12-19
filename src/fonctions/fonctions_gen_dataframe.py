@@ -11,6 +11,14 @@ def load_parquet():
     df = pd.read_parquet(f'{wd}/data/bases/DKHousingPrices.parquet')
     return df
 
+def load_csv():
+    """
+    Charge le fichier DKHousePrices.csv
+    """
+    df = pd.read_csv(f'{wd}/data/bases/DKHousingPricesSample100k.csv')
+    return df
+
+
 def dico_generate_dataframe_year(df):
     """
     Génère un dico year:df_year pour chaque année de 1992 à 2024
@@ -26,28 +34,28 @@ def load_concat_year():
     """
 
     for year in list(range(1992, 2022 + 1)):
-        df_year_name = f'{wd}/data/data_year/DKHousing_{year}.csv'
+        df_year_name = f'{wd}/data/train_data_year/DKHousing_{year}.csv'
         if year == 1992:
             df_master = pd.read_csv(df_year_name)
             
         else : 
-            df_master = pd.read_parquet(f'{wd}/data/concat_year/DKHousing_1992_{year-1}.parquet')
+            df_master = pd.read_csv(f'{wd}/data/train_concat_year/DKHousing_1992_{year-1}.csv')
             df = pd.read_csv(df_year_name)
             df_master = pd.concat((df_master, df),axis=0)
         
-        df_master.to_parquet(f'{wd}/data/concat_year/DKHousing_1992_{year}.parquet', index=False)
+        df_master.to_csv(f'{wd}/data/train_concat_year/DKHousing_1992_{year}.csv', index=False)
 
 def load_to_csv(dico):
     """
     Charge chaque dataframe en csv
     """
     for year, df_year in dico.items():
-        df_year.to_csv(f'{wd}/data/data_year/DKHousing_{year}.csv', index=False)
+        df_year.to_csv(f'{wd}/data/train_data_year/DKHousing_{year}.csv', index=False)
 
 def GEN_DF_BY_YEAR():
     """
     """
-    df = load_parquet()
+    df = load_csv()
     dico_year = dico_generate_dataframe_year(df)
     del df
     load_to_csv(dico_year)
