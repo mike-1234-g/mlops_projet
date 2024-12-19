@@ -11,7 +11,7 @@ wd = os.getenv("working_directory")
 from fonctions_traitement import data_v1, drop_variable_cible
 from fonctions_modelisations import dummies
 
-mlflow.set_tracking_uri(uri = f"file:./mlruns")
+mlflow.set_tracking_uri(uri = f"file:{wd}/src/fonctions/mlruns")
 
 def get_experiment(experiment_name = "House Price Prediction"):
     """
@@ -69,7 +69,7 @@ def predict(year):
         """
         experiment_id = get_experiment()
         runs = get_runs(experiment_id)
-        run = get_run_by_name(runs, run_name) #RFR_DKHousing_1992_2020
+        run = get_run_by_name(runs, run_name)
         return get_model_by_run(run)
 
     #MODEL
@@ -82,13 +82,16 @@ def predict(year):
     X_year_n_to_predict_v1 = drop_variable_cible(df_year_n_to_predict_v1)
     X_year_n_to_predict_v1_dummies = dummies(X_year_n_to_predict_v1)
     
+    #PREDICTION
     Y_prediction_n = model.predict(X_year_n_to_predict_v1_dummies)
-    print(Y_prediction_n)
-    
+    df_prediction = pd.DataFrame(Y_prediction_n, columns=[f'Prediction_{year}'])
+    df_prediction = pd.concat([X_year_n_to_predict_v1, df_prediction], axis=1)
+    print(df_prediction.head().to_string())
+    df_prediction.to_csv(f'{wd}/data/prediction_year/prediction_{year}.csv', index=False)
 
 
 def main():
+    for year in [2021, 2022, 2023]:
+        predict(year)
 
-    predict(2021)
-
-main()
+#main()

@@ -1,0 +1,55 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.19
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.0
+mlflow_version: 2.19.0
+model_size_bytes: 494088697
+model_uuid: a3f97454c2844b29a8780b864e6c735d
+run_id: ff2839ab0dff43a799157f2ac63c0bd8
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "year_build", "required": true}, {"type": "long",
+    "name": "no_rooms", "required": true}, {"type": "double", "name": "sqm", "required":
+    true}, {"type": "double", "name": "nom_interest_rate%", "required": true}, {"type":
+    "double", "name": "dk_ann_infl_rate%", "required": true}, {"type": "double", "name":
+    "yield_on_mortgage_credit_bonds%", "required": true}, {"type": "long", "name":
+    "Mois", "required": true}, {"type": "long", "name": "Annee", "required": true},
+    {"type": "long", "name": "Anciennete", "required": true}, {"type": "boolean",
+    "name": "house_type_Apartment", "required": true}, {"type": "boolean", "name":
+    "house_type_Farm", "required": true}, {"type": "boolean", "name": "house_type_Summerhouse",
+    "required": true}, {"type": "boolean", "name": "house_type_Townhouse", "required":
+    true}, {"type": "boolean", "name": "house_type_Villa", "required": true}, {"type":
+    "boolean", "name": "sales_type_auction", "required": true}, {"type": "boolean",
+    "name": "sales_type_family_sale", "required": true}, {"type": "boolean", "name":
+    "sales_type_other_sale", "required": true}, {"type": "boolean", "name": "sales_type_regular_sale",
+    "required": true}, {"type": "boolean", "name": "area_Bornholm", "required": true},
+    {"type": "boolean", "name": "area_Capital, Copenhagen", "required": true}, {"type":
+    "boolean", "name": "area_East & mid jutland", "required": true}, {"type": "boolean",
+    "name": "area_Fyn & islands", "required": true}, {"type": "boolean", "name": "area_North
+    Zealand", "required": true}, {"type": "boolean", "name": "area_North jutland",
+    "required": true}, {"type": "boolean", "name": "area_Other islands", "required":
+    true}, {"type": "boolean", "name": "area_South jutland", "required": true}, {"type":
+    "boolean", "name": "region_Bornholm", "required": true}, {"type": "boolean", "name":
+    "region_Fyn & islands", "required": true}, {"type": "boolean", "name": "region_Jutland",
+    "required": true}, {"type": "boolean", "name": "region_Zealand", "required": true},
+    {"type": "boolean", "name": "Quarter_Q1", "required": true}, {"type": "boolean",
+    "name": "Quarter_Q2", "required": true}, {"type": "boolean", "name": "Quarter_Q3",
+    "required": true}, {"type": "boolean", "name": "Quarter_Q4", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+utc_time_created: '2024-12-19 23:27:00.476847'

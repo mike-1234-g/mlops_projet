@@ -27,7 +27,6 @@ def dico_generate_dataframe_year(df):
     df_per_year = {year: df_year.drop(columns=['year']) for year, df_year in df.groupby('year')}
     return df_per_year
 
-
 def load_train_by_year():
     """
     Charge les dataframes d'entrainement par année en csv dans /data/train_data_year
@@ -67,7 +66,7 @@ def load_predict_for_year(years):
     load_predict_to_csv(dico_keep_years)
 
 
-def load_concat_year():
+def load_train_concat_year():
     """
     Charge les fichiers concat en csv
     """

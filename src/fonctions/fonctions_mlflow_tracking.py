@@ -1,5 +1,4 @@
 import os
-import sys
 import pandas as pd
 import mlflow
 import mlflow.sklearn
@@ -8,16 +7,15 @@ from dotenv import load_dotenv
 
 load_dotenv()
 wd = os.getenv("working_directory")
-#sys.path.append(f'{wd}/src/fonctions')
 
 from fonctions_modelisations import Grid_Search_RFR, Score, Create_Train_Test
 from fonctions_traitement import data_v1
 
-
+mlflow.set_tracking_uri(uri = f"file:{wd}/src/fonctions/mlruns")
 mlflow.set_experiment("House Price Prediction")
-mlflow.set_tracking_uri(uri = f"file:./mlruns")
 
-print(f"Tracking URI: {mlflow.get_tracking_uri()}")
+
+#print(f"Tracking URI: {mlflow.get_tracking_uri()}")
 
 def training_model_RFR(dataset_path):
     """
@@ -48,13 +46,7 @@ def training_model_RFR(dataset_path):
     
     return  dico_RFR
 
-def test():
-
-    dataset_path = f'{wd}/data/train_concat_year/DKHousing_1992_2022.csv'
-    print(training_model_RFR(dataset_path))
-    
-
-def main():
+def train_and_track_models():
 
     dataset_path = f'{wd}/data/train_concat_year/DKHousing_1992_2022.csv'
 
@@ -74,10 +66,6 @@ def main():
         signature = dico_info['signature']
 
         print(model_name, '\n', model, '\n', params, '\n', metrics)
-
-        if mlflow.active_run():
-            print(f"Run actif détecté : {mlflow.active_run().info.run_id}")
-            mlflow.end_run()
         
         with mlflow.start_run(run_name=model_name, nested=True) as run:
 
@@ -103,6 +91,8 @@ def main():
 
             mlflow.sklearn.log_model(model, "model", signature=signature, input_example=input_example)
 
-#mlflow server --host localhost --port 5000 --backend-store-uri file:mlops_projet/src/mlruns
-main()
+def main():
+    train_and_track_models()
+
+#main()
     
