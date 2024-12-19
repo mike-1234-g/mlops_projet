@@ -93,7 +93,7 @@ def Score(model, X_test, y_test):
 
     dico_metrics={"R2":r2, "RMSE":float(rmse), "MAE": mae, "MAPE": float(mape)}
     
-    return dico_metrics 
+    return dico_metrics, y_pred
 
 
 def main():
