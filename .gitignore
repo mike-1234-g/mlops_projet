@@ -1,2 +1,2 @@
 .env
-src/mlruns/**/*.pkl
+src/fonctions/mlruns/**/*.pkl

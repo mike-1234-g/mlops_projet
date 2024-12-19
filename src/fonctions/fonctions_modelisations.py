@@ -10,15 +10,23 @@ from fonctions_traitement import data_v1
 load_dotenv()
 wd = os.getenv("working_directory")
 
+def dummies(df):
+    """
+    Crée les dummies pour les variables non numeric
+    Retourne le dataset X prêt à être utilisé dans les modeles
+    """
+    X_non_numeric = df.select_dtypes(exclude=['number'])
+    X_numeric = df.select_dtypes(include=['number'])
+    X_dummies = pd.get_dummies(X_non_numeric)
+    X = pd.concat([X_numeric, X_dummies], axis=1)
+    return X
+
 def Create_Train_Test(df):
     """
     Créer les dataframes de test et d'entraînement 
     """
     y = df.pop('purchase_price')
-    X_non_numeric = df.select_dtypes(exclude=['number'])
-    X_numeric = df.select_dtypes(include=['number'])
-    X_dummies = pd.get_dummies(X_non_numeric)
-    X = pd.concat([X_numeric, X_dummies], axis=1)
+    X = dummies(df)
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
 
     return X_train, X_test, y_train, y_test

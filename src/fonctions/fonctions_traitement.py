@@ -27,13 +27,22 @@ def data_v1(bdd):
     
     return df_new
 
+def drop_variable_cible(df):
+    """
+    Drop la variable cible purchase_price de df pour préparer les prédictions
+    """
+    df.drop('purchase_price', axis=1, inplace=True)
+    return df
+
 def load_to_parquet(df):
     """
+    Charge le df au format .parquet
     """
     df.to_parquet(f"{wd}/data/versions_data/data_v1.parquet", index=False)
 
 def load():
     """
+    Charge le data_v1 au format .parquet
     """
     bdd = pd.read_parquet(f"{wd}/data/bases/DKHousingPrices.parquet")
     data_V1 = data_v1(bdd)
