@@ -51,39 +51,6 @@ def Grid_Search_RFR(X_train, y_train):
 
     return grid_search, best_model
 
-def Grid_Search_LR(X_train, y_train):
-    """
-    Compute le RandomForestRegressor en appliquant un GridSearchCV
-    """
-    param_grid = {
-    'fit_intercept': [True, False]
-    }
-
-    linear_regressor = LinearRegression()
-    grid_search = GridSearchCV(linear_regressor,param_grid,cv=5,scoring='r2',n_jobs=5)
-    grid_search_fit = grid_search.fit(X_train, y_train)
-    best_model = grid_search_fit.best_estimator_
-
-    return grid_search, best_model
-
-def random_forest_regressor(params=None):
-    """
-    Compute Random Forest Regressor et retourne le modèle entraîné
-    """
-    if params is None:
-        params = {}
-    model = RandomForestRegressor(random_state=42, **params)
-    
-    return model
-
-def linear_regressor():
-    """
-    Compute Linear Regressor et retourne le modèle entrainé 
-    """
-    model = LinearRegression(fit_intercept=True)
-
-    return model
-
 def MAPE(y_true, y_pred):
     return np.mean(np.abs((y_true - y_pred)/y_true))*100
 

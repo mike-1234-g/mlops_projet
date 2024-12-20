@@ -1,10 +1,13 @@
 # MLOps Project: Predicting House Prices
 
 ## Objective
-The goal of this project is to predict house purchase prices for the years 2021 to 2023 based on a database containing house characteristics and their purchase prices between 1992 and 2020.
+The goal of this project is to predict house purchase prices for the years 2021 to 2023 based on a database containing house characteristics and their purchase prices between 1992 and 2022.
+With this project, we are simulating a production environnement by updating our models based on the newer data.
+Starting with the data between 1992 and 2020, we are training a model that will predict houses prices for 2021. We repeat the operations to train a new model on data between 1992 and 2021 to predict 2022 and so on for the prediction of year 2023.
+We are using mlflow to track and store our models over the year. It also allow us to get back the exact models we trained to make the predictions.
 
 ## Installation and Usage
-1. **Set Up Environment**: create a *.env* file where you instantiate variable called "working_directory" that specifies the path to the mlops project
+1. **Set Up Environment**: create a *.env* file where you instantiate a variable called "working_directory" that specifies the path to the mlops project
 for example : *working_directory = "<absolute/path/to/the/project>/mlops_projet"*
 2. **Create a virtual environment and install dependencies**: 
    ```bash
@@ -18,7 +21,7 @@ for example : *working_directory = "<absolute/path/to/the/project>/mlops_projet"
    # install the dependencies
    pip install -r requirements.txt
    ```
-3. **GIT LFS**: Git LFS (Large File Storage) is used to efficiently manage large files like `.plk` files, which are binary files often generated in machine learning workflows. In our case, we are using it because MLflow generates `.plk` files which are too big to handle by a classic git repository.
+3. **GIT LFS**: Git LFS (Large File Storage) is used to efficiently manage large files like `.plk` files, which are binary files often generated in machine learning workflows. In our case, we are using it because MLflow generates `.plk` files which are too big to handle by a classic git repository. This step is mandatory to make the whole workflows works. Indeed, the `.plk` files defines models and if you dont have those in your project, you'll not be able to predict the price over the years. Make sure you have those files!!!
 To do it through mac (Homebrew):
    ```bash
    brew install git-lfs
@@ -29,6 +32,8 @@ For both windows and mac users:
    ```
 Once these steps are completed, you should be able to see models `.plk` in the mlrun folder. For example : 
 "<absolute/path/to/the/project>/mlops_projet/src/fonctions/mlruns/711528715738709649/88133a887d4348efbf5b09ffcde7841d/artifacts/model"
+If you still don't see them after pulling the repo, you might want to delete the project and git clone it back.
+
 4. **Run the Pipeline**:
    - Execute the `DEMO` notebook to run the full workflow or use individual scripts in `src/fonctions` for specific steps.
 

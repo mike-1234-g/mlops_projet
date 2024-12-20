@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import mlflow
 import mlflow.sklearn
+import shutil
 from mlflow.models import infer_signature
 from dotenv import load_dotenv
 
@@ -14,8 +15,22 @@ from fonctions_traitement import data_v1
 mlflow.set_tracking_uri(uri = f"file:{wd}/src/fonctions/mlruns")
 mlflow.set_experiment("House Price Prediction")
 
-
 #print(f"Tracking URI: {mlflow.get_tracking_uri()}")
+
+def clear_experiment_runs(experiment_id, mlruns_path):
+    """Supprime tous les runs contenus dans un experiment MLflow."""
+    experiment_path = os.path.join(mlruns_path, experiment_id)
+    
+    if os.path.exists(experiment_path):
+        for item in os.listdir(experiment_path):
+            item_path = os.path.join(experiment_path, item)
+            # Ne supprime que les dossiers (qui contiennent les runs)
+            if os.path.isdir(item_path):
+                shutil.rmtree(item_path)  # Supprime le dossier de run
+                print(f"Run supprimé : {item_path}")
+    else:
+        print(f"Le chemin de l'expériment '{experiment_path}' n'existe pas.")
+        
 
 def training_model_RFR(dataset_path):
     """
@@ -90,6 +105,7 @@ def train_and_track_models():
             mlflow.log_metric('MAPE', metrics['MAPE'])
 
             mlflow.sklearn.log_model(model, "model", signature=signature, input_example=input_example)
+def main():
+    train_and_track_models()
 
-
-    
+main()

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexanderlunel/Documents/LILLE/Master/MasterSIAD/M2/MLOps/PROJET/mlops_projet/src/fonctions/mlruns/237169053876677828/5e69da3f8673417d9707dd2e5f7fb3e7/artifacts
+end_time: 1734722205312
+entry_point_name: ''
+experiment_id: '237169053876677828'
+lifecycle_stage: active
+run_id: 5e69da3f8673417d9707dd2e5f7fb3e7
+run_name: RFR_DKHousing_1992_2020
+run_uuid: 5e69da3f8673417d9707dd2e5f7fb3e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734722199759
+status: 3
+tags: []
+user_id: alexanderlunel

@@ -34,41 +34,28 @@ def drop_variable_cible(df):
     df.drop('purchase_price', axis=1, inplace=True)
     return df
 
-def load_to_parquet(df):
-    """
-    Charge le df au format .parquet
-    """
-    df.to_parquet(f"{wd}/data/versions_data/data_v1.parquet", index=False)
+### Fonctions d'analyse de la base de données
 
-def load():
-    """
-    Charge le data_v1 au format .parquet
-    """
-    bdd = pd.read_parquet(f"{wd}/data/bases/DKHousingPrices.parquet")
-    data_V1 = data_v1(bdd)
-    load_to_parquet(data_V1)
+#données manquantes
 
+def pct_mq(df):
+    taille_bdd = len(df)
+    nb_lignes_avec_na = df.isna().any(axis=1).sum()
+    pct_na = round(nb_lignes_avec_na/taille_bdd*100,2)
+    print(f"Pct avec données manquantes : {pct_na}%")
 
-# données manquantes
+    # données manquantes représentent 0.08% de la database
 
-# def pct_mq(df):
-#     taille_bdd = len(df)
-#     nb_lignes_avec_na = df.isna().any(axis=1).sum()
-#     pct_na = round(nb_lignes_avec_na/taille_bdd*100,2)
-#     print(f"Pct avec données manquantes : {pct_na}%")
+def pct_mq_col(df):
+    taille_bdd = len(df)
+    nb_na = df.isna().sum()
+    print(nb_na/taille_bdd*100)
 
-#     # données manquantes représentent 0.08% de la database
+    # données mq présentes dans les colonnes city, df_ann_inf_rate et yield_on_mortgage 
 
-# def pct_mq_col(df):
-#     taille_bdd = len(df)
-#     nb_na = df.isna().sum()
-#     print(nb_na/taille_bdd*100)
-
-#     # données mq présentes dans les colonnes city, df_ann_inf_rate et yield_on_mortgage 
-
-# def vis_manquantes(df):
-#     bdd_na_vis = df[df.isnull().any(axis=1)]
-#     print(bdd_na_vis.head(10))
+def vis_manquantes(df):
+    bdd_na_vis = df[df.isnull().any(axis=1)]
+    print(bdd_na_vis.head(10))
 
 # données abérrantes
 
