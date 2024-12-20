@@ -31,7 +31,7 @@ For both windows and mac users:
    git lfs install
    ```
 Once these steps are completed, you should be able to see models `.plk` in the mlrun folder. For example : 
-"<absolute/path/to/the/project>/mlops_projet/src/fonctions/mlruns/711528715738709649/88133a887d4348efbf5b09ffcde7841d/artifacts/model"
+"<absolute/path/to/the/project>/mlops_projet/src/fonctions/mlruns/711528715738709649/88133a887d4348efbf5b09ffcde7841d/artifacts/model/model.pkl"
 If you still don't see them after pulling the repo, you might want to delete the project and git clone it back.
 
 4. **Run the Pipeline**:
