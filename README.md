@@ -83,3 +83,4 @@ Contains visualizations and analyses of qualitative variables from the database,
   - Evaluates model performance using multiple metrics.
 - **Scalability**:
   - Efficient handling of large datasets using parquet format.
+
