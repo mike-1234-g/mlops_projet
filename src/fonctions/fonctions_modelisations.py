@@ -104,16 +104,6 @@ def Score(model, X_test, y_test):
     return dico_metrics, y_pred
 
 
-def main():
-    """
-    """
-    df = pd.read_csv(f'{wd}/data/train_concat_year/DKHousing_1992_2022.csv')
-    df_v1 = data_v1(df)
-    X_train, X_test, y_train, y_test = Create_Train_Test(df_v1)
-    GS_RFR, best_RFR = Grid_Search_RFR(X_train, y_train)
-    dico_metrics = Score(best_RFR, X_test, y_test)
-    print(best_RFR.get_params())
-    print(dico_metrics)
 
 
 

@@ -91,8 +91,5 @@ def train_and_track_models():
 
             mlflow.sklearn.log_model(model, "model", signature=signature, input_example=input_example)
 
-def main():
-    train_and_track_models()
 
-#main()
     

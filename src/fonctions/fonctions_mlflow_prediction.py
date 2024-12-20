@@ -89,9 +89,3 @@ def predict(year):
     print(df_prediction.head().to_string())
     df_prediction.to_csv(f'{wd}/data/prediction_year/prediction_{year}.csv', index=False)
 
-
-def main():
-    for year in [2021, 2022, 2023]:
-        predict(year)
-
-#main()

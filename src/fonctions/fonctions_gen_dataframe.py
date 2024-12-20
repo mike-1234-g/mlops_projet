@@ -82,8 +82,3 @@ def load_train_concat_year():
             df_master = pd.concat((df_master, df),axis=0)
         
         df_master.to_csv(f'{wd}/data/train_concat_year/DKHousing_1992_{year}.csv', index=False)
-
-def main():
-    years = [2021, 2022, 2023]
-    load_predict_for_year(years)
-main()
